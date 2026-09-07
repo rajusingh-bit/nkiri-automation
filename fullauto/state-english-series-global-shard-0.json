@@ -153,10 +153,10 @@
    "completed_at": 1788789124
   },
   "https://thenkiri.com/lets-marry-harry-s1-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "163653|https://thenkiri.com/lets-marry-harry-s1-complete-tv-series/|2026-08-05T12:32:44|2026-08-12T10:51:35|{'rendered': 'Let’s Marry Harry S1 (Complete) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788812360.2354584
+   "modified": "2026-08-12T10:51:35",
+   "completed_at": 1788817827
   },
   "https://thenkiri.com/the-rapture-complete-tv-series/": {
    "status": "pending",
@@ -200,6 +200,12 @@
    "signature": "161407|https://thenkiri.com/the-five-star-weekend-complete-tv-series/|2026-07-09T15:50:28|2026-07-09T16:34:31|{'rendered': 'The Five Star Weekend (Complete) | TV Series'}",
    "modified": "2026-07-09T16:34:31",
    "completed_at": 1788813038
+  },
+  "https://thenkiri.com/the-season-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "159643|https://thenkiri.com/the-season-s01-complete-tv-series/|2026-06-17T16:55:41|2026-06-17T16:55:41|{'rendered': 'The Season S01 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788821747.7412698
   }
  },
  "series_links": {
@@ -417,6 +423,13 @@
   "https://downloadwella.com/n66f1t8dvikn/The.Five.Star.Weekend.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HwIyPWAU1SG-lLGJkaUxkC5TIQ97UM7j",
   "https://downloadwella.com/qlaqsdynas9f/The.Five.Star.Weekend.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FTqdAR40lEM6Mnr4kh9UY5KEIJwsCIOp",
   "https://downloadwella.com/7vvenjogum4v/The.Five.Star.Weekend.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jlj8YcPE9HXByIhVect0qR3ncf-_9JDv",
-  "https://downloadwella.com/a8reomnb8foe/The.Five.Star.Weekend.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YHMmMFWpFnhFeKZHAp70FDivQrFfkr21"
+  "https://downloadwella.com/a8reomnb8foe/The.Five.Star.Weekend.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YHMmMFWpFnhFeKZHAp70FDivQrFfkr21",
+  "https://downloadwella.com/qe6cier9mcso/Lets.Marry.Harry.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0EkE4w14VV0uoTP3jqU_Djt31Mv6VXMq",
+  "https://downloadwella.com/qwrbm4e0jfi1/Lets.Marry.Harry.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cJHcdy5aztaJyfw9KwDWUUXv72fY7oon",
+  "https://downloadwella.com/s3fy2xb6k9je/The.Season.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mO73RSZ4mycqSa-s21N0DMvkq0jsQL3U",
+  "https://downloadwella.com/fqvnvdesrfj4/The.Season.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M0p--xjeQYK7N-N6KcGlYayI7fHjxcgy",
+  "https://downloadwella.com/1056u7pex7zt/The.Season.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RPX1AETkpfjd1MgNQemQn-_RHdv9uLb9",
+  "https://downloadwella.com/64gzngu49d0l/The.Season.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1RoYHkdAAHRLNsCRCYl1EhgRPA5bxPxH",
+  "https://downloadwella.com/lik10d7r7wkm/The.Season.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rhTSeolpbeOYAYD5JIcMqAZ2JaIN62FC"
  }
 }

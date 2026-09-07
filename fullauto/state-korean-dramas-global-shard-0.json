@@ -169,16 +169,16 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/the-judge-from-hell-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "done",
    "signature": "121735|https://thenkiri.com/the-judge-from-hell-s01-complete-korean-drama/|2024-09-21T16:40:28|2024-11-02T16:30:17|{'rendered': 'The Judge from Hell S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788814852.0441556
+   "modified": "2024-11-02T16:30:17",
+   "completed_at": 1788818958
   },
   "https://thenkiri.com/dreaming-of-freaking-fairytale-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "116319|https://thenkiri.com/dreaming-of-freaking-fairytale-s01-complete-korean-drama/|2024-05-31T13:32:02|2024-06-28T11:02:33|{'rendered': 'Dreaming of Freaking Fairytale S01 (Episode 9 & 10 Added) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788816667.85148
+   "attempts": 2,
+   "last_attempt": 1788818975.47672
   }
  },
  "series_links": {
@@ -480,6 +480,8 @@
   "https://downloadwella.com/smn4mwge90ae/Dreaming.of.a.Freaking.Fairy.Tale.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wAk31lJsfSE5l60P1eW03kBOYarfeYip",
   "https://downloadwella.com/vyihfik1jwi9/Dreaming.of.a.Freaking.Fairy.Tale.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dk1UogJXRKEV_9oL5ymckzbRUPKV90jM",
   "https://downloadwella.com/io419jx9lbnw/Dreaming.of.a.Freaking.Fairy.Tale.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CPWRH7trcst6ycw1c0wJ78GbIzRbAEUy",
-  "https://downloadwella.com/9pnp9i7tjksw/Dreaming.of.a.Freaking.Fairy.Tale.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pbMdQWfqXhzxUYh4lIl1EHiA16fmI1eG"
+  "https://downloadwella.com/9pnp9i7tjksw/Dreaming.of.a.Freaking.Fairy.Tale.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pbMdQWfqXhzxUYh4lIl1EHiA16fmI1eG",
+  "https://downloadwella.com/4dyioda2k87y/The.Judge.From.Hell.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RdDPWHoRjXh4LPp2DI10Pb-JoUaxmgaH",
+  "https://downloadwella.com/ulcqkank4qy1/The.Judge.From.Hell.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7MoG4JyP-I0O85g59eumZylUTaYIeFKZ"
  }
 }

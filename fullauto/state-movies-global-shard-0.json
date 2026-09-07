@@ -1097,10 +1097,52 @@
    "completed_at": 1788812929
   },
   "https://thenkiri.com/the-pass-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "100376|https://thenkiri.com/the-pass-2023-download-hollywood-movie/|2023-09-28T18:00:53|2023-09-28T18:00:53|{'rendered': 'The Pass (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-28T18:00:53",
+   "completed_at": 1788817755
+  },
+  "https://thenkiri.com/biosphere-2023-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "93030|https://thenkiri.com/biosphere-2023-download-hollywood-movie/|2023-07-07T19:24:56|2023-09-02T17:16:11|{'rendered': 'Biosphere (2023) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788812938.909763
+   "last_attempt": 1788817756.6017804
+  },
+  "https://thenkiri.com/gate-2018-download-korean-movie/": {
+   "status": "done",
+   "signature": "88289|https://thenkiri.com/gate-2018-download-korean-movie/|2023-04-30T06:16:26|2023-09-02T17:47:18|{'rendered': 'Gate (2018) | Download Korean Movie'}",
+   "modified": "2023-09-02T17:47:18",
+   "completed_at": 1788820215
+  },
+  "https://thenkiri.com/the-inspection-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "82464|https://thenkiri.com/the-inspection-2022-download-hollywood-movie/|2023-02-16T15:55:18|2023-09-02T17:14:58|{'rendered': 'The Inspection (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788820218.1187544
+  },
+  "https://thenkiri.com/the-age-of-blood-2017-download-korean-movie/": {
+   "status": "done",
+   "signature": "75892|https://thenkiri.com/the-age-of-blood-2017-download-korean-movie/|2022-12-09T08:56:21|2023-09-02T13:58:11|{'rendered': 'The Age of Blood (2017) | Download Korean Movie'}",
+   "modified": "2023-09-02T13:58:11",
+   "completed_at": 1788820676
+  },
+  "https://thenkiri.com/smile-2022-korsub-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "70390|https://thenkiri.com/smile-2022-korsub-download-hollywood-movie/|2022-11-03T15:00:02|2023-09-02T16:33:35|{'rendered': 'Smile (2022) KORSUB | Download Hollywood Movie'}",
+   "modified": "2023-09-02T16:33:35",
+   "completed_at": 1788821197
+  },
+  "https://thenkiri.com/minions-and-more-1-2022-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "66945|https://thenkiri.com/minions-and-more-1-2022-download-hollywood-movie/|2022-10-02T08:45:19|2024-02-23T21:03:26|{'rendered': 'Minions & More 1 (2022) | Download Hollywood Movie'}",
+   "modified": "2024-02-23T21:03:26",
+   "completed_at": 1788821666
+  },
+  "https://thenkiri.com/day-shift-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "59332|https://thenkiri.com/day-shift-2022-download-hollywood-movie/|2022-08-17T17:26:18|2023-09-02T15:09:53|{'rendered': 'Day Shift (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788821668.4049804
   }
  },
  "series_links": {
@@ -1310,6 +1352,11 @@
   "https://downloadwella.com/edwno8mk1ofj/Escape.(NKIRI.COM).2024.WebRip.ESub.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/FuMD5WmMk3FzDjUR0HHA3qQNavTXrLF3",
   "https://downloadwella.com/j58unjtkn5nl/Miss.Fortune.(NKIRI.COM).2023.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/BE9CRm_J5HnuVNvIDQu5sk8tzmSihRNm",
   "https://downloadwella.com/tf0qnxho075n/My.Name.Is.Loh.Kiwan.(NKIRI.COM).2024.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/DErfO9jZ_4HYS98SQCTxTwtrQITl5x6F",
-  "https://downloadwella.com/nkypoucudzit/The.Shepherd.(NKIRI.COM).2023.DSNP.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/VzFbxJf5xZTDiSPlpr_IBJ0paMNzcPLW"
+  "https://downloadwella.com/nkypoucudzit/The.Shepherd.(NKIRI.COM).2023.DSNP.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/VzFbxJf5xZTDiSPlpr_IBJ0paMNzcPLW",
+  "https://downloadwella.com/j13d5or7ur8z/The.Pass.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/wJrU5l6E_eXYOTb6NHKzlWFjwPsD2_8K",
+  "https://downloadwella.com/rz1d8bseghkt/Gate.(NKIRI.COM).2018.KOREAN.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/N-ozkLOMLRre4JtbPohxU52id0HBynUW",
+  "https://downloadwella.com/27qnud9veddy/The.Age.Of.Blood.(NKIRI.COM).2017.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZH3Am27fxUMY9fVaro3YV4c0gwNXYWsX",
+  "https://downloadwella.com/s7mluxgr86uj/Smile.2022.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I4syu2tKW6ZKCI6LKe1jtf7d4NvsOuDq",
+  "https://downloadwella.com/nmx5ua9edt60/Minions.More.1.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/5YeyA3stfAc-6aIcALn18d9c5fLbI-kE"
  }
 }
