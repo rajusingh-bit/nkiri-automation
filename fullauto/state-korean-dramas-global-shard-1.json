@@ -181,16 +181,32 @@
    "completed_at": 1788819321
   },
   "https://thenkiri.com/gyeongseong-creature-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "105657|https://thenkiri.com/gyeongseong-creature-complete-korean-drama/|2023-12-22T15:19:17|2024-02-27T15:09:03|{'rendered': 'Gyeongseong Creature S01 (Episodes 8 -10 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788837406.0633636
+   "last_attempt": 1788837406.0633636,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841534
   },
   "https://thenkiri.com/han-river-police-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "99597|https://thenkiri.com/han-river-police-s01-complete-korean-drama/|2023-09-13T13:26:45|2024-02-23T15:03:33|{'rendered': 'Han River Police S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788837591.4585168
+   "last_attempt": 1788837591.4585168,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841534
+  },
+  "https://thenkiri.com/king-the-land-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "91736|https://thenkiri.com/king-the-land-complete-korean-drama/|2023-06-17T16:36:26|2023-09-02T18:12:18|{'rendered': 'King the Land S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788842190.454536
+  },
+  "https://thenkiri.com/payback-money-and-power-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "79234|https://thenkiri.com/payback-money-and-power-complete-korean-drama/|2023-01-07T06:53:47|2023-12-15T05:46:29|{'rendered': 'Payback: Money and Power (Episode 12 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788843398.9978123
   }
  },
  "series_links": {
@@ -487,6 +503,10 @@
   "https://downloadwella.com/lgdxzrni7a4n/High.School.Return.of.a.Gangster.E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RsuKWj1xcUNUtO34JEJOs53uWiS9Qu2A",
   "https://downloadwella.com/scxclpcqk94o/High.School.Return.of.a.Gangster.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PuudvjClQeJ4J1NLGdy0oDsHxISRHeqw",
   "https://downloadwella.com/1zcs94vi5yka/High.School.Return.of.a.Gangster.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4IlsIhHhkP_5mEXowKqD93DACKb5Dlio",
-  "https://downloadwella.com/8dhiomegqvem/High.School.Return.of.a.Gangster.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R8mtVq665ImgpiagY4p9RfFgs5GSnRgv"
+  "https://downloadwella.com/8dhiomegqvem/High.School.Return.of.a.Gangster.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R8mtVq665ImgpiagY4p9RfFgs5GSnRgv",
+  "https://downloadwella.com/dic1mll9bh9w/Payback.Money.and.Power.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JEwFzGllg_PiB2_JijKDk__nqF5VTYxM",
+  "https://downloadwella.com/81zlxh5c82dq/Payback.Money.and.Power.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o-zlpjj_4dD0AEzI6E3nsYAJjf6Kf862",
+  "https://downloadwella.com/h8le7vgkntg2/Payback.Money.and.Power.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P3ycJId1jMY4SJkdBU23wB_hPaLvNVjY",
+  "https://downloadwella.com/vfsy8oytzen0/Payback.Money.and.Power.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YtdOoEVGmNfHRaRSGg-4CbTVkGqFQ_B8"
  }
 }

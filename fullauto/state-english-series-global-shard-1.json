@@ -208,16 +208,32 @@
    "completed_at": 1788820426
   },
   "https://thenkiri.com/not-suitable-for-work-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158312|https://thenkiri.com/not-suitable-for-work-complete-tv-series/|2026-06-02T08:50:25|2026-06-23T08:50:27|{'rendered': 'Not Suitable for Work (Episode 8 & 9 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788837447.9069786
+   "last_attempt": 1788837447.9069786,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841519
   },
   "https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "157078|https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/|2026-05-15T16:39:00|2026-05-15T16:39:00|{'rendered': 'Berlin and the Lady with an Ermine S01 (Complete) | Foreign TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788837689.9288754
+   "last_attempt": 1788837689.9288754,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841519
+  },
+  "https://thenkiri.com/hacks-s05-complete-tv-series/": {
+   "status": "pending",
+   "signature": "155651|https://thenkiri.com/hacks-s05-complete-tv-series/|2026-04-29T11:31:01|2026-05-29T08:21:40|{'rendered': 'Hacks S05 (Episode 10 Added)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788841867.026382
+  },
+  "https://thenkiri.com/gotham-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "154680|https://thenkiri.com/gotham-s01-complete-tv-series/|2026-04-18T09:54:03|2026-04-18T16:43:39|{'rendered': 'Gotham S01 (Complete) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788843074.71259
   }
  },
  "series_links": {
@@ -455,6 +471,9 @@
   "https://downloadwella.com/ap972al0wx4k/The.Polygamist.S01E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_TsLSLS15ruvva_MesOyIYlu3vNZbHL9",
   "https://downloadwella.com/dw9gv137pijn/The.Polygamist.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CrEVTVN-3oVMdvDXUIbpvILYcjhdI09E",
   "https://downloadwella.com/n6l680lnh0bt/The.Polygamist.S01E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SiwG5-Cd30CmTM4COiuy0OpRoITajhHw",
-  "https://downloadwella.com/2s30ek6e6fy0/The.Polygamist.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PmKPqJmRyN_chFPRTk3WZBx2XBTDzrxc"
+  "https://downloadwella.com/2s30ek6e6fy0/The.Polygamist.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PmKPqJmRyN_chFPRTk3WZBx2XBTDzrxc",
+  "https://downloadwella.com/foghhzmxawmc/Gotham.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BneKqdftlkgnhWt0rY9uG31dm90Th8Qc",
+  "https://downloadwella.com/vybsqzzzudn1/Gotham.S01E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iPgtcUcdsrz-yETR3LytGNHpmHfRTT4a",
+  "https://downloadwella.com/t0q325jae4b1/Gotham.S01E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5QQPPQa6O6gcUruIWtaH2mXolDZXZd9X"
  }
 }
