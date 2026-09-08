@@ -177,8 +177,14 @@
   "https://thenkiri.com/no-gain-no-love-complete-korean-drama/": {
    "status": "pending",
    "signature": "120301|https://thenkiri.com/no-gain-no-love-complete-korean-drama/|2024-08-26T15:48:59|2024-10-01T16:38:45|{'rendered': 'No Gain No Love (Episode 12 Added) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788828879.57243
+  },
+  "https://thenkiri.com/the-brave-yong-soo-jung-s01-episode-1-10-added-korean-drama/": {
+   "status": "pending",
+   "signature": "115741|https://thenkiri.com/the-brave-yong-soo-jung-s01-episode-1-10-added-korean-drama/|2024-05-19T12:49:29|2024-11-16T10:59:03|{'rendered': 'The Brave Yong Soo-jung S01 (Episode 123 & 124 Added) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788811886.075477
+   "last_attempt": 1788832696.9840167
   }
  },
  "series_links": {

@@ -1069,20 +1069,20 @@
   "https://thenkiri.com/following-2024-download-korean-movie/": {
    "status": "pending",
    "signature": "125272|https://thenkiri.com/following-2024-download-korean-movie/|2024-11-18T09:02:06|2024-11-18T09:02:06|{'rendered': 'Following (2024) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788808015.7400696
+   "attempts": 2,
+   "last_attempt": 1788828660.0298185
   },
   "https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/": {
    "status": "pending",
    "signature": "119602|https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/|2024-08-13T08:00:31|2024-08-13T08:00:31|{'rendered': 'We Are Zombies (2024) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788808016.7457798
+   "attempts": 2,
+   "last_attempt": 1788828661.1112704
   },
   "https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/": {
    "status": "pending",
    "signature": "115321|https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/|2024-05-13T06:12:14|2024-05-13T06:12:14|{'rendered': 'The Hunger Games Complete Collection | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788808017.3236988
+   "attempts": 2,
+   "last_attempt": 1788828661.6715758
   },
   "https://thenkiri.com/orion-and-the-dark-2024-download-hollywood-movie/": {
    "status": "done",
@@ -1096,6 +1096,36 @@
    "signature": "99839|https://thenkiri.com/the-haunting-at-saint-josephs-2023-download-hollywood-movie/|2023-09-18T19:33:55|2023-09-18T19:33:55|{'rendered': 'The Haunting at Saint Joseph’s (2023) | Download Hollywood Movie'}",
    "modified": "2023-09-18T19:33:55",
    "completed_at": 1788809865
+  },
+  "https://thenkiri.com/gangnam-zombie-2023-download-korean-movie/": {
+   "status": "pending",
+   "signature": "92695|https://thenkiri.com/gangnam-zombie-2023-download-korean-movie/|2023-07-03T17:05:24|2023-09-02T17:09:30|{'rendered': 'Gangnam Zombie (2023) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828693.665049
+  },
+  "https://thenkiri.com/tomb-of-the-river-2023-download-korean-movie/": {
+   "status": "pending",
+   "signature": "87901|https://thenkiri.com/tomb-of-the-river-2023-download-korean-movie/|2023-04-25T01:32:04|2023-09-02T17:44:22|{'rendered': 'Tomb of the River (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828694.971464
+  },
+  "https://thenkiri.com/2037-2022-download-korean-movie-2/": {
+   "status": "pending",
+   "signature": "82038|https://thenkiri.com/2037-2022-download-korean-movie-2/|2023-02-10T17:13:59|2023-09-02T17:05:04|{'rendered': '2037 (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828757.199816
+  },
+  "https://thenkiri.com/5-25-77-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "75107|https://thenkiri.com/5-25-77-2022-download-hollywood-movie/|2022-12-02T12:55:09|2023-09-02T13:55:53|{'rendered': '5-25-77 (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828791.1013935
+  },
+  "https://thenkiri.com/gigi-and-nate-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "70144|https://thenkiri.com/gigi-and-nate-2022-download-hollywood-movie/|2022-11-01T13:58:58|2024-02-24T19:47:13|{'rendered': 'Gigi and Nate (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788828830.3589633
   }
  },
  "series_links": {

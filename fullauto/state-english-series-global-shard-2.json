@@ -204,8 +204,14 @@
   "https://thenkiri.com/ground-up-s01-complete-tv-series/": {
    "status": "pending",
    "signature": "159449|https://thenkiri.com/ground-up-s01-complete-tv-series/|2026-06-15T15:41:50|2026-06-15T15:41:50|{'rendered': 'Ground Up S01 (Complete) | TV Series'}",
+   "attempts": 2,
+   "last_attempt": 1788828727.2178342
+  },
+  "https://thenkiri.com/love-island-s13-episode-1-added-tv-series/": {
+   "status": "pending",
+   "signature": "158306|https://thenkiri.com/love-island-s13-episode-1-added-tv-series/|2026-06-02T08:46:01|2026-07-29T13:10:11|{'rendered': 'Love Island S13 (Complete) | TV Series'}",
    "attempts": 1,
-   "last_attempt": 1788811107.542558
+   "last_attempt": 1788830557.091394
   }
  },
  "series_links": {
