@@ -1109,52 +1109,92 @@
    "completed_at": 1788817931
   },
   "https://thenkiri.com/my-shining-revenge-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "92467|https://thenkiri.com/my-shining-revenge-2023-download-korean-movie/|2023-06-29T13:24:23|2023-09-02T17:12:08|{'rendered': 'My Shining Revenge (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837181.2347262
+   "last_attempt": 1788837181.2347262,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841489
   },
   "https://thenkiri.com/might-morphin-power-rangers-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "87544|https://thenkiri.com/might-morphin-power-rangers-2023-download-hollywood-movie/|2023-04-20T05:49:06|2023-12-30T08:39:47|{'rendered': 'Mighty Morphin Power Rangers (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837212.8391309
+   "last_attempt": 1788837212.8391309,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841489
   },
   "https://thenkiri.com/somebody-i-used-to-know-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "82001|https://thenkiri.com/somebody-i-used-to-know-2023-download-hollywood-movie/|2023-02-10T12:21:38|2023-09-02T17:05:21|{'rendered': 'Somebody I Used to Know (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837289.9110436
+   "last_attempt": 1788837289.9110436,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841489
   },
   "https://thenkiri.com/qala-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "75093|https://thenkiri.com/qala-2022-download-indian-movie/|2022-12-02T11:58:41|2023-09-02T13:56:08|{'rendered': 'Qala (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837321.8988547
+   "last_attempt": 1788837321.8988547,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841489
   },
   "https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69795|https://thenkiri.com/all-quiet-on-the-western-front-2022-english-dubb-download-hollywood-movie/|2022-10-28T12:57:02|2023-09-02T16:29:59|{'rendered': 'All Quiet on the Western Front (2022) English Dub | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837410.7422278
+   "last_attempt": 1788837410.7422278,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841489
   },
   "https://thenkiri.com/tune-in-for-love-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "66496|https://thenkiri.com/tune-in-for-love-2022-download-korean-movie/|2022-09-27T06:57:39|2023-09-02T15:55:18|{'rendered': 'Tune in for Love (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788837442.7628877
+   "attempts": 2,
+   "last_attempt": 1788841524.1929417
   },
   "https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "58266|https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/|2022-08-16T09:03:13|2024-07-15T11:39:00|{'rendered': 'Minions The Rise of Gru (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788837443.8791547
+   "attempts": 2,
+   "last_attempt": 1788841525.5767286
   },
   "https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45849|https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/|2022-07-08T12:43:13|2023-09-02T14:36:11|{'rendered': 'The Sea Beauty (2022) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788841526.779876
+  },
+  "https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43720|https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/|2022-06-09T05:53:55|2023-09-02T14:07:36|{'rendered': 'Downton Abbey A New Era (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788837445.0935547
+   "last_attempt": 1788841528.3092175
+  },
+  "https://thenkiri.com/little-sorcerer-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "41564|https://thenkiri.com/little-sorcerer-2022-download-hollywood-movie/|2022-05-07T12:33:18|2023-09-02T13:52:34|{'rendered': 'Little Sorcerer (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841529.6875157
+  },
+  "https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "39513|https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/|2022-04-12T20:16:37|2023-09-02T13:41:46|{'rendered': 'Infinite Storm (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841530.9066978
+  },
+  "https://thenkiri.com/homestay-2022-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "38019|https://thenkiri.com/homestay-2022-download-japanese-movie/|2022-03-16T06:04:09|2023-09-02T13:15:20|{'rendered': 'Homestay (2022) | Download JAPANESE Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841532.2940948
+  },
+  "https://thenkiri.com/love-and-leashes-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "36502|https://thenkiri.com/love-and-leashes-2022-download-korean-movie/|2022-02-12T05:45:45|2023-09-02T13:39:55|{'rendered': 'Love and Leashes (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841534.1616402
   }
  },
  "series_links": {

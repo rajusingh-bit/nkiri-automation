@@ -183,16 +183,24 @@
    "completed_at": 1788821193
   },
   "https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "115391|https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/|2024-05-13T11:05:26|2024-06-03T06:51:37|{'rendered': 'Level 9 Chairman S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788837564.1506774
+   "last_attempt": 1788837564.1506774,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841534
   },
   "https://thenkiri.com/soundtrack-2-complete-korean-drama/": {
    "status": "pending",
    "signature": "103994|https://thenkiri.com/soundtrack-2-complete-korean-drama/|2023-12-07T07:55:52|2024-02-25T00:23:50|{'rendered': 'Soundtrack #2 (Complete) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788841727.4544134
+  },
+  "https://thenkiri.com/a-time-called-you-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "99403|https://thenkiri.com/a-time-called-you-s01-complete-korean-drama/|2023-09-08T11:26:42|2024-07-13T05:27:51|{'rendered': 'A Time Called You S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788837762.8041155
+   "last_attempt": 1788842106.716797
   }
  },
  "series_links": {

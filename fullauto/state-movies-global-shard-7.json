@@ -1093,52 +1093,116 @@
    "completed_at": 1788818034
   },
   "https://thenkiri.com/the-angry-black-girl-and-her-monster-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "92363|https://thenkiri.com/the-angry-black-girl-and-her-monster-2023-download-hollywood-movie/|2023-06-28T10:00:47|2023-09-02T17:04:36|{'rendered': 'The Angry Black Girl and Her Monster (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837165.6262746
+   "last_attempt": 1788837165.6262746,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/lamyas-peom-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "87477|https://thenkiri.com/lamyas-peom-2023-download-hollywood-movie/|2023-04-19T07:08:40|2023-09-02T17:41:08|{'rendered': 'Lamya’s Peom (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837197.619551
+   "last_attempt": 1788837197.619551,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/confession-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "81837|https://thenkiri.com/confession-2022-download-korean-movie/|2023-02-09T17:53:12|2023-09-02T17:05:26|{'rendered': 'Confession (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837263.4726584
+   "last_attempt": 1788837263.4726584,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "75081|https://thenkiri.com/darby-and-the-dead-2022-download-hollywood-movie/|2022-12-02T10:27:27|2023-09-02T13:49:47|{'rendered': 'Darby and the Dead (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837296.8435853
+   "last_attempt": 1788837296.8435853,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/wendell-wild-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "69783|https://thenkiri.com/wendell-wild-2022-download-hollywood-movie/|2022-10-28T11:38:05|2024-02-24T20:36:04|{'rendered': 'Wendell & Wild (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837330.0863621
+   "last_attempt": 1788837330.0863621,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/dig-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "66250|https://thenkiri.com/dig-2022-download-hollywood-movie/|2022-09-23T10:51:13|2024-02-23T12:18:23|{'rendered': 'Dig (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837361.591267
+   "last_attempt": 1788837361.591267,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/gone-in-the-night-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58256|https://thenkiri.com/gone-in-the-night-2022-download-hollywood-movie/|2022-08-16T08:58:01|2023-09-02T15:11:03|{'rendered': 'Gone in the Night (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837362.7934127
+   "last_attempt": 1788837362.7934127,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
   },
   "https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45836|https://thenkiri.com/the-phantom-of-the-open-2022-download-hollywood-movie/|2022-07-08T11:08:50|2023-09-02T14:36:22|{'rendered': 'The Phantom of the Open (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788837364.5110636
+   "last_attempt": 1788837364.5110636,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841504
+  },
+  "https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "43653|https://thenkiri.com/sarkaru-vaari-paata-2022-download-indian-movie/|2022-06-07T19:52:06|2023-09-02T14:03:56|{'rendered': 'Sarkaru Vaari Paata (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841506.919782
+  },
+  "https://thenkiri.com/the-takedown-2022-download-french-movie/": {
+   "status": "pending",
+   "signature": "41517|https://thenkiri.com/the-takedown-2022-download-french-movie/|2022-05-06T19:51:38|2023-09-02T13:52:45|{'rendered': 'The Takedown (2022) | Download FRENCH Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841508.3401136
+  },
+  "https://thenkiri.com/liar-x-liar-2022-download-japanese-movie/": {
+   "status": "pending",
+   "signature": "39491|https://thenkiri.com/liar-x-liar-2022-download-japanese-movie/|2022-04-12T07:33:33|2023-09-02T13:41:50|{'rendered': 'Liar x Liar (2022) | Download JAPANESE Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841509.6367788
+  },
+  "https://thenkiri.com/for-the-love-of-money-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "37960|https://thenkiri.com/for-the-love-of-money-2021-download-hollywood-movie/|2022-03-15T08:22:32|2023-09-02T13:12:08|{'rendered': 'For the Love of Money (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841511.0722961
+  },
+  "https://thenkiri.com/catch-the-fair-one-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36491|https://thenkiri.com/catch-the-fair-one-2022-download-hollywood-movie/|2022-02-11T16:07:25|2023-09-02T13:39:57|{'rendered': 'Catch the Fair One (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841512.3156414
+  },
+  "https://thenkiri.com/the-laureate-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35373|https://thenkiri.com/the-laureate-2021-download-hollywood-movie/|2022-01-21T12:28:20|2023-09-02T13:28:11|{'rendered': 'The Laureate (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841514.11731
+  },
+  "https://thenkiri.com/the-lost-daughter-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34292|https://thenkiri.com/the-lost-daughter-2021-download-hollywood-movie/|2021-12-31T17:31:36|2023-09-02T13:19:20|{'rendered': 'The Lost Daughter (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788841515.4255102
+  },
+  "https://thenkiri.com/the-rescue-2021-download-hollywood-documentary/": {
+   "status": "pending",
+   "signature": "33238|https://thenkiri.com/the-rescue-2021-download-hollywood-documentary/|2021-12-06T09:05:25|2023-09-02T13:10:31|{'rendered': 'The Rescue (2021) | Download Hollywood Documentary'}",
+   "attempts": 1,
+   "last_attempt": 1788841516.7528996
   }
  },
  "series_links": {

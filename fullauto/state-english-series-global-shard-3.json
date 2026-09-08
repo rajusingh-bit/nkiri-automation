@@ -202,16 +202,32 @@
    "completed_at": 1788818171
   },
   "https://thenkiri.com/the-warrior-princess-and-the-barbaric-king-s01-complete-anime-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "159240|https://thenkiri.com/the-warrior-princess-and-the-barbaric-king-s01-complete-anime-series/|2026-06-12T17:31:57|2026-07-15T13:20:45|{'rendered': 'The Warrior Princess and the Barbaric King S01 (Complete) | Anime Series'}",
    "attempts": 3,
-   "last_attempt": 1788837537.5878348
+   "last_attempt": 1788837537.5878348,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841519
   },
   "https://thenkiri.com/star-city-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "158044|https://thenkiri.com/star-city-s01-complete-tv-series/|2026-05-29T13:55:25|2026-07-10T10:04:45|{'rendered': 'Star City S01 (Episode 8 Added) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788837783.3468137
+   "last_attempt": 1788837783.3468137,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841519
+  },
+  "https://thenkiri.com/soul-mate-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "156974|https://thenkiri.com/soul-mate-s01-complete-tv-series/|2026-05-14T17:54:19|2026-05-16T14:37:26|{'rendered': 'Soul Mate S01 (Episode 2 Fixed)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788841736.0284276
+  },
+  "https://thenkiri.com/hacks-s04-complete-tv-series/": {
+   "status": "pending",
+   "signature": "155642|https://thenkiri.com/hacks-s04-complete-tv-series/|2026-04-29T11:18:16|2026-04-29T11:32:06|{'rendered': 'Hacks S04 (Complete)  | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788842048.8601649
   }
  },
  "series_links": {
