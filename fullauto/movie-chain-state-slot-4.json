@@ -292,8 +292,8 @@
   "https://thenkiri.com/the-inhabitant-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "67346|https://thenkiri.com/the-inhabitant-2022-download-hollywood-movie/|10/07/2022 11:07:31|09/02/2023 16:07:13|{'rendered': 'The Inhabitant (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877172.033156
+   "attempts": 3,
+   "last_attempt": 1788878151.7303936
   },
   "https://thenkiri.com/scooby-doo-and-the-gourmet-ghost-2018-download-hollywood-movie/": {
    "status": "done",
@@ -376,20 +376,20 @@
   "https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "46502|https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/|07/15/2022 15:38:50|09/02/2023 14:47:40|{'rendered': 'Z-O-M-B-I-E 3 (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877173.2310271
+   "attempts": 2,
+   "last_attempt": 1788878152.9662051
   },
   "https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "46363|https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/|07/14/2022 11:53:44|09/02/2023 14:40:37|{'rendered': 'The Black Phone (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877174.3783894
+   "attempts": 2,
+   "last_attempt": 1788878154.070765
   },
   "https://thenkiri.com/major-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "45869|https://thenkiri.com/major-2022-download-indian-movie/|07/08/2022 15:47:59|09/02/2023 14:36:00|{'rendered': 'Major (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788877175.57824
+   "attempts": 2,
+   "last_attempt": 1788878155.2530692
   },
   "https://thenkiri.com/jurassic-world-fallen-kingdom-2018-download-hollywood-movie/": {
    "status": "pending",
@@ -420,6 +420,12 @@
    "signature": "44640|https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/|06/21/2022 08:34:43|09/02/2023 14:11:00|{'rendered': 'Crimes of the Future (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788877970.099452
+  },
+  "https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44286|https://thenkiri.com/the-lost-girls-2022-download-hollywood-movie/|06/17/2022 13:47:35|09/02/2023 14:08:52|{'rendered': 'The Lost Girls (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788878156.370289
   }
  },
  "series_links": {
