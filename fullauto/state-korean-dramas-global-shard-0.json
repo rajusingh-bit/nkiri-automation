@@ -191,16 +191,24 @@
    "blocked_at": 1788841535
   },
   "https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "99604|https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/|2023-09-13T16:07:52|2023-12-15T06:55:32|{'rendered': 'The Kidnapping Day S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788841990.1102738
+   "last_attempt": 1788841990.1102738,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866428
   },
   "https://thenkiri.com/lies-hidden-in-my-garden-complete-korean-drama/": {
    "status": "pending",
    "signature": "91812|https://thenkiri.com/lies-hidden-in-my-garden-complete-korean-drama/|2023-06-19T18:53:21|2023-12-15T07:01:39|{'rendered': 'Lies Hidden in My Garden (Episode 8 Added) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788866590.4319518
+  },
+  "https://thenkiri.com/the-guardians-aka-lookout-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "79381|https://thenkiri.com/the-guardians-aka-lookout-s01-complete-korean-drama/|2023-01-11T06:09:18|2023-12-19T07:17:46|{'rendered': 'The Guardians aka Lookout S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788842207.7107635
+   "last_attempt": 1788866852.170295
   }
  },
  "series_links": {
@@ -504,6 +512,17 @@
   "https://downloadwella.com/io419jx9lbnw/Dreaming.of.a.Freaking.Fairy.Tale.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CPWRH7trcst6ycw1c0wJ78GbIzRbAEUy",
   "https://downloadwella.com/9pnp9i7tjksw/Dreaming.of.a.Freaking.Fairy.Tale.E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pbMdQWfqXhzxUYh4lIl1EHiA16fmI1eG",
   "https://downloadwella.com/4dyioda2k87y/The.Judge.From.Hell.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RdDPWHoRjXh4LPp2DI10Pb-JoUaxmgaH",
-  "https://downloadwella.com/ulcqkank4qy1/The.Judge.From.Hell.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7MoG4JyP-I0O85g59eumZylUTaYIeFKZ"
+  "https://downloadwella.com/ulcqkank4qy1/The.Judge.From.Hell.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7MoG4JyP-I0O85g59eumZylUTaYIeFKZ",
+  "https://downloadwella.com/lcknqqlxa5bc/Lies.Hidden.in.My.Garden.E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dpJsClVEeszh6IgVkQg8BjY-9fbLJDkQ",
+  "https://downloadwella.com/unbj83y5phz6/Lies.Hidden.in.My.Garden.E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/K1a-Kvz2WruQujTLmNvcsUSmm2wIHYIy",
+  "https://downloadwella.com/zbkf2jpzh6k4/Lies.Hidden.in.My.Garden.E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sl8taBo5COSA5s3jBhdRqBNCf0Wrgy5P",
+  "https://downloadwella.com/xsdckiw3oyod/Lies.Hidden.in.My.Garden.E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0TuFigJfMnNsEL9euhW1zpXRpNBV9FzT",
+  "https://downloadwella.com/r2h8lmfzi2p1/Lies.Hidden.in.My.Garden.E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XzTl3FCOU9KvSpTj6_NcecBhtxLDltCw",
+  "https://downloadwella.com/k5eqaoo1vjb8/The.Guardian.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RARI5lKMEYWKzEnUDFUhICREw9LkJvLQ",
+  "https://downloadwella.com/elggqmocp0t7/The.Guardian.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ChFvvEsQwnGqTM2MUS1LQWfxrcaVfV0r",
+  "https://downloadwella.com/cil7khe68uuw/The.Guardian.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-n2bbuohTgLP77J-3RFi-xocY9UVnggs",
+  "https://downloadwella.com/zpw73vibe1xx/The.Guardian.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DDvO2uM7BMBL7TZdlJy4ia37kYJX3uy9",
+  "https://downloadwella.com/jun3k2m0pbet/The.Guardian.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6kvo7wybeTJ6qa6s_4k58Cz0z2fKx4a1",
+  "https://downloadwella.com/1zva1uqv8v8p/The.Guardian.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qpJR_9gUjVdUDCxMNJwLwl1P4Lx20HWb"
  }
 }

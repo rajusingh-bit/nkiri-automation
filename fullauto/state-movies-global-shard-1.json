@@ -1173,52 +1173,60 @@
    "blocked_at": 1788841505
   },
   "https://thenkiri.com/monstrous-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41929|https://thenkiri.com/monstrous-2022-download-hollywood-movie/|2022-05-13T06:17:59|2023-09-02T13:54:48|{'rendered': 'Monstrous (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788841506.6023102
+   "last_attempt": 1788841506.6023102,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788866398
   },
   "https://thenkiri.com/x-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39618|https://thenkiri.com/x-2022-download-hollywood-movie/|2022-04-14T08:42:40|2023-09-02T13:41:26|{'rendered': 'X (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841507.8931057
+   "attempts": 3,
+   "last_attempt": 1788866399.2544303
   },
   "https://thenkiri.com/deep-water-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38178|https://thenkiri.com/deep-water-2022-download-hollywood-movie/|2022-03-18T12:14:08|2023-09-02T13:14:50|{'rendered': 'Deep Water (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841509.3395498
+   "attempts": 3,
+   "last_attempt": 1788866402.4332163
   },
   "https://thenkiri.com/the-souvenir-2019-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36697|https://thenkiri.com/the-souvenir-2019-download-hollywood-movie/|2022-02-16T08:25:57|2023-09-02T13:42:24|{'rendered': 'The Souvenir (2019) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841510.5422544
+   "attempts": 3,
+   "last_attempt": 1788866405.5747602
   },
   "https://thenkiri.com/gulliver-returns-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35561|https://thenkiri.com/gulliver-returns-2021-download-hollywood-movie/|2022-01-25T08:39:23|2023-09-02T13:27:30|{'rendered': 'Gulliver Returns (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841511.9822705
+   "attempts": 2,
+   "last_attempt": 1788866408.5647821
   },
   "https://thenkiri.com/ghostbusters-afterlife-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "34501|https://thenkiri.com/ghostbusters-afterlife-2021-download-hollywood-movie/|2022-01-04T07:36:53|2023-09-02T13:21:47|{'rendered': 'Ghostbusters : Afterlife (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841513.329653
+   "attempts": 2,
+   "last_attempt": 1788866411.8340209
   },
   "https://thenkiri.com/the-french-dispatch-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33602|https://thenkiri.com/the-french-dispatch-2021-download-hollywood-movie/|2021-12-15T06:13:35|2023-09-02T13:13:48|{'rendered': 'The French Dispatch (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841514.528674
+   "attempts": 2,
+   "last_attempt": 1788866414.811619
   },
   "https://thenkiri.com/last-night-in-soho-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32197|https://thenkiri.com/last-night-in-soho-2021-download-hollywood-movie/|2021-11-18T13:14:51|2023-09-02T12:56:41|{'rendered': 'Last Night in Soho (2021) | Download Hollywood Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788866416.1207702
+  },
+  "https://thenkiri.com/women-is-losers-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "31162|https://thenkiri.com/women-is-losers-2021-download-hollywood-movie/|2021-10-26T17:01:04|2023-09-02T10:49:50|{'rendered': 'Women is Losers (2021) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788841515.8325503
+   "last_attempt": 1788866419.4379146
   }
  },
  "series_links": {

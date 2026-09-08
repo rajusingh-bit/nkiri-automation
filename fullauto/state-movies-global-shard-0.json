@@ -1193,50 +1193,50 @@
   "https://thenkiri.com/scream-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36729|https://thenkiri.com/scream-2022-download-hollywood-movie/|2022-02-16T22:24:38|2023-09-02T13:42:16|{'rendered': 'Scream (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841492.802443
+   "attempts": 3,
+   "last_attempt": 1788866385.2698944
   },
   "https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35604|https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/|2022-01-25T17:59:57|2023-09-02T13:30:44|{'rendered': 'Death of a Telemarketer (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841494.497653
+   "attempts": 3,
+   "last_attempt": 1788866388.4554765
   },
   "https://thenkiri.com/ghost-mansion-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "34513|https://thenkiri.com/ghost-mansion-2021-download-korean-movie/|2022-01-04T12:32:55|2026-07-02T08:21:00|{'rendered': 'Ghost Mansion (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841496.2760603
+   "attempts": 3,
+   "last_attempt": 1788866392.6919234
   },
   "https://thenkiri.com/rumble-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "33648|https://thenkiri.com/rumble-2021-download-hollywood-movie/|2021-12-15T17:31:43|2023-09-02T13:13:39|{'rendered': 'Rumble (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841497.8491173
+   "attempts": 2,
+   "last_attempt": 1788866395.8309631
   },
   "https://thenkiri.com/psych-3-this-is-gus-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "32243|https://thenkiri.com/psych-3-this-is-gus-2021-download-hollywood-movie/|2021-11-19T11:58:19|2023-09-02T12:56:38|{'rendered': 'Psych 3 This is Gus (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841499.853724
+   "attempts": 2,
+   "last_attempt": 1788866397.1727972
   },
   "https://thenkiri.com/rhapsody-of-love-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "31168|https://thenkiri.com/rhapsody-of-love-2021-download-hollywood-movie/|2021-10-26T17:08:11|2023-09-02T10:49:41|{'rendered': 'Rhapsody of Love (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841501.3482409
+   "attempts": 2,
+   "last_attempt": 1788866400.5174465
   },
   "https://thenkiri.com/fast-and-furious-f9-the-fast-saga-2021-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "19364|https://thenkiri.com/fast-and-furious-f9-the-fast-saga-2021-download-hollywood-movie/|2021-07-29T10:26:47|2023-09-02T09:35:44|{'rendered': 'Fast and Furious F9 The Fast Saga (2021) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841537.3721704
+   "modified": "2023-09-02T09:35:44",
+   "completed_at": 1788866435
   },
   "https://thenkiri.com/collectors-2020-download-korean-movie/": {
    "status": "pending",
    "signature": "17232|https://thenkiri.com/collectors-2020-download-korean-movie/|2021-06-09T09:06:12|2023-09-02T09:18:26|{'rendered': 'Collectors (2020) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841557.2776778
+   "attempts": 2,
+   "last_attempt": 1788866457.1942594
   }
  },
  "series_links": {
@@ -1451,6 +1451,7 @@
   "https://downloadwella.com/rz1d8bseghkt/Gate.(NKIRI.COM).2018.KOREAN.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/N-ozkLOMLRre4JtbPohxU52id0HBynUW",
   "https://downloadwella.com/27qnud9veddy/The.Age.Of.Blood.(NKIRI.COM).2017.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ZH3Am27fxUMY9fVaro3YV4c0gwNXYWsX",
   "https://downloadwella.com/s7mluxgr86uj/Smile.2022.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I4syu2tKW6ZKCI6LKe1jtf7d4NvsOuDq",
-  "https://downloadwella.com/nmx5ua9edt60/Minions.More.1.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/5YeyA3stfAc-6aIcALn18d9c5fLbI-kE"
+  "https://downloadwella.com/nmx5ua9edt60/Minions.More.1.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/5YeyA3stfAc-6aIcALn18d9c5fLbI-kE",
+  "https://downloadwella.com/vogobdna3ez4/F9.(NKIRI.COM).2021.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/gwPz5Tb-USbSyh8Wy9Fl51khvnoGG7mD"
  }
 }
