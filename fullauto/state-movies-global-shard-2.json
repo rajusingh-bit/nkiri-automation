@@ -1161,52 +1161,60 @@
    "blocked_at": 1788841490
   },
   "https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45889|https://thenkiri.com/brian-and-charles-2022-download-hollywood-movie/|2022-07-08T17:15:48|2023-09-02T14:35:53|{'rendered': 'Brian and Charles (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788860947.1339054
+   "last_attempt": 1788860947.1339054,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867838
   },
   "https://thenkiri.com/18-1-2-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43964|https://thenkiri.com/18-1-2-2022-download-hollywood-movie/|2022-06-13T06:09:17|2023-09-02T14:06:30|{'rendered': '18 1/2 (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860962.34673
+   "attempts": 3,
+   "last_attempt": 1788867847.4288993
   },
   "https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/": {
    "status": "pending",
    "signature": "41877|https://thenkiri.com/the-witch-part-1-the-subversion-2018-download-korean-movie/|2022-05-12T11:45:20|2023-09-02T13:54:55|{'rendered': 'The Witch: Part 1 The Subversion (2018) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860964.5544257
+   "attempts": 3,
+   "last_attempt": 1788867848.29024
   },
   "https://thenkiri.com/spiritwalker-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "39552|https://thenkiri.com/spiritwalker-2021-download-korean-movie/|2022-04-13T11:22:28|2023-09-02T13:41:33|{'rendered': 'Spiritwalker (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860967.6560967
+   "attempts": 3,
+   "last_attempt": 1788867849.1364353
   },
   "https://thenkiri.com/master-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38166|https://thenkiri.com/master-2022-download-hollywood-movie/|2022-03-18T11:30:57|2023-09-02T13:14:54|{'rendered': 'Master (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860969.914333
+   "attempts": 3,
+   "last_attempt": 1788867850.0054424
   },
   "https://thenkiri.com/the-souvenir-part-ii-2021-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36690|https://thenkiri.com/the-souvenir-part-ii-2021-download-hollywood-movie/|2022-02-16T08:22:04|2023-09-02T13:42:27|{'rendered': 'The Souvenir: Part II (2021) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860972.7470913
+   "attempts": 3,
+   "last_attempt": 1788867850.757678
   },
   "https://thenkiri.com/munich-the-edge-of-war-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "35488|https://thenkiri.com/munich-the-edge-of-war-2022-download-hollywood-movie/|2022-01-23T13:11:36|2023-09-02T13:27:33|{'rendered': 'Munich The Edge of War (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860974.1284378
+   "attempts": 3,
+   "last_attempt": 1788867851.6127594
   },
   "https://thenkiri.com/red-2021-download-bollywood-movie/": {
    "status": "pending",
    "signature": "34417|https://thenkiri.com/red-2021-download-bollywood-movie/|2022-01-03T12:00:28|2023-09-02T13:18:43|{'rendered': 'Red (2021) | Download Bollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860977.19608
+   "attempts": 3,
+   "last_attempt": 1788867852.4950147
+  },
+  "https://thenkiri.com/antlers-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "33575|https://thenkiri.com/antlers-2021-download-hollywood-movie/|2021-12-14T18:21:46|2023-09-02T13:10:02|{'rendered': 'Antlers (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867853.318785
   }
  },
  "series_links": {

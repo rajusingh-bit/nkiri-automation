@@ -1163,52 +1163,60 @@
    "blocked_at": 1788841504
   },
   "https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "59300|https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/|2022-08-17T12:27:25|2023-09-02T15:10:17|{'rendered': 'Top Gun Maverick (2022) KOR Sub | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788860959.5809312
+   "last_attempt": 1788860959.5809312,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788867853
   },
   "https://thenkiri.com/1up-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45883|https://thenkiri.com/1up-2022-download-hollywood-movie/|2022-07-08T17:09:48|2023-09-02T14:35:56|{'rendered': '1Up (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860963.5027025
+   "attempts": 3,
+   "last_attempt": 1788867854.265817
   },
   "https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43872|https://thenkiri.com/chickenhare-and-the-hamster-of-darkness-2022-download-hollywood-movie/|2022-06-11T06:36:47|2023-09-02T14:06:43|{'rendered': 'Chickenhare and the Hamster of Darkness (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860985.0648575
+   "attempts": 3,
+   "last_attempt": 1788867870.5093699
   },
   "https://thenkiri.com/the-northman-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41839|https://thenkiri.com/the-northman-2022-download-hollywood-movie/|2022-05-12T09:18:06|2023-09-02T13:54:59|{'rendered': 'The Northman (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860987.2450037
+   "attempts": 3,
+   "last_attempt": 1788867871.385611
   },
   "https://thenkiri.com/wyrmwood-road-of-the-dead-2022-download-hollywood-movie-2/": {
    "status": "pending",
    "signature": "39545|https://thenkiri.com/wyrmwood-road-of-the-dead-2022-download-hollywood-movie-2/|2022-04-13T11:15:45|2023-09-02T13:41:36|{'rendered': 'Wyrmwood: Road of the Dead (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860990.2925222
+   "attempts": 3,
+   "last_attempt": 1788867872.1728153
   },
   "https://thenkiri.com/studio-666-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38119|https://thenkiri.com/studio-666-2022-download-hollywood-movie/|2022-03-17T16:50:17|2023-09-02T13:15:04|{'rendered': 'Studio 666 (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860993.39925
+   "attempts": 3,
+   "last_attempt": 1788867873.1770566
   },
   "https://thenkiri.com/tall-girl-2-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "36597|https://thenkiri.com/tall-girl-2-2022-download-hollywood-movie/|2022-02-14T08:21:10|2023-09-02T13:42:37|{'rendered': 'Tall Girl 2 (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860994.612336
+   "attempts": 3,
+   "last_attempt": 1788867873.958743
   },
   "https://thenkiri.com/memoria-2021-download-international-movie/": {
    "status": "pending",
    "signature": "35481|https://thenkiri.com/memoria-2021-download-international-movie/|2022-01-23T13:03:04|2023-09-02T13:27:35|{'rendered': 'Memoria (2021) | Download International Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788860997.656571
+   "attempts": 3,
+   "last_attempt": 1788867874.7474546
+  },
+  "https://thenkiri.com/the-ravine-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "34342|https://thenkiri.com/the-ravine-2021-download-hollywood-movie/|2022-01-01T19:59:53|2023-09-02T13:18:48|{'rendered': 'The Ravine (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788867877.1596637
   }
  },
  "series_links": {
