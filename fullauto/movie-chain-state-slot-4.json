@@ -260,8 +260,8 @@
   "https://thenkiri.com/the-independent-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "70508|https://thenkiri.com/the-independent-2022-download-hollywood-movie/|11/05/2022 05:40:11|09/02/2023 16:37:44|{'rendered': 'The Independent (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788876760.9768348
+   "attempts": 3,
+   "last_attempt": 1788877949.5837748
   },
   "https://thenkiri.com/the-villainess-2017-download-korean-movie/": {
    "status": "done",
@@ -362,14 +362,14 @@
   "https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "47101|https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/|07/26/2022 10:22:46|09/02/2023 14:52:25|{'rendered': 'The Reef Stalked (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876762.457275
+   "attempts": 2,
+   "last_attempt": 1788877950.6827984
   },
   "https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "46964|https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/|07/23/2022 13:55:17|02/24/2024 19:06:35|{'rendered': 'JugJugg Jeeyo (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876932.096465
+   "attempts": 2,
+   "last_attempt": 1788877960.2455568
   },
   "https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -412,6 +412,12 @@
    "signature": "44951|https://thenkiri.com/beavis-and-butt-head-do-universe-2022-download-hollywood-movie/|06/24/2022 16:26:04|09/02/2023 14:21:45|{'rendered': 'Beavis and Butt-Head Do Universe (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788877843.3419077
+  },
+  "https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "44640|https://thenkiri.com/crimes-of-the-future-2022-download-hollywood-movie/|06/21/2022 08:34:43|09/02/2023 14:11:00|{'rendered': 'Crimes of the Future (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877970.099452
   }
  },
  "series_links": {
