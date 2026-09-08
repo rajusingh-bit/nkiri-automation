@@ -592,34 +592,38 @@
    "blocked_at": 1788883195
   },
   "https://thenkiri.com/spiritwalker-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39552|https://thenkiri.com/spiritwalker-2021-download-korean-movie/|04/13/2022 11:22:28|09/02/2023 13:41:33|{'rendered': 'Spiritwalker (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883564.574195
+   "last_attempt": 1788883564.574195,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883664
   },
   "https://thenkiri.com/liar-x-liar-2022-download-japanese-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39491|https://thenkiri.com/liar-x-liar-2022-download-japanese-movie/|04/12/2022 07:33:33|09/02/2023 13:41:50|{'rendered': 'Liar x Liar (2022) | Download JAPANESE Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883565.4647346
+   "last_attempt": 1788883565.4647346,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883664
   },
   "https://thenkiri.com/yaksha-ruthless-operations-2021-download-korean-movie/": {
    "status": "pending",
    "signature": "39327|https://thenkiri.com/yaksha-ruthless-operations-2021-download-korean-movie/|04/08/2022 21:28:06|09/02/2023 13:39:19|{'rendered': 'Yaksha Ruthless Operations (2021) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882722.9096498
+   "attempts": 3,
+   "last_attempt": 1788883666.3746405
   },
   "https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39265|https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/|04/08/2022 10:25:46|09/02/2023 13:39:39|{'rendered': 'All the Old Knives (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882724.7653148
+   "attempts": 3,
+   "last_attempt": 1788883667.7677748
   },
   "https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38938|https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/|04/01/2022 16:36:43|09/02/2023 13:36:33|{'rendered': 'Better Nate Than Ever (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788882726.2278051
+   "attempts": 3,
+   "last_attempt": 1788883669.167374
   },
   "https://thenkiri.com/moonfall-2022-download-hollywood-movie/": {
    "status": "pending",
