@@ -1099,52 +1099,60 @@
    "completed_at": 1788817970
   },
   "https://thenkiri.com/smugglers-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "103554|https://thenkiri.com/smugglers-2023-download-korean-movie/|2023-11-28T11:05:56|2023-11-28T11:05:56|{'rendered': 'Smugglers (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832805.5392103
+   "last_attempt": 1788832805.5392103,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837168
   },
   "https://thenkiri.com/scooby-doo-and-krypto-too-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "100177|https://thenkiri.com/scooby-doo-and-krypto-too-2023-download-hollywood-movie/|2023-09-26T07:54:55|2023-09-26T07:54:55|{'rendered': 'Scooby-Doo! And Krypto, Too! (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832806.5996058
+   "attempts": 3,
+   "last_attempt": 1788837169.560986
   },
   "https://thenkiri.com/exist-within-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "92758|https://thenkiri.com/exist-within-2022-download-korean-movie/|2023-07-04T18:40:59|2023-09-02T17:09:08|{'rendered': 'Exist Within (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832837.3185127
+   "attempts": 3,
+   "last_attempt": 1788837200.436448
   },
   "https://thenkiri.com/no-mercy-2019-download-korean-movie/": {
    "status": "pending",
    "signature": "87956|https://thenkiri.com/no-mercy-2019-download-korean-movie/|2023-04-25T07:46:14|2023-09-02T17:43:57|{'rendered': 'No Mercy (2019) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832920.1228487
+   "attempts": 3,
+   "last_attempt": 1788837269.1866229
   },
   "https://thenkiri.com/raangi-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "82121|https://thenkiri.com/raangi-2022-download-indian-movie/|2023-02-12T10:41:28|2024-12-09T07:45:30|{'rendered': 'Raangi (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788833012.1808085
+   "attempts": 3,
+   "last_attempt": 1788837342.2786157
   },
   "https://thenkiri.com/diary-of-a-wimpy-kid-rodrick-rules-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "75127|https://thenkiri.com/diary-of-a-wimpy-kid-rodrick-rules-2022-download-hollywood-movie/|2022-12-02T14:19:37|2023-09-02T13:55:43|{'rendered': 'Diary of a Wimpy Kid: Rodrick Rules (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788833044.2443392
+   "attempts": 3,
+   "last_attempt": 1788837373.4930828
   },
   "https://thenkiri.com/deborah-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "70156|https://thenkiri.com/deborah-2022-download-hollywood-movie/|2022-11-01T14:07:46|2023-09-02T16:34:46|{'rendered': 'Deborah (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788833076.639466
+   "attempts": 3,
+   "last_attempt": 1788837403.901528
   },
   "https://thenkiri.com/goodbye-summer-2019-download-korean-movie/": {
    "status": "pending",
    "signature": "66616|https://thenkiri.com/goodbye-summer-2019-download-korean-movie/|2022-09-28T10:42:51|2023-09-02T15:54:50|{'rendered': 'Goodbye Summer (2019) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788833107.6966097
+   "attempts": 3,
+   "last_attempt": 1788837433.9328437
+  },
+  "https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "59300|https://thenkiri.com/top-gun-maverick-2022-download-hollywood-movie/|2022-08-17T12:27:25|2023-09-02T15:10:17|{'rendered': 'Top Gun Maverick (2022) KOR Sub | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788837434.7774613
   }
  },
  "series_links": {
