@@ -200,6 +200,18 @@
    "signature": "161154|https://thenkiri.com/saga-of-tanya-the-evil-s01-complete-anime-series/|2026-07-07T15:24:30|2026-07-08T12:00:07|{'rendered': 'Saga of Tanya the Evil S01 (Complete) | Anime Series'}",
    "modified": "2026-07-08T12:00:07",
    "completed_at": 1788818171
+  },
+  "https://thenkiri.com/the-warrior-princess-and-the-barbaric-king-s01-complete-anime-series/": {
+   "status": "pending",
+   "signature": "159240|https://thenkiri.com/the-warrior-princess-and-the-barbaric-king-s01-complete-anime-series/|2026-06-12T17:31:57|2026-07-15T13:20:45|{'rendered': 'The Warrior Princess and the Barbaric King S01 (Complete) | Anime Series'}",
+   "attempts": 1,
+   "last_attempt": 1788829027.5156019
+  },
+  "https://thenkiri.com/star-city-s01-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158044|https://thenkiri.com/star-city-s01-complete-tv-series/|2026-05-29T13:55:25|2026-07-10T10:04:45|{'rendered': 'Star City S01 (Episode 8 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788829285.051905
   }
  },
  "series_links": {

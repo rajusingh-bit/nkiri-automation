@@ -171,14 +171,20 @@
   "https://thenkiri.com/king-of-baking-kim-tak-goo-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "137932|https://thenkiri.com/king-of-baking-kim-tak-goo-s01-complete-korean-drama/|2025-06-11T14:07:30|2025-06-11T14:30:32|{'rendered': 'King of Baking, Kim Tak Goo aka Bread, Love and Dreams S01 (Complete) | Korean Drama'}",
-   "attempts": 1,
-   "last_attempt": 1788818641.797974
+   "attempts": 2,
+   "last_attempt": 1788828713.1541314
   },
   "https://thenkiri.com/cinderella-at-2am-complete-korean-drama/": {
    "status": "done",
    "signature": "120217|https://thenkiri.com/cinderella-at-2am-complete-korean-drama/|2024-08-24T13:45:10|2024-09-22T14:50:29|{'rendered': 'Cinderella at 2AM (Episode 10 Added) | Korean Drama'}",
    "modified": "2024-09-22T14:50:29",
    "completed_at": 1788821193
+  },
+  "https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "115391|https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/|2024-05-13T11:05:26|2024-06-03T06:51:37|{'rendered': 'Level 9 Chairman S01 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788829075.1863906
   }
  },
  "series_links": {
