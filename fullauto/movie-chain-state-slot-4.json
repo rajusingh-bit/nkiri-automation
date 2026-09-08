@@ -15,10 +15,12 @@
    "completed_at": 1788872242
   },
   "https://thenkiri.com/you-will-die-in-6-hours-2024-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "153421|https://thenkiri.com/you-will-die-in-6-hours-2024-download-korean-movie/|03/31/2026 16:41:18|03/31/2026 16:42:41|{'rendered': 'You Will Die in 6 Hours  (2024) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874319.6776829
+   "last_attempt": 1788874319.6776829,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/zootopia-2016-download-hollywood-movie/": {
    "status": "done",
@@ -27,17 +29,21 @@
    "completed_at": 1788872317
   },
   "https://thenkiri.com/bring-her-back-2025-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "138931|https://thenkiri.com/bring-her-back-2025-download-hollywood-movie/|07/01/2025 10:46:57|07/01/2025 10:59:53|{'rendered': 'Bring Her Back (2025) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874321.2545571
+   "last_attempt": 1788874321.2545571,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/wwe-royal-rumble-2025-download-wresting-special/": "skipped (wwe)",
   "https://thenkiri.com/emilia-perez-2024-download-french-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "125169|https://thenkiri.com/emilia-perez-2024-download-french-movie/|11/16/2024 08:06:22|11/16/2024 08:06:22|{'rendered': 'Emilia Perez (2024) | Download FRENCH Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874323.008796
+   "last_attempt": 1788874323.008796,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/sleep-2023-download-korean-movie/": {
    "status": "done",
@@ -46,10 +52,12 @@
    "completed_at": 1788872338
   },
   "https://thenkiri.com/kill-2024-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "119324|https://thenkiri.com/kill-2024-download-indian-movie/|08/06/2024 08:31:35|08/06/2024 08:31:35|{'rendered': 'Kill (2024) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874379.3398876
+   "last_attempt": 1788874379.3398876,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/maharaj-2024-download-indian-movie/": {
    "status": "done",
@@ -58,22 +66,28 @@
    "completed_at": 1788872394
   },
   "https://thenkiri.com/damaged-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "113662|https://thenkiri.com/damaged-2024-download-hollywood-movie/|04/12/2024 06:50:10|04/12/2024 06:50:10|{'rendered': 'Damaged (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874381.1026053
+   "last_attempt": 1788874381.1026053,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/bob-marley-one-love-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "112504|https://thenkiri.com/bob-marley-one-love-2024-download-hollywood-movie/|03/19/2024 06:54:13|03/19/2024 06:54:13|{'rendered': 'Bob Marley: One Love (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874382.5864713
+   "last_attempt": 1788874382.5864713,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/the-beekeeper-2024-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "107620|https://thenkiri.com/the-beekeeper-2024-download-hollywood-movie/|01/30/2024 08:01:43|01/30/2024 08:01:43|{'rendered': 'The Beekeeper (2024) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788874384.2907143
+   "last_attempt": 1788874384.2907143,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788874492
   },
   "https://thenkiri.com/wonka-2023-download-hollywood-movie/": {
    "status": "done",
@@ -170,6 +184,12 @@
    "signature": "81477|https://thenkiri.com/ditto-2022-download-korean-movie/|02/06/2023 08:25:40|09/02/2023 17:02:24|{'rendered': 'Ditto (2022) | Download Korean Movie'}",
    "attempts": 1,
    "last_attempt": 1788874191.0971951
+  },
+  "https://thenkiri.com/the-night-owl-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "80173|https://thenkiri.com/the-night-owl-2022-download-korean-movie/|01/23/2023 11:41:05|09/02/2023 16:52:17|{'rendered': 'The Night Owl (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788874496.5977595
   }
  },
  "series_links": {
