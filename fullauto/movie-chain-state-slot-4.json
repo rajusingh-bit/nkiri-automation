@@ -202,16 +202,20 @@
    "blocked_at": 1788875640
   },
   "https://thenkiri.com/ditto-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "81477|https://thenkiri.com/ditto-2022-download-korean-movie/|02/06/2023 08:25:40|09/02/2023 17:02:24|{'rendered': 'Ditto (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788876718.5415611
+   "last_attempt": 1788876718.5415611,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876876
   },
   "https://thenkiri.com/the-night-owl-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "80173|https://thenkiri.com/the-night-owl-2022-download-korean-movie/|01/23/2023 11:41:05|09/02/2023 16:52:17|{'rendered': 'The Night Owl (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788876719.6461523
+   "last_attempt": 1788876719.6461523,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788876876
   },
   "https://thenkiri.com/roald-dahls-matilda-the-musical-2022-download-hollywood-movie/": {
    "status": "done",
@@ -222,8 +226,8 @@
   "https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/": {
    "status": "pending",
    "signature": "76681|https://thenkiri.com/dragon-ball-super-super-hero-2022-download-japanese-animation/|12/15/2022 19:26:42|09/02/2023 14:07:21|{'rendered': 'Dragon Ball Super: Super Hero (2022) | Download Japanese Animation'}",
-   "attempts": 2,
-   "last_attempt": 1788875899.9717724
+   "attempts": 3,
+   "last_attempt": 1788876877.3973484
   },
   "https://thenkiri.com/diary-of-a-wimpy-kid-rodrick-rules-2022-download-hollywood-movie/": {
    "status": "done",
@@ -274,10 +278,10 @@
    "completed_at": 1788875742
   },
   "https://thenkiri.com/baazaar-2018-download-indian-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "69025|https://thenkiri.com/baazaar-2018-download-indian-movie/|10/25/2022 09:52:56|09/02/2023 16:26:04|{'rendered': 'Baazaar (2018) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788875795.14872
+   "modified": "09/02/2023 16:26:04",
+   "completed_at": 1788876922
   },
   "https://thenkiri.com/the-inhabitant-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -356,6 +360,12 @@
    "signature": "47101|https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/|07/26/2022 10:22:46|09/02/2023 14:52:25|{'rendered': 'The Reef Stalked (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788876762.457275
+  },
+  "https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "46964|https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/|07/23/2022 13:55:17|02/24/2024 19:06:35|{'rendered': 'JugJugg Jeeyo (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788876932.096465
   }
  },
  "series_links": {
@@ -373,6 +383,7 @@
   "https://downloadwella.com/e7fy1zpu36ca/Oceans.Eight.(NKIRI.COM).2018.480p.BluRay.x264.mkv.html": "https://v1.vidfiles.com/d/75ipABMq3bYvdRpcWyfth39kqISonjjb",
   "https://downloadwella.com/91tkbf88thuc/Forbidden.Dream.(NKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/WlHou4CULA0K8Er54UDTHC8Cis2x0QYv",
   "https://downloadwella.com/6rwlymhb4pl5/BTS.Permission.to.Dance.on.Stage.LA.(NKIRI.COM).2022.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.h.mkv.html": "https://v1.vidfiles.com/d/ypDZye5UY6xSl4tbJRaIz517-xe_pC1p",
-  "https://downloadwella.com/xvgusk92bn2g/The.Admiral.Roaring.Currents.(NKIRI.COM).2014.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/_DAvhB7kjL0Q8yxju8d9VSo4CeXonKrE"
+  "https://downloadwella.com/xvgusk92bn2g/The.Admiral.Roaring.Currents.(NKIRI.COM).2014.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/_DAvhB7kjL0Q8yxju8d9VSo4CeXonKrE",
+  "https://downloadwella.com/vdkiwdtjccwe/Baazaar.(NKIRI.COM).2018.480p.NF.WEB-DL.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/kDzqROJ3HWdkkqbWyho3TPwqojAkcBdQ"
  }
 }
