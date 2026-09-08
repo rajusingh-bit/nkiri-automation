@@ -290,10 +290,12 @@
    "completed_at": 1788876922
   },
   "https://thenkiri.com/the-inhabitant-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "67346|https://thenkiri.com/the-inhabitant-2022-download-hollywood-movie/|10/07/2022 11:07:31|09/02/2023 16:07:13|{'rendered': 'The Inhabitant (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878151.7303936
+   "last_attempt": 1788878151.7303936,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878218
   },
   "https://thenkiri.com/scooby-doo-and-the-gourmet-ghost-2018-download-hollywood-movie/": {
    "status": "done",
