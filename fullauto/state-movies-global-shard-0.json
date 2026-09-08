@@ -1103,10 +1103,12 @@
    "completed_at": 1788817755
   },
   "https://thenkiri.com/biosphere-2023-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "93030|https://thenkiri.com/biosphere-2023-download-hollywood-movie/|2023-07-07T19:24:56|2023-09-02T17:16:11|{'rendered': 'Biosphere (2023) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832818.1273975
+   "last_attempt": 1788832818.1273975,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837097
   },
   "https://thenkiri.com/gate-2018-download-korean-movie/": {
    "status": "done",
@@ -1115,10 +1117,12 @@
    "completed_at": 1788820215
   },
   "https://thenkiri.com/the-inspection-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "82464|https://thenkiri.com/the-inspection-2022-download-hollywood-movie/|2023-02-16T15:55:18|2023-09-02T17:14:58|{'rendered': 'The Inspection (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832819.4352016
+   "last_attempt": 1788832819.4352016,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837097
   },
   "https://thenkiri.com/the-age-of-blood-2017-download-korean-movie/": {
    "status": "done",
@@ -1139,40 +1143,60 @@
    "completed_at": 1788821666
   },
   "https://thenkiri.com/day-shift-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "59332|https://thenkiri.com/day-shift-2022-download-hollywood-movie/|2022-08-17T17:26:18|2023-09-02T15:09:53|{'rendered': 'Day Shift (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788832820.6563535
+   "last_attempt": 1788832820.6563535,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837097
   },
   "https://thenkiri.com/the-bobs-burgers-movie-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "46240|https://thenkiri.com/the-bobs-burgers-movie-2022-download-hollywood-movie/|2022-07-12T14:03:59|2023-09-02T14:41:12|{'rendered': 'The Bob’s Burgers Movie (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832821.5269403
+   "attempts": 3,
+   "last_attempt": 1788837098.5846996
   },
   "https://thenkiri.com/jayeshbhai-jordaar-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "43995|https://thenkiri.com/jayeshbhai-jordaar-2022-download-indian-movie/|2022-06-13T12:07:35|2024-02-24T17:44:39|{'rendered': 'Jayeshbhai Jordaar (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832854.1752021
+   "attempts": 3,
+   "last_attempt": 1788837130.5647478
   },
   "https://thenkiri.com/sneakerella-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41960|https://thenkiri.com/sneakerella-2022-download-hollywood-movie/|2022-05-13T11:14:47|2023-09-02T13:54:41|{'rendered': 'Sneakerella (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832855.199721
+   "attempts": 3,
+   "last_attempt": 1788837131.4705226
   },
   "https://thenkiri.com/the-cellar-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39663|https://thenkiri.com/the-cellar-2022-download-hollywood-movie/|2022-04-14T16:05:28|2023-09-02T13:41:17|{'rendered': 'The Cellar (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832856.1137216
+   "attempts": 3,
+   "last_attempt": 1788837132.9971864
   },
   "https://thenkiri.com/panama-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38187|https://thenkiri.com/panama-2022-download-hollywood-movie/|2022-03-18T12:25:26|2023-09-02T13:14:46|{'rendered': 'Panama (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788832857.0921657
+   "attempts": 3,
+   "last_attempt": 1788837134.2027283
+  },
+  "https://thenkiri.com/scream-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36729|https://thenkiri.com/scream-2022-download-hollywood-movie/|2022-02-16T22:24:38|2023-09-02T13:42:16|{'rendered': 'Scream (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788837135.1266692
+  },
+  "https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "35604|https://thenkiri.com/death-of-a-telemarketer-2021-download-hollywood-movie/|2022-01-25T17:59:57|2023-09-02T13:30:44|{'rendered': 'Death of a Telemarketer (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788837135.9508085
+  },
+  "https://thenkiri.com/ghost-mansion-2021-download-korean-movie/": {
+   "status": "pending",
+   "signature": "34513|https://thenkiri.com/ghost-mansion-2021-download-korean-movie/|2022-01-04T12:32:55|2026-07-02T08:21:00|{'rendered': 'Ghost Mansion (2021) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788837136.7032497
   }
  },
  "series_links": {

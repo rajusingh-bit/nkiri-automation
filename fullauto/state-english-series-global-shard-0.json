@@ -202,16 +202,24 @@
    "completed_at": 1788813038
   },
   "https://thenkiri.com/the-season-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "159643|https://thenkiri.com/the-season-s01-complete-tv-series/|2026-06-17T16:55:41|2026-06-17T16:55:41|{'rendered': 'The Season S01 (Complete) | TV Series'}",
    "attempts": 3,
-   "last_attempt": 1788832885.431883
+   "last_attempt": 1788832885.431883,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837127
   },
   "https://thenkiri.com/the-legend-of-vox-machina-s04-episode-1-3-added-tv-series/": {
    "status": "pending",
    "signature": "158427|https://thenkiri.com/the-legend-of-vox-machina-s04-episode-1-3-added-tv-series/|2026-06-03T10:12:16|2026-06-24T09:02:13|{'rendered': 'The Legend of Vox Machina S04 (Episode 10 -12 Added) | TV Series'}",
-   "attempts": 2,
-   "last_attempt": 1788833270.4296508
+   "attempts": 3,
+   "last_attempt": 1788837509.7562187
+  },
+  "https://thenkiri.com/rivals-s01-s02-complete-tv-series/": {
+   "status": "pending",
+   "signature": "157094|https://thenkiri.com/rivals-s01-s02-complete-tv-series/|2026-05-16T10:12:03|2026-06-05T08:43:27|{'rendered': 'Rivals S01 & S02 (Episode 6 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788837953.859187
   }
  },
  "series_links": {
