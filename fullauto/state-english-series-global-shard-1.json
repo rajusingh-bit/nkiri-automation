@@ -210,14 +210,14 @@
   "https://thenkiri.com/not-suitable-for-work-complete-tv-series/": {
    "status": "pending",
    "signature": "158312|https://thenkiri.com/not-suitable-for-work-complete-tv-series/|2026-06-02T08:50:25|2026-06-23T08:50:27|{'rendered': 'Not Suitable for Work (Episode 8 & 9 Added) | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788828939.5415103
+   "attempts": 2,
+   "last_attempt": 1788833056.1661375
   },
   "https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/": {
    "status": "pending",
    "signature": "157078|https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/|2026-05-15T16:39:00|2026-05-15T16:39:00|{'rendered': 'Berlin and the Lady with an Ermine S01 (Complete) | Foreign TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788829188.6486804
+   "attempts": 2,
+   "last_attempt": 1788833310.6327426
   }
  },
  "series_links": {
