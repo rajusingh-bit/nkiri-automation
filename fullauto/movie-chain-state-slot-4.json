@@ -318,22 +318,22 @@
    "blocked_at": 1788878516
   },
   "https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "64429|https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/|09/05/2022 06:20:25|09/02/2023 15:27:22|{'rendered': 'Shabaash Mithu (2022) | Download Indian Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877658.9361603
+   "modified": "09/02/2023 15:27:22",
+   "completed_at": 1788878917
   },
   "https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "64032|https://thenkiri.com/mr-malcolms-list-2022-download-hollywood-movie/|08/31/2022 12:52:21|09/02/2023 15:20:52|{'rendered': 'Mr. Malcolms List (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877711.4684322
+   "attempts": 3,
+   "last_attempt": 1788878965.9292526
   },
   "https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "62572|https://thenkiri.com/easter-sunday-2022-download-hollywood-movie/|08/23/2022 10:59:07|09/02/2023 15:15:21|{'rendered': 'Easter Sunday (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788877720.6985898
+   "modified": "09/02/2023 15:15:21",
+   "completed_at": 1788880540
   },
   "https://thenkiri.com/rise-of-the-teenage-mutant-ninja-turtles-2022-download-hollywood-movie/": {
    "status": "done",
@@ -436,6 +436,12 @@
    "signature": "44037|https://thenkiri.com/crawlspace-2022-download-hollywood-movie/|06/14/2022 07:36:12|09/02/2023 14:09:32|{'rendered': 'Crawlspace (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788878288.2941484
+  },
+  "https://thenkiri.com/trees-of-peace-2021-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "43846|https://thenkiri.com/trees-of-peace-2021-download-hollywood-movie/|06/10/2022 12:15:31|09/02/2023 14:06:53|{'rendered': 'Trees of Peace (2021) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880541.3046172
   }
  },
  "series_links": {
@@ -457,6 +463,8 @@
   "https://downloadwella.com/vdkiwdtjccwe/Baazaar.(NKIRI.COM).2018.480p.NF.WEB-DL.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/kDzqROJ3HWdkkqbWyho3TPwqojAkcBdQ",
   "https://downloadwella.com/s5jxbbt5fres/Remember.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/W5P8IfgvJG1MCPrfmY4HU2m7zeI5-Mb9",
   "https://downloadwella.com/384uq469zbum/Scooby-Doo.and.the.Gourmet.Ghost.(NKIRI.COM).2018.PROPER.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/fPzfBUOoNWlM-j0EeIcFbpVDzR9xHPKo",
-  "https://downloadwella.com/g5mswxrtvss3/Rise.of.the.Teenage.Mutant.Ninja.Turtles.The.Movie.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/sHiulGnorlV3KvrIEJHq_mYSoWCqB2lh"
+  "https://downloadwella.com/g5mswxrtvss3/Rise.of.the.Teenage.Mutant.Ninja.Turtles.The.Movie.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/sHiulGnorlV3KvrIEJHq_mYSoWCqB2lh",
+  "https://downloadwella.com/l1ex90efl85c/Shabaash.Mithu.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4.html": "https://v1.vidfiles.com/d/uzqlXD5FheU-M5-SWD37nzmwzQm6F3i4",
+  "https://downloadwella.com/kd7idlpp7x7h/Easter.Sunday.2022.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mp4": "https://v1.vidfiles.com/d/d8RAxMGbZnJ_QJIm3iowEA3LfBHBfcCW"
  }
 }
