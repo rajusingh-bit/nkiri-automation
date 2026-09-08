@@ -504,52 +504,68 @@
    "blocked_at": 1788882720
   },
   "https://thenkiri.com/toolsidas-junior-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42827|https://thenkiri.com/toolsidas-junior-2022-download-indian-movie/|05/25/2022 07:51:50|09/02/2023 14:02:55|{'rendered': 'Toolsidas Junior (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882771.14492
+   "last_attempt": 1788882771.14492,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42575|https://thenkiri.com/k-g-f-chapter-2-2022-download-indian-movie/|05/21/2022 12:47:03|09/02/2023 13:59:50|{'rendered': 'K.G.F Chapter 2 (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882771.9765515
+   "last_attempt": 1788882771.9765515,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/morbius-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "42051|https://thenkiri.com/morbius-2022-download-hollywood-movie/|05/14/2022 12:22:37|09/02/2023 13:57:54|{'rendered': 'Morbius (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882772.8553646
+   "last_attempt": 1788882772.8553646,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/sneakerella-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41960|https://thenkiri.com/sneakerella-2022-download-hollywood-movie/|05/13/2022 11:14:47|09/02/2023 13:54:41|{'rendered': 'Sneakerella (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882773.7677221
+   "last_attempt": 1788882773.7677221,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/the-lost-city-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41693|https://thenkiri.com/the-lost-city-2022-download-hollywood-movie/|05/10/2022 06:23:19|09/02/2023 13:55:39|{'rendered': 'The Lost City (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882775.0869877
+   "last_attempt": 1788882775.0869877,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/chhorii-2021-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41443|https://thenkiri.com/chhorii-2021-download-indian-movie/|05/05/2022 16:59:21|09/02/2023 13:53:00|{'rendered': 'Chhorii (2021) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882789.7074997
+   "last_attempt": 1788882789.7074997,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/the-bad-guys-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41205|https://thenkiri.com/the-bad-guys-2022-download-hollywood-movie/|05/02/2022 16:08:47|09/02/2023 13:50:23|{'rendered': 'The Bad Guys (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882791.1568518
+   "last_attempt": 1788882791.1568518,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/unplugging-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "41036|https://thenkiri.com/unplugging-2022-download-hollywood-movie/|04/30/2022 12:18:26|09/02/2023 13:51:05|{'rendered': 'Unplugging (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788882792.2496953
+   "last_attempt": 1788882792.2496953,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788882909
   },
   "https://thenkiri.com/broke-rookie-star-s01-episode-1-added-korean-drama/": {
    "status": "pending",
