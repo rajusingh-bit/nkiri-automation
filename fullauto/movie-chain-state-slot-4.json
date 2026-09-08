@@ -310,10 +310,12 @@
    "completed_at": 1788876323
   },
   "https://thenkiri.com/hansan-rising-dragon-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "64505|https://thenkiri.com/hansan-rising-dragon-2022-download-korean-movie/|09/05/2022 09:52:39|02/24/2024 16:12:53|{'rendered': 'Hansan: Rising Dragon (2022) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788878404.7955387
+   "last_attempt": 1788878404.7955387,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878516
   },
   "https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/": {
    "status": "pending",
