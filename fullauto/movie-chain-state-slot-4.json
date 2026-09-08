@@ -608,22 +608,28 @@
    "blocked_at": 1788883664
   },
   "https://thenkiri.com/yaksha-ruthless-operations-2021-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39327|https://thenkiri.com/yaksha-ruthless-operations-2021-download-korean-movie/|04/08/2022 21:28:06|09/02/2023 13:39:19|{'rendered': 'Yaksha Ruthless Operations (2021) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883666.3746405
+   "last_attempt": 1788883666.3746405,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883721
   },
   "https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "39265|https://thenkiri.com/all-the-old-knives-2022-download-hollywood-movie/|04/08/2022 10:25:46|09/02/2023 13:39:39|{'rendered': 'All the Old Knives (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883667.7677748
+   "last_attempt": 1788883667.7677748,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883721
   },
   "https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "38938|https://thenkiri.com/better-nate-than-ever-2022-download-hollywood-movie/|04/01/2022 16:36:43|09/02/2023 13:36:33|{'rendered': 'Better Nate Than Ever (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788883669.167374
+   "last_attempt": 1788883669.167374,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788883721
   },
   "https://thenkiri.com/moonfall-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -646,8 +652,8 @@
   "https://thenkiri.com/studio-666-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "38119|https://thenkiri.com/studio-666-2022-download-hollywood-movie/|03/17/2022 16:50:17|09/02/2023 13:15:04|{'rendered': 'Studio 666 (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788882793.073646
+   "attempts": 2,
+   "last_attempt": 1788883722.2629805
   },
   "https://thenkiri.com/miracle-letters-to-the-president-2021-download-korean-movie/": {
    "status": "pending",
@@ -714,6 +720,18 @@
    "signature": "36247|https://thenkiri.com/the-other-me-2022-download-hollywood-movie/|02/07/2022 14:02:00|09/02/2023 13:40:41|{'rendered': 'The Other Me (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788883253.0811596
+  },
+  "https://thenkiri.com/last-survivors-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "36144|https://thenkiri.com/last-survivors-2022-download-hollywood-movie/|02/04/2022 13:57:19|09/02/2023 13:37:51|{'rendered': 'Last Survivors (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883723.1214342
+  },
+  "https://thenkiri.com/the-policemans-lineage-2022-download-korean-movie/": {
+   "status": "pending",
+   "signature": "36004|https://thenkiri.com/the-policemans-lineage-2022-download-korean-movie/|02/02/2022 08:42:21|09/02/2023 13:38:30|{'rendered': 'The Policeman’s Lineage (2022) | Download Korean Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788883723.8947256
   }
  },
  "series_links": {
