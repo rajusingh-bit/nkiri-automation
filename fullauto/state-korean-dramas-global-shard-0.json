@@ -183,16 +183,24 @@
    "blocked_at": 1788832860
   },
   "https://thenkiri.com/marry-my-husband-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "106362|https://thenkiri.com/marry-my-husband-s01-complete-korean-drama/|2024-01-01T15:33:00|2024-02-26T08:38:02|{'rendered': 'Marry My Husband S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788837767.292302
+   "last_attempt": 1788837767.292302,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788841535
   },
   "https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "99604|https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/|2023-09-13T16:07:52|2023-12-15T06:55:32|{'rendered': 'The Kidnapping Day S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788838209.8518336
+   "attempts": 3,
+   "last_attempt": 1788841990.1102738
+  },
+  "https://thenkiri.com/lies-hidden-in-my-garden-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "91812|https://thenkiri.com/lies-hidden-in-my-garden-complete-korean-drama/|2023-06-19T18:53:21|2023-12-15T07:01:39|{'rendered': 'Lies Hidden in My Garden (Episode 8 Added) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788842207.7107635
   }
  },
  "series_links": {
