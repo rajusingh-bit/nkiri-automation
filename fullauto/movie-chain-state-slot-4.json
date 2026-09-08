@@ -238,10 +238,12 @@
    "completed_at": 1788874786
   },
   "https://thenkiri.com/high-school-king-of-savvy-download-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "74805|https://thenkiri.com/high-school-king-of-savvy-download-korean-drama/|11/30/2022 08:52:27|09/02/2023 13:50:39|{'rendered': 'High School King of Savvy  (Complete) | Download Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788877125.5993218
+   "last_attempt": 1788877125.5993218,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788877236
   },
   "https://thenkiri.com/remember-2022-download-korean-movie/": {
    "status": "done",
@@ -292,10 +294,10 @@
    "last_attempt": 1788877172.033156
   },
   "https://thenkiri.com/scooby-doo-and-the-gourmet-ghost-2018-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "66552|https://thenkiri.com/scooby-doo-and-the-gourmet-ghost-2018-download-hollywood-movie/|09/27/2022 14:22:19|09/02/2023 15:55:02|{'rendered': 'Scooby-Doo! and the Gourmet Ghost (2018) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876121.5807345
+   "modified": "09/02/2023 15:55:02",
+   "completed_at": 1788877473
   },
   "https://thenkiri.com/bts-permission-to-dance-on-stage-2022-download-music-special/": {
    "status": "done",
@@ -306,8 +308,8 @@
   "https://thenkiri.com/hansan-rising-dragon-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "64505|https://thenkiri.com/hansan-rising-dragon-2022-download-korean-movie/|09/05/2022 09:52:39|02/24/2024 16:12:53|{'rendered': 'Hansan: Rising Dragon (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788876333.5352445
+   "attempts": 2,
+   "last_attempt": 1788877485.986026
   },
   "https://thenkiri.com/shabaash-mithu-2022-download-indian-movie/": {
    "status": "pending",
@@ -386,6 +388,18 @@
    "signature": "45869|https://thenkiri.com/major-2022-download-indian-movie/|07/08/2022 15:47:59|09/02/2023 14:36:00|{'rendered': 'Major (2022) | Download Indian Movie'}",
    "attempts": 1,
    "last_attempt": 1788877175.57824
+  },
+  "https://thenkiri.com/jurassic-world-fallen-kingdom-2018-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45731|https://thenkiri.com/jurassic-world-fallen-kingdom-2018-download-hollywood-movie/|07/07/2022 07:52:23|09/02/2023 14:36:59|{'rendered': 'Jurassic World: Fallen Kingdom (2018) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877487.2343237
+  },
+  "https://thenkiri.com/last-the-night-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "45442|https://thenkiri.com/last-the-night-2022-download-hollywood-movie/|07/01/2022 10:34:25|09/02/2023 14:27:24|{'rendered': 'Last the Night (2022) | Download Hollywood Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788877488.6540673
   }
  },
  "series_links": {
@@ -405,6 +419,7 @@
   "https://downloadwella.com/6rwlymhb4pl5/BTS.Permission.to.Dance.on.Stage.LA.(NKIRI.COM).2022.KOREAN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.h.mkv.html": "https://v1.vidfiles.com/d/ypDZye5UY6xSl4tbJRaIz517-xe_pC1p",
   "https://downloadwella.com/xvgusk92bn2g/The.Admiral.Roaring.Currents.(NKIRI.COM).2014.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/_DAvhB7kjL0Q8yxju8d9VSo4CeXonKrE",
   "https://downloadwella.com/vdkiwdtjccwe/Baazaar.(NKIRI.COM).2018.480p.NF.WEB-DL.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/kDzqROJ3HWdkkqbWyho3TPwqojAkcBdQ",
-  "https://downloadwella.com/s5jxbbt5fres/Remember.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/W5P8IfgvJG1MCPrfmY4HU2m7zeI5-Mb9"
+  "https://downloadwella.com/s5jxbbt5fres/Remember.(NKIRI.COM).2022.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/W5P8IfgvJG1MCPrfmY4HU2m7zeI5-Mb9",
+  "https://downloadwella.com/384uq469zbum/Scooby-Doo.and.the.Gourmet.Ghost.(NKIRI.COM).2018.PROPER.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/fPzfBUOoNWlM-j0EeIcFbpVDzR9xHPKo"
  }
 }
