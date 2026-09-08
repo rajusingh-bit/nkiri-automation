@@ -1091,28 +1091,30 @@
    "completed_at": 1788812937
   },
   "https://thenkiri.com/hail-to-hell-2023-download-korean-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "103714|https://thenkiri.com/hail-to-hell-2023-download-korean-movie/|2023-11-30T15:53:32|2023-11-30T15:53:32|{'rendered': 'Hail to Hell (2023) | Download Korean Movie'}",
    "attempts": 3,
-   "last_attempt": 1788828599.3357959
+   "last_attempt": 1788828599.3357959,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832830
   },
   "https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/": {
    "status": "pending",
    "signature": "100282|https://thenkiri.com/mission-impossible-collection-1-6-download-hollywood-movie/|2023-09-27T08:00:49|2023-09-27T08:00:49|{'rendered': 'Mission: Impossible Collection 1 – 6 | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828599.9530933
+   "attempts": 3,
+   "last_attempt": 1788832831.7301688
   },
   "https://thenkiri.com/the-out-laws-2023-download-hollywood-movie/": {
    "status": "pending",
    "signature": "92998|https://thenkiri.com/the-out-laws-2023-download-hollywood-movie/|2023-07-07T12:36:34|2023-09-02T17:16:34|{'rendered': 'The Out-Laws (2023) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828601.0748708
+   "attempts": 3,
+   "last_attempt": 1788832832.90898
   },
   "https://thenkiri.com/return-to-seoul-2023-download-french-movie/": {
    "status": "pending",
    "signature": "88234|https://thenkiri.com/return-to-seoul-2023-download-french-movie/|2023-04-28T17:58:26|2023-09-02T17:47:31|{'rendered': 'Return to Seoul (2023) | Download French Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788828602.122607
+   "attempts": 3,
+   "last_attempt": 1788832834.3024447
   },
   "https://thenkiri.com/diva-2020-download-korean-movie/": {
    "status": "done",
@@ -1135,26 +1137,32 @@
   "https://thenkiri.com/hunt-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "66931|https://thenkiri.com/hunt-2022-download-korean-movie/|2022-10-02T07:30:52|2023-09-02T16:00:48|{'rendered': 'Hunt (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788828632.7696385
+   "attempts": 2,
+   "last_attempt": 1788832866.053946
   },
   "https://thenkiri.com/secret-headquarters-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "59326|https://thenkiri.com/secret-headquarters-2022-download-hollywood-movie/|2022-08-17T17:16:31|2023-09-02T15:09:56|{'rendered': 'Secret Headquarters (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788828633.5631533
+   "attempts": 2,
+   "last_attempt": 1788832867.08875
   },
   "https://thenkiri.com/vikram-2022-download-indian-movie/": {
    "status": "pending",
    "signature": "46153|https://thenkiri.com/vikram-2022-download-indian-movie/|2022-07-11T11:42:48|2023-09-02T14:41:52|{'rendered': 'Vikram (2022) | Download Indian Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788828634.4157608
+   "attempts": 2,
+   "last_attempt": 1788832868.072694
   },
   "https://thenkiri.com/blind-war-2022-download-chinese-movie/": {
    "status": "pending",
    "signature": "43987|https://thenkiri.com/blind-war-2022-download-chinese-movie/|2022-06-13T11:58:41|2023-09-02T14:09:42|{'rendered': 'Blind War (2022) | Download Chinese Movie'}",
+   "attempts": 2,
+   "last_attempt": 1788832881.7142243
+  },
+  "https://thenkiri.com/monstrous-2022-download-hollywood-movie/": {
+   "status": "pending",
+   "signature": "41929|https://thenkiri.com/monstrous-2022-download-hollywood-movie/|2022-05-13T06:17:59|2023-09-02T13:54:48|{'rendered': 'Monstrous (2022) | Download Hollywood Movie'}",
    "attempts": 1,
-   "last_attempt": 1788828646.398632
+   "last_attempt": 1788832882.69198
   }
  },
  "series_links": {

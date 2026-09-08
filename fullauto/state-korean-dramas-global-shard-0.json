@@ -175,16 +175,24 @@
    "completed_at": 1788818958
   },
   "https://thenkiri.com/dreaming-of-freaking-fairytale-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "116319|https://thenkiri.com/dreaming-of-freaking-fairytale-s01-complete-korean-drama/|2024-05-31T13:32:02|2024-06-28T11:02:33|{'rendered': 'Dreaming of Freaking Fairytale S01 (Episode 9 & 10 Added) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788828663.473662
+   "last_attempt": 1788828663.473662,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788832860
   },
   "https://thenkiri.com/marry-my-husband-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "106362|https://thenkiri.com/marry-my-husband-s01-complete-korean-drama/|2024-01-01T15:33:00|2024-02-26T08:38:02|{'rendered': 'Marry My Husband S01 (Complete) | Korean Drama'}",
+   "attempts": 2,
+   "last_attempt": 1788833516.6154277
+  },
+  "https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "99604|https://thenkiri.com/the-kidnapping-day-s01-complete-korean-drama/|2023-09-13T16:07:52|2023-12-15T06:55:32|{'rendered': 'The Kidnapping Day S01 (Complete) | Korean Drama'}",
    "attempts": 1,
-   "last_attempt": 1788830470.4554853
+   "last_attempt": 1788834010.3646698
   }
  },
  "series_links": {
