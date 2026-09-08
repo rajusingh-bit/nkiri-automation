@@ -1149,52 +1149,52 @@
    "blocked_at": 1788841489
   },
   "https://thenkiri.com/tune-in-for-love-2022-download-korean-movie/": {
-   "status": "pending",
+   "status": "done",
    "signature": "66496|https://thenkiri.com/tune-in-for-love-2022-download-korean-movie/|2022-09-27T06:57:39|2023-09-02T15:55:18|{'rendered': 'Tune in for Love (2022) | Download Korean Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841524.1929417
+   "modified": "2023-09-02T15:55:18",
+   "completed_at": 1788860978
   },
   "https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "58266|https://thenkiri.com/minions-the-rise-of-gru-2022-download-hollywood-movie/|2022-08-16T09:03:13|2024-07-15T11:39:00|{'rendered': 'Minions The Rise of Gru (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841525.5767286
+   "attempts": 3,
+   "last_attempt": 1788860982.4363422
   },
   "https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "45849|https://thenkiri.com/the-sea-beauty-2022-download-hollywood-movie/|2022-07-08T12:43:13|2023-09-02T14:36:11|{'rendered': 'The Sea Beauty (2022) | Download Hollywood Movie'}",
-   "attempts": 2,
-   "last_attempt": 1788841526.779876
+   "attempts": 3,
+   "last_attempt": 1788860985.5015907
   },
   "https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "43720|https://thenkiri.com/downton-abbey-a-new-era-2022-download-hollywood-movie/|2022-06-09T05:53:55|2023-09-02T14:07:36|{'rendered': 'Downton Abbey A New Era (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841528.3092175
+   "attempts": 2,
+   "last_attempt": 1788860988.9595413
   },
   "https://thenkiri.com/little-sorcerer-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "41564|https://thenkiri.com/little-sorcerer-2022-download-hollywood-movie/|2022-05-07T12:33:18|2023-09-02T13:52:34|{'rendered': 'Little Sorcerer (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841529.6875157
+   "attempts": 2,
+   "last_attempt": 1788860991.943347
   },
   "https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/": {
    "status": "pending",
    "signature": "39513|https://thenkiri.com/infinite-storm-2022-download-hollywood-movie/|2022-04-12T20:16:37|2023-09-02T13:41:46|{'rendered': 'Infinite Storm (2022) | Download Hollywood Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841530.9066978
+   "attempts": 2,
+   "last_attempt": 1788860995.3571913
   },
   "https://thenkiri.com/homestay-2022-download-japanese-movie/": {
    "status": "pending",
    "signature": "38019|https://thenkiri.com/homestay-2022-download-japanese-movie/|2022-03-16T06:04:09|2023-09-02T13:15:20|{'rendered': 'Homestay (2022) | Download JAPANESE Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841532.2940948
+   "attempts": 2,
+   "last_attempt": 1788860998.2790804
   },
   "https://thenkiri.com/love-and-leashes-2022-download-korean-movie/": {
    "status": "pending",
    "signature": "36502|https://thenkiri.com/love-and-leashes-2022-download-korean-movie/|2022-02-12T05:45:45|2023-09-02T13:39:55|{'rendered': 'Love and Leashes (2022) | Download Korean Movie'}",
-   "attempts": 1,
-   "last_attempt": 1788841534.1616402
+   "attempts": 2,
+   "last_attempt": 1788861001.2809749
   }
  },
  "series_links": {
@@ -1402,6 +1402,7 @@
   "https://downloadwella.com/mdulr44o8q21/Hommage.(NKIRI.COM).2021.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/u-XNNT10vLtkDS-ZVZCIcaqfi1vYFnfS",
   "https://downloadwella.com/d5arr4402s9j/Project.Silence.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/v6JPCKA8g29ILYM9Hocb330oDVxSoO5O",
   "https://downloadwella.com/5tkxwqsy9phe/Ordinary.Angels.(NKIRI.COM).2024.WEBRip.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/waDzovBmsZPQUq8t204nix81mnBZCsob",
-  "https://downloadwella.com/35hutra18piq/Once.Upon.a.Crime.(NKIRI.COM).2023.JAPANESE.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/0a4R8MBYdKKNZslzpMvxgNAh3PgZ_oe_"
+  "https://downloadwella.com/35hutra18piq/Once.Upon.a.Crime.(NKIRI.COM).2023.JAPANESE.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/0a4R8MBYdKKNZslzpMvxgNAh3PgZ_oe_",
+  "https://downloadwella.com/pynczt4taz5k/Tune.in.for.Love.(NKIRI.COM).2019.NF.WEB-DL-DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/iEjeUYDwQxDoKjyVMxyO_t2mls0PVWmR"
  }
 }

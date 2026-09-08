@@ -218,16 +218,16 @@
    "blocked_at": 1788841519
   },
   "https://thenkiri.com/soul-mate-s01-complete-tv-series/": {
-   "status": "pending",
+   "status": "done",
    "signature": "156974|https://thenkiri.com/soul-mate-s01-complete-tv-series/|2026-05-14T17:54:19|2026-05-16T14:37:26|{'rendered': 'Soul Mate S01 (Episode 2 Fixed)  | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788841736.0284276
+   "modified": "2026-05-16T14:37:26",
+   "completed_at": 1788861203
   },
   "https://thenkiri.com/hacks-s04-complete-tv-series/": {
    "status": "pending",
    "signature": "155642|https://thenkiri.com/hacks-s04-complete-tv-series/|2026-04-29T11:18:16|2026-04-29T11:32:06|{'rendered': 'Hacks S04 (Complete)  | TV Series'}",
-   "attempts": 1,
-   "last_attempt": 1788842048.8601649
+   "attempts": 2,
+   "last_attempt": 1788863501.8213987
   }
  },
  "series_links": {
@@ -450,6 +450,22 @@
   "https://downloadwella.com/xq66evri9t7y/Saga.of.Tanya.the.Evil.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LEgwXl3M6XN1kj6erpnsdpln4r22ejNm",
   "https://downloadwella.com/0jfybhh8vn82/Saga.of.Tanya.the.Evil.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PS9IshxZhA_XD8ElNYTBrQGavhVXS4KY",
   "https://downloadwella.com/m9jgzq31wrnr/Saga.of.Tanya.the.Evil.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a_Z-ikdjohWuVQ5rXsPeaZYrpHXFZncX",
-  "https://downloadwella.com/qywjku8i4epc/Saga.of.Tanya.the.Evil.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ij4V82dCvdeRwf93MJpAJKU6T2_l7GL"
+  "https://downloadwella.com/qywjku8i4epc/Saga.of.Tanya.the.Evil.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6ij4V82dCvdeRwf93MJpAJKU6T2_l7GL",
+  "https://downloadwella.com/8ufig9teped0/Soul.Mate.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2aSaVEZS7k1L4PoQpIhYjtCvs1R-xRjj",
+  "https://downloadwella.com/xoebth9becvu/Soul.Mate.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G4Nn-AHNd_W5JN5_3arU2Ri7I5IGA-XG",
+  "https://downloadwella.com/hpu8e877hsw5/Soul.Mate.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/okhZR0uu4ishbSyENJkE1bE-jodlebiG",
+  "https://downloadwella.com/mjyx1odoube5/Soul.Mate.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mD_HWhoI4cvSXy74SJoShWR-Z_wwFL64",
+  "https://downloadwella.com/vw7opiksboz1/Soul.Mate.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_bgo46kL6zd4LgAG7Z6e0NcsXFgmZgHW",
+  "https://downloadwella.com/zi88udseq31s/Soul.Mate.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-6gIyos3xfqyDBXFECOSScaObLgXaaDC",
+  "https://downloadwella.com/mjxs2ih6nkqi/Soul.Mate.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M5tLMsCX8kpiyKAeqjGo0_htodKhFAmT",
+  "https://downloadwella.com/82twzm8vv3q9/Hacks.S04E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QVsBs-BClRLg1-2HJd_c8gWohIJH18j_",
+  "https://downloadwella.com/ja74cj8flxcv/Hacks.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Uv42OKHM3HsjX8s1HPeGhZncEyrpt1Ce",
+  "https://downloadwella.com/ny0pn8wmqnh7/Hacks.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YP5GDd4WXh8zr9HjGMYbwMUjI-M85VC6",
+  "https://downloadwella.com/tzhwlkzhgk2q/Hacks.S04E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0wu_FNNlL7RGksxPvNta_Psy4CLIPL3X",
+  "https://downloadwella.com/28oblms6oadj/Hacks.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fO6ElwA1RRpq0XL8Y5aI_rRcRnNTDB1O",
+  "https://downloadwella.com/dmil1dq3de5u/Hacks.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/meqdqYyDdSaYwEEjqmrgkdSe89Nj88sc",
+  "https://downloadwella.com/1vnxiuwd89om/Hacks.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AoYbjsjyuYr0HXv3BOXdFmC6YvVMBZeC",
+  "https://downloadwella.com/3cjg1d2vt28j/Hacks.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iBRALI9arC9HvNPJIad4MeONzZ1SJOSx",
+  "https://downloadwella.com/k0ias0alg0av/Hacks.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0qBF91rr6AyijrQyb4vcRt80QUrwzT-"
  }
 }
