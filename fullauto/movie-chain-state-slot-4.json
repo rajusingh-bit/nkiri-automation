@@ -344,70 +344,92 @@
    "completed_at": 1788877833
   },
   "https://thenkiri.com/elvis-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58281|https://thenkiri.com/elvis-2022-download-hollywood-movie/|08/16/2022 09:15:33|09/02/2023 15:10:47|{'rendered': 'Elvis (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880596.1298366
+   "last_attempt": 1788880596.1298366,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/they-them-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "58238|https://thenkiri.com/they-them-2022-download-hollywood-movie/|08/16/2022 08:45:31|09/02/2023 14:56:26|{'rendered': 'They/Them (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880597.0411792
+   "last_attempt": 1788880597.0411792,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/purple-hearts-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47458|https://thenkiri.com/purple-hearts-2022-download-hollywood-movie/|08/01/2022 02:25:23|09/02/2023 14:58:13|{'rendered': 'Purple Hearts (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880597.9645364
+   "last_attempt": 1788880597.9645364,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47278|https://thenkiri.com/sniper-the-white-raven-2022-download-ukrainian-movie/|07/29/2022 10:13:38|09/02/2023 14:51:34|{'rendered': 'Sniper The White Raven (2022) | Download Ukrainian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880599.593793
+   "last_attempt": 1788880599.593793,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "47101|https://thenkiri.com/the-reef-stalked-2022-download-hollywood-movie/|07/26/2022 10:22:46|09/02/2023 14:52:25|{'rendered': 'The Reef Stalked (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880600.5734923
+   "last_attempt": 1788880600.5734923,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46964|https://thenkiri.com/jugjugg-jeeyo-2022-download-indian-movie/|07/23/2022 13:55:17|02/24/2024 19:06:35|{'rendered': 'JugJugg Jeeyo (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880609.0227618
+   "last_attempt": 1788880609.0227618,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46502|https://thenkiri.com/z-o-m-b-i-e-3-2022-download-hollywood-movie/|07/15/2022 15:38:50|09/02/2023 14:47:40|{'rendered': 'Z-O-M-B-I-E 3 (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880609.8351812
+   "last_attempt": 1788880609.8351812,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "46363|https://thenkiri.com/the-black-phone-2022-download-hollywood-movie/|07/14/2022 11:53:44|09/02/2023 14:40:37|{'rendered': 'The Black Phone (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880610.6531732
+   "last_attempt": 1788880610.6531732,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/major-2022-download-indian-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45869|https://thenkiri.com/major-2022-download-indian-movie/|07/08/2022 15:47:59|09/02/2023 14:36:00|{'rendered': 'Major (2022) | Download Indian Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880611.5494175
+   "last_attempt": 1788880611.5494175,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/jurassic-world-fallen-kingdom-2018-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45731|https://thenkiri.com/jurassic-world-fallen-kingdom-2018-download-hollywood-movie/|07/07/2022 07:52:23|09/02/2023 14:36:59|{'rendered': 'Jurassic World: Fallen Kingdom (2018) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880612.3489995
+   "last_attempt": 1788880612.3489995,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/last-the-night-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "45442|https://thenkiri.com/last-the-night-2022-download-hollywood-movie/|07/01/2022 10:34:25|09/02/2023 14:27:24|{'rendered': 'Last the Night (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788880613.1481342
+   "last_attempt": 1788880613.1481342,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788880752
   },
   "https://thenkiri.com/montana-story-2022-download-hollywood-movie/": {
    "status": "pending",
@@ -456,6 +478,12 @@
    "signature": "43443|https://thenkiri.com/last-seen-alive-2022-download-hollywood-movie/|06/03/2022 09:11:11|09/02/2023 14:05:22|{'rendered': 'Last Seen Alive (2022) | Download Hollywood Movie'}",
    "attempts": 1,
    "last_attempt": 1788880638.1844113
+  },
+  "https://thenkiri.com/runway-34-2022-download-indian-movie/": {
+   "status": "pending",
+   "signature": "43199|https://thenkiri.com/runway-34-2022-download-indian-movie/|05/29/2022 12:37:44|09/02/2023 14:02:15|{'rendered': 'Runway 34 (2022) | Download Indian Movie'}",
+   "attempts": 1,
+   "last_attempt": 1788880753.2147071
   }
  },
  "series_links": {
