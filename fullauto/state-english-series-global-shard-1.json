@@ -206,6 +206,18 @@
    "signature": "159618|https://thenkiri.com/the-polygamist-s01-complete-tv-series/|2026-06-17T16:10:32|2026-06-17T16:10:32|{'rendered': 'The Polygamist S01 (Complete) | TV Series'}",
    "modified": "2026-06-17T16:10:32",
    "completed_at": 1788820426
+  },
+  "https://thenkiri.com/not-suitable-for-work-complete-tv-series/": {
+   "status": "pending",
+   "signature": "158312|https://thenkiri.com/not-suitable-for-work-complete-tv-series/|2026-06-02T08:50:25|2026-06-23T08:50:27|{'rendered': 'Not Suitable for Work (Episode 8 & 9 Added) | TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788828939.5415103
+  },
+  "https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/": {
+   "status": "pending",
+   "signature": "157078|https://thenkiri.com/berlin-and-the-lady-with-an-ermine-s01-complete-foreign-tv-series/|2026-05-15T16:39:00|2026-05-15T16:39:00|{'rendered': 'Berlin and the Lady with an Ermine S01 (Complete) | Foreign TV Series'}",
+   "attempts": 1,
+   "last_attempt": 1788829188.6486804
   }
  },
  "series_links": {
