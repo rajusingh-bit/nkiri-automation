@@ -258,10 +258,12 @@
    "completed_at": 1788876760
   },
   "https://thenkiri.com/the-independent-2022-download-hollywood-movie/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "70508|https://thenkiri.com/the-independent-2022-download-hollywood-movie/|11/05/2022 05:40:11|09/02/2023 16:37:44|{'rendered': 'The Independent (2022) | Download Hollywood Movie'}",
    "attempts": 3,
-   "last_attempt": 1788877949.5837748
+   "last_attempt": 1788877949.5837748,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788878043
   },
   "https://thenkiri.com/the-villainess-2017-download-korean-movie/": {
    "status": "done",
