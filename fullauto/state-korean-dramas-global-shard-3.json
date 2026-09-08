@@ -169,10 +169,12 @@
    "completed_at": 1788792618
   },
   "https://thenkiri.com/king-of-baking-kim-tak-goo-s01-complete-korean-drama/": {
-   "status": "pending",
+   "status": "blocked",
    "signature": "137932|https://thenkiri.com/king-of-baking-kim-tak-goo-s01-complete-korean-drama/|2025-06-11T14:07:30|2025-06-11T14:30:32|{'rendered': 'King of Baking, Kim Tak Goo aka Bread, Love and Dreams S01 (Complete) | Korean Drama'}",
    "attempts": 3,
-   "last_attempt": 1788832899.9173677
+   "last_attempt": 1788832899.9173677,
+   "reason": "source failed three historical retries",
+   "blocked_at": 1788837193
   },
   "https://thenkiri.com/cinderella-at-2am-complete-korean-drama/": {
    "status": "done",
@@ -183,8 +185,14 @@
   "https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/": {
    "status": "pending",
    "signature": "115391|https://thenkiri.com/level-9-chairman-s01-complete-korean-drama/|2024-05-13T11:05:26|2024-06-03T06:51:37|{'rendered': 'Level 9 Chairman S01 (Complete) | Korean Drama'}",
-   "attempts": 2,
-   "last_attempt": 1788833275.751268
+   "attempts": 3,
+   "last_attempt": 1788837564.1506774
+  },
+  "https://thenkiri.com/soundtrack-2-complete-korean-drama/": {
+   "status": "pending",
+   "signature": "103994|https://thenkiri.com/soundtrack-2-complete-korean-drama/|2023-12-07T07:55:52|2024-02-25T00:23:50|{'rendered': 'Soundtrack #2 (Complete) | Korean Drama'}",
+   "attempts": 1,
+   "last_attempt": 1788837762.8041155
   }
  },
  "series_links": {
