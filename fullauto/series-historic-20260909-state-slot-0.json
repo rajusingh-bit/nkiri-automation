@@ -159,10 +159,11 @@
       "completed_at": 1788972532
     },
     "https://thenkiri.com/the-rapture-complete-tv-series/": {
-      "status": "pending",
+      "status": "partial",
       "signature": "163098|https://thenkiri.com/the-rapture-complete-tv-series/|2026-07-29T08:06:12|2026-07-29T08:54:49|{'rendered': 'The Rapture (Complete) | TV Series'}",
-      "attempts": 1,
-      "last_attempt": 1788791760.864799
+      "modified": "2026-07-29T08:54:49",
+      "completed_at": 1788972617,
+      "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/sterling-point-s01-complete-tv-series/": {
       "status": "done",
