@@ -122,6 +122,133 @@
    "signature": "124894|https://thenkiri.com/magpie-2024-download-hollywood-movie/|2024-11-12T07:01:22|2024-11-12T07:05:50|{'rendered': 'Magpie (2024) | Download Hollywood Movie'}",
    "modified": "2024-11-12T07:05:50",
    "completed_at": 1788942967
+  },
+  "https://thenkiri.com/war-blade-2024-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "124294|https://thenkiri.com/war-blade-2024-download-hollywood-movie/|2024-11-01T11:45:18|2024-11-01T11:45:18|{'rendered': 'War Blade (2024) | Download Hollywood Movie'}",
+   "modified": "2024-11-01T11:45:18",
+   "skipped_at": 1788956276,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "119602|https://thenkiri.com/we-are-zombies-2024-download-hollywood-movie/|2024-08-13T08:00:31|2024-08-13T08:00:31|{'rendered': 'We Are Zombies (2024) | Download Hollywood Movie'}",
+   "modified": "2024-08-13T08:00:31",
+   "skipped_at": 1788956277,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/the-plot-2024-download-korean-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "119277|https://thenkiri.com/the-plot-2024-download-korean-movie/|2024-08-05T08:31:52|2024-08-05T08:32:37|{'rendered': 'The Plot (2024) | Download Korean Movie'}",
+   "modified": "2024-08-05T08:32:37",
+   "skipped_at": 1788956375,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/hijack-1971-2024-download-korean-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "119123|https://thenkiri.com/hijack-1971-2024-download-korean-movie/|2024-08-01T07:58:36|2024-08-01T07:58:36|{'rendered': 'Hijack 1971 (2024) | Download Korean Movie'}",
+   "modified": "2024-08-01T07:58:36",
+   "skipped_at": 1788956383,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "115321|https://thenkiri.com/the-hunger-games-complete-collection-download-hollywood-movie/|2024-05-13T06:12:14|2024-05-13T06:12:14|{'rendered': 'The Hunger Games Complete Collection | Download Hollywood Movie'}",
+   "modified": "2024-05-13T06:12:14",
+   "skipped_at": 1788956383,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/woody-woodpecker-goes-to-camp-2024-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "113726|https://thenkiri.com/woody-woodpecker-goes-to-camp-2024-download-hollywood-movie/|2024-04-12T11:20:29|2024-04-12T11:20:29|{'rendered': 'Woody Woodpecker Goes to Camp (2024) | Download Hollywood Movie'}",
+   "modified": "2024-04-12T11:20:29",
+   "completed_at": 1788956502
+  },
+  "https://thenkiri.com/salaar-part-1-ceasefire-2023-download-indian-movie/": {
+   "status": "done",
+   "signature": "113273|https://thenkiri.com/salaar-part-1-ceasefire-2023-download-indian-movie/|2024-04-03T11:48:26|2024-04-03T11:48:26|{'rendered': 'Salaar: Part 1 Ceasefire (2023) | Download Indian Movie'}",
+   "modified": "2024-04-03T11:48:26",
+   "completed_at": 1788956583
+  },
+  "https://thenkiri.com/which-brings-me-to-you-2024-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "107737|https://thenkiri.com/which-brings-me-to-you-2024-download-hollywood-movie/|2024-02-02T10:28:52|2024-02-02T10:28:52|{'rendered': 'Which Brings Me to You (2024) | Download Hollywood Movie'}",
+   "modified": "2024-02-02T10:28:52",
+   "skipped_at": 1788956591,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/wish-2023-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "107332|https://thenkiri.com/wish-2023-download-hollywood-movie/|2024-01-23T10:36:52|2024-01-23T10:36:52|{'rendered': 'Wish (2023) | Download Hollywood Movie'}",
+   "modified": "2024-01-23T10:36:52",
+   "completed_at": 1788956651
+  },
+  "https://thenkiri.com/twenty-hacker-2021-download-korean-movie/": {
+   "status": "done",
+   "signature": "106914|https://thenkiri.com/twenty-hacker-2021-download-korean-movie/|2024-01-12T12:36:57|2024-01-12T12:36:57|{'rendered': 'Twenty Hacker (2021) | Download Korean Movie'}",
+   "modified": "2024-01-12T12:36:57",
+   "completed_at": 1788956703
+  },
+  "https://thenkiri.com/zombie-town-2023-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "103311|https://thenkiri.com/zombie-town-2023-download-hollywood-movie/|2023-11-22T10:59:06|2024-02-24T12:44:15|{'rendered': 'Zombie Town (2023) | Download Hollywood Movie'}",
+   "modified": "2024-02-24T12:44:15",
+   "skipped_at": 1788956711,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/devil-on-my-doorstep-2023-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "102992|https://thenkiri.com/devil-on-my-doorstep-2023-download-hollywood-movie/|2023-11-16T10:28:55|2023-11-16T10:28:55|{'rendered': 'Devil on My Doorstep (2023) | Download Hollywood Movie'}",
+   "modified": "2023-11-16T10:28:55",
+   "completed_at": 1788956773
+  },
+  "https://thenkiri.com/wwe-crown-jewel-2023-download-wresting-special/": "skipped (wwe)",
+  "https://thenkiri.com/next-sohee-2023-download-korean-movie/": {
+   "status": "done",
+   "signature": "99262|https://thenkiri.com/next-sohee-2023-download-korean-movie/|2023-09-05T08:01:10|2023-09-05T08:01:10|{'rendered': 'Next Sohee (2023) | Download Korean Movie'}",
+   "modified": "2023-09-05T08:01:10",
+   "completed_at": 1788956853
+  },
+  "https://thenkiri.com/indiana-jones-and-the-dial-of-desiny-2023-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "97516|https://thenkiri.com/indiana-jones-and-the-dial-of-desiny-2023-download-hollywood-movie/|2023-08-29T10:30:15|2023-09-02T18:03:49|{'rendered': 'Indiana Jones and the Dial of Desiny (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T18:03:49",
+   "completed_at": 1788956905
+  },
+  "https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "95937|https://thenkiri.com/the-ghost-station-2023-download-hollywood-movie/|2023-07-26T09:38:00|2023-09-02T17:24:43|{'rendered': 'The Ghost Station (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T17:24:43",
+   "skipped_at": 1788956908,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/gangnam-zombie-2023-download-korean-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "92695|https://thenkiri.com/gangnam-zombie-2023-download-korean-movie/|2023-07-03T17:05:24|2023-09-02T17:09:30|{'rendered': 'Gangnam Zombie (2023) | Download Korean Movie'}",
+   "modified": "2023-09-02T17:09:30",
+   "skipped_at": 1788956917,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/you-hurt-my-feelings-2023-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "92141|https://thenkiri.com/you-hurt-my-feelings-2023-download-hollywood-movie/|2023-06-23T12:05:33|2023-09-02T17:07:01|{'rendered': 'You Hurt My Feelings (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T17:07:01",
+   "skipped_at": 1788957015,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/youre-killing-me-2023-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "91695|https://thenkiri.com/youre-killing-me-2023-download-hollywood-movie/|2023-06-16T18:49:57|2023-09-02T18:12:31|{'rendered': 'You’re Killing Me (2023) | Download Hollywood Movie'}",
+   "modified": "2023-09-02T18:12:31",
+   "skipped_at": 1788957112,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/samjin-company-english-class-2020-download-korean-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "89349|https://thenkiri.com/samjin-company-english-class-2020-download-korean-movie/|2023-05-12T11:07:44|2023-09-02T17:57:21|{'rendered': 'Samjin Company English Class (2020) | Download Korean Movie'}",
+   "modified": "2023-09-02T17:57:21",
+   "skipped_at": 1788957113,
+   "reason": "no usable downloadable source link"
   }
  },
  "series_links": {
@@ -141,6 +268,13 @@
   "https://downloadwella.com/m5c5gtk2ym7z/Devils.Stay.(NKIRI.COM).2024.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/IWWhafiZ_miI5K0ygX3a84J7NSdCcV5K",
   "https://downloadwella.com/wslz2x3jsp0x/Den.of.Thieves.2(NKIRI.COM).WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/PAzZmdTXPMV3LRoECn2fy1JQe7JZsELS",
   "https://downloadwella.com/bucs4pni8uom/Thangalaan.(NKIRI.COM).2024.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/v_HVVFI5SwrL0xAX7lLh5AnKc4Ww3wnv",
-  "https://downloadwella.com/v80qwdy3p82i/Magpie.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/xWO06laxAURxT4d1NnjV0-rqmBF21Csq"
+  "https://downloadwella.com/v80qwdy3p82i/Magpie.(NKIRI.COM).2024.AMZN.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/xWO06laxAURxT4d1NnjV0-rqmBF21Csq",
+  "https://downloadwella.com/fpa8sdzfjei4/Woody.Woodpecker.Goes.to.Camp.(NKIRI.COM).2024.NF.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/SdHDOr_StHCSRSu4U7WgTDyvOixnnHHC",
+  "https://downloadwella.com/brgi9ov430e8/Salaar.(NKIRI.COM).2023.NF.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ocl2sQg__9BogeJO7CtcRN38Qs9FXwQn",
+  "https://downloadwella.com/0oid23q7g1xt/Wish.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/NsSuF-ZfnCWV7a__daP1ttKlOXb7SPDu",
+  "https://downloadwella.com/xr3apszz1z4v/Twenty.Hacker.(NKIRI.COM).2021.AMZN.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/jpsrFfszV1LBJ7LKR2k8fPSnGg_U_Qk3",
+  "https://downloadwella.com/z0r9exz90l0f/Devil.On.My.Doorstep.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/m_YYp8465QX66N8ukj_BSmB08XUCqByS",
+  "https://downloadwella.com/zb67v20wegyy/Next.Sohee.(NKIRI.COM).2022.WEB-DL.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/sItgjDtKghQ5XMpxXqrTTUYnCMWGGFNm",
+  "https://downloadwella.com/hlul6vecr5ga/Indiana.Jones.and.the.Dial.of.Destiny.(NKIRI.COM).2023.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/ThfYDXWShPUoWeoxUEGROiixII4VWIj7"
  }
 }
