@@ -212,11 +212,48 @@ jobs:
         run: |
           git config user.name "nkiri-automation[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json" "fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
-          git diff --cached --quiet || git commit -m "Record movie queue batch ${REPO_SLOT}"
+          # The worker may run for many minutes. Do not rebase its old checkout
+          # against main: a concurrent commit would conflict with this JSON
+          # ledger. Merge its processed records in a fresh worktree instead.
+          local_state="${GITHUB_WORKSPACE}/fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json"
+          local_result="${GITHUB_WORKSPACE}/fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
+          cp "$local_state" /tmp/nkiri-local-state.json
+          cp "$local_result" /tmp/nkiri-local-result.json
+
           for attempt in 1 2 3 4 5; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
-            git rebase --abort || true
+            worktree="/tmp/nkiri-state-sync-${GITHUB_RUN_ID}-${attempt}"
+            git fetch origin main
+            git worktree add --detach "$worktree" origin/main
+            python3 - "$worktree/fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json" /tmp/nkiri-local-state.json <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          remote_path, local_path = map(Path, sys.argv[1:])
+          try:
+              remote = json.loads(remote_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError, TypeError):
+              remote = {}
+          try:
+              local = json.loads(local_path.read_text(encoding='utf-8'))
+          except (OSError, ValueError, TypeError):
+              local = {}
+          merged = dict(remote)
+          merged.update({key: value for key, value in local.items() if key not in merged})
+          merged['processed'] = {
+              **(remote.get('processed') or {}),
+              **(local.get('processed') or {}),
+          }
+          remote_path.write_text(json.dumps(merged, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          PY
+            cp /tmp/nkiri-local-result.json "$worktree/fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
+            git -C "$worktree" add "fullauto/movie-historic-20260909-state-slot-${REPO_SLOT}.json" "fullauto/movie-chain-progress-${GITHUB_RUN_ID}.json"
+            git -C "$worktree" commit -m "Record movie queue batch ${REPO_SLOT}"
+            if git -C "$worktree" push origin HEAD:main; then
+              git worktree remove "$worktree"
+              exit 0
+            fi
+            git worktree remove "$worktree"
             sleep $((attempt * 5))
           done
           echo 'Could not persist movie batch state after five retries.'
