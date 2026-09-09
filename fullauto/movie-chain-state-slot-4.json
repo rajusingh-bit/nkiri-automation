@@ -1296,6 +1296,57 @@
    "signature": "5965|https://thenkiri.com/we-bare-bears-the-movie-2020-download-hollywood/|06/14/2020 10:08:21|02/26/2024 14:13:07|{'rendered': 'We Bare Bears : The Movie (2020) | Download Hollywood'}",
    "modified": "02/26/2024 14:13:07",
    "completed_at": 1788923863
+  },
+  "https://thenkiri.com/man-of-tai-chi-2013-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "5723|https://thenkiri.com/man-of-tai-chi-2013-download-hollywood-movie/|06/09/2020 06:01:15|09/02/2023 07:32:54|{'rendered': 'Man of Tai Chi (2013) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 07:32:54",
+   "skipped_at": 1788924030,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/the-godfather-2-1974-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "5367|https://thenkiri.com/the-godfather-2-1974-download-hollywood-movie/|06/03/2020 08:53:36|09/02/2023 07:27:47|{'rendered': 'The Godfather 2 (1974) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 07:27:47",
+   "completed_at": 1788924097
+  },
+  "https://thenkiri.com/z-2019-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "4360|https://thenkiri.com/z-2019-download-hollywood-movie/|05/05/2020 13:20:48|09/02/2023 07:23:17|{'rendered': 'Z (2019) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 07:23:17",
+   "completed_at": 1788924135
+  },
+  "https://thenkiri.com/mortal-kombat-legends-scorpions-revenge-2019-download-hollywood-movie/": {
+   "status": "skipped_unavailable",
+   "signature": "3895|https://thenkiri.com/mortal-kombat-legends-scorpions-revenge-2019-download-hollywood-movie/|04/15/2020 13:10:28|09/02/2023 07:20:50|{'rendered': 'Mortal Kombat Legends : Scorpions Revenge (2019) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 07:20:50",
+   "skipped_at": 1788924233,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/dolitle-2020-download-hollywood-movie/": {
+   "status": "done",
+   "signature": "3443|https://thenkiri.com/dolitle-2020-download-hollywood-movie/|02/09/2020 17:36:28|09/02/2023 07:21:38|{'rendered': 'Dolitle (2020) | Download Hollywood Movie'}",
+   "modified": "09/02/2023 07:21:38",
+   "completed_at": 1788924278
+  },
+  "https://thenkiri.com/download-midsommar/": {
+   "status": "skipped_unavailable",
+   "signature": "1919|https://thenkiri.com/download-midsommar/|09/24/2019 07:32:21|02/26/2024 14:20:38|{'rendered': 'Midsommar (2019) | Download Hollywood Movies'}",
+   "modified": "02/26/2024 14:20:38",
+   "skipped_at": 1788924286,
+   "reason": "no usable downloadable source link"
+  },
+  "https://thenkiri.com/download-witneesses/": {
+   "status": "done",
+   "signature": "1523|https://thenkiri.com/download-witneesses/|09/15/2019 08:37:22|02/26/2024 13:45:25|{'rendered': 'Witnesses (2019) | Download Hollywood Movie'}",
+   "modified": "02/26/2024 13:45:25",
+   "completed_at": 1788924323
+  },
+  "https://thenkiri.com/download-xmen-dark-phoenix-hollywood/": {
+   "status": "done",
+   "signature": "1006|https://thenkiri.com/download-xmen-dark-phoenix-hollywood/|08/31/2019 08:11:06|09/02/2023 07:06:09|{'rendered': 'X-Men: Dark Phoenix (2019) | Download Hollywood Movies'}",
+   "modified": "09/02/2023 07:06:09",
+   "completed_at": 1788924368
   }
  },
  "series_links": {
@@ -1346,6 +1397,11 @@
   "https://downloadwella.com/8d7119uqrba8/Radioactive.(NKIRI.COM).2019.480p.WEB-DL.x264.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/8fPF05X4iQA5G4h-7AKUSBC842XQB8Y9",
   "https://downloadwella.com/1zr0qx7cktzc/Queen.and.Slim.(NKIRI.COM).2019.480p.bluray.x264.mkv.html": "https://v1.vidfiles.com/d/2lxQnvhGcpzJ2AJe6PxdnVBCE3Pr-suZ",
   "https://downloadwella.com/coen20xg6r8e/Warm.Bodies.(NKIRI.COM).2013.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/4VbJUEktuhiQnHKZAcIydENXuLhBIxb7",
-  "https://downloadwella.com/1j5ors8j4dr6/We.Bare.Bears.(NKIRI.COM).The.Movie.2020.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zA1dOYkSLEOdbOGIQt0h7CnGVxgJhSQL"
+  "https://downloadwella.com/1j5ors8j4dr6/We.Bare.Bears.(NKIRI.COM).The.Movie.2020.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/zA1dOYkSLEOdbOGIQt0h7CnGVxgJhSQL",
+  "https://downloadwella.com/c44spedngzfi/%7Bnkiri.com%7D_The_God_Father__2_1974.mkv.html": "https://v1.vidfiles.com/d/BA_CrRXBeUdhjMbL_PnXXR2otzqtyTR5",
+  "https://downloadwella.com/bz5bgobwmtbj/%7Bnkiri.com%7D_Z_(2020)_gddh.mkv.html": "https://v1.vidfiles.com/d/jM0kn_4tKTVuXZbLnXoJ7p9fgUZC3EME",
+  "https://downloadwella.com/vde0mittcf9n/Dolittle.(NKIRI.COM).2020.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/nsMT2zA0rpoVkWK5EujJsZrICXaLFkRJ",
+  "https://downloadwella.com/9fgypuramsko/Witnesses.(NKIRI.COM).2019.WEBRip.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/qMAOQgKG8zYU7ttZrkLPf7ZRa5kle8wM",
+  "https://downloadwella.com/tlphj6v9bkkc/Dark.Phoenix.(NKIRI.COM).2019.BluRay.DOWNLOADED.FROM.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/lU47CLZ_gS5vpSDUpUzH79gv6aJahEsB"
  }
 }
