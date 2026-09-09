@@ -321,6 +321,13 @@
       "signature": "155642|https://thenkiri.com/hacks-s04-complete-tv-series/|2026-04-29T11:18:16|2026-04-29T11:32:06|{'rendered': 'Hacks S04 (Complete)  | TV Series'}",
       "attempts": 2,
       "last_attempt": 1788863501.8213987
+    },
+    "https://thenkiri.com/clevatess-s01-complete-anime-series/": {
+      "status": "partial",
+      "signature": "162708|https://thenkiri.com/clevatess-s01-complete-anime-series/|2026-07-25T10:27:07|2026-07-25T10:27:07|{'rendered': 'Clevatess S01 (Complete) | Anime Series'}",
+      "modified": "2026-07-25T10:27:07",
+      "completed_at": 1788973448,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -661,6 +668,17 @@
     "https://downloadwella.com/dmil1dq3de5u/Hacks.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/meqdqYyDdSaYwEEjqmrgkdSe89Nj88sc",
     "https://downloadwella.com/1vnxiuwd89om/Hacks.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AoYbjsjyuYr0HXv3BOXdFmC6YvVMBZeC",
     "https://downloadwella.com/3cjg1d2vt28j/Hacks.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iBRALI9arC9HvNPJIad4MeONzZ1SJOSx",
-    "https://downloadwella.com/k0ias0alg0av/Hacks.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0qBF91rr6AyijrQyb4vcRt80QUrwzT-"
+    "https://downloadwella.com/k0ias0alg0av/Hacks.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L0qBF91rr6AyijrQyb4vcRt80QUrwzT-",
+    "https://downloadwella.com/8zka7zsq3tnk/Clevatess.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xdczprDS_rsxX2s-UQlltVLnejIODHqg",
+    "https://downloadwella.com/o3qgxukv4fww/Clevatess.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cAdhlu6eOP5y7BAfX_icauUiCP7v7bR4",
+    "https://downloadwella.com/4l399le7avjs/Clevatess.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TBkdteHz35u-owiT4QveCHIwcuAoYSSa",
+    "https://downloadwella.com/v2aui050ou9a/Clevatess.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L3Z2PtWcmioe3p2cQJ-P5goJpjDJT1js",
+    "https://downloadwella.com/olzxkugaftz5/Clevatess.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5IPC9Ki9raybYNawhFGP_Raez7L_L4iN",
+    "https://downloadwella.com/ib6nr1o4ka5o/Clevatess.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s_3RQk82uZclts11ybHMZJMJeudG3WmC",
+    "https://downloadwella.com/qwu18pa14c8u/Clevatess.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xy6d3oaHkQwzyOQiFzNO0sS4k37FVlYz",
+    "https://downloadwella.com/2z56rzlsj5uk/Clevatess.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yxU6ZOVh5k8JHgrXSgUjiyFj4U8nP6L_",
+    "https://downloadwella.com/3hk7gmw015yh/Clevatess.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d0Zelzp20CcNvwqeMnObhrnNdXjsPWCv",
+    "https://downloadwella.com/6zpd361qsnfa/Clevatess.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ry9l-abOhx542IwCkwL08flf1H01NENt",
+    "https://downloadwella.com/7jmxn3geheoi/Clevatess.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wAGlVmcIolvq2AEvGOVu3v6lJNrpVQ5w"
   }
 }
