@@ -277,10 +277,12 @@
       "blocked_at": 1788841520
     },
     "https://thenkiri.com/rivals-s01-s02-complete-tv-series/": {
-      "status": "pending",
+      "status": "skipped_unavailable",
       "signature": "157094|https://thenkiri.com/rivals-s01-s02-complete-tv-series/|2026-05-16T10:12:03|2026-06-05T08:43:27|{'rendered': 'Rivals S01 & S02 (Episode 6 Added) | TV Series'}",
       "attempts": 3,
-      "last_attempt": 1788867168.0913951
+      "last_attempt": 1788867168.0913951,
+      "reason": "source failed historical retries",
+      "skipped_at": 1789018832
     },
     "https://thenkiri.com/hacks-s03-complete-tv-series/": {
       "status": "done",
