@@ -492,6 +492,13 @@
       "modified": "2026-05-02T10:46:09",
       "completed_at": 1789029498,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/big-mood-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "154508|https://thenkiri.com/big-mood-s02-complete-tv-series/|2026-04-16T15:04:09|2026-04-16T15:06:29|{'rendered': 'Big Mood S02 (Complete) | TV Series'}",
+      "modified": "2026-04-16T15:06:29",
+      "skipped_at": 1789030200,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
