@@ -634,6 +634,13 @@
       "modified": "2026-02-19T08:56:40",
       "completed_at": 1789046384,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-blacklist-s08-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "150531|https://thenkiri.com/the-blacklist-s08-complete-tv-series/|2026-02-19T08:52:05|2026-02-19T08:52:05|{'rendered': 'The Blacklist S08 (Complete) | TV Series'}",
+      "modified": "2026-02-19T08:52:05",
+      "skipped_at": 1789046660,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
