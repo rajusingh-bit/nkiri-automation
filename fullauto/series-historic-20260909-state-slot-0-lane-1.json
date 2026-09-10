@@ -842,6 +842,13 @@
       "modified": "2025-09-14T10:54:01",
       "completed_at": 1789081419,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/king-conqueror-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141289|https://thenkiri.com/king-conqueror-s01-complete-tv-series/|2025-08-25T09:30:57|2025-08-25T09:30:57|{'rendered': 'King & Conqueror S01 (Complete) | TV Series'}",
+      "modified": "2025-08-25T09:30:57",
+      "completed_at": 1789082481,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1628,6 +1635,7 @@
     "https://downloadwella.com/boy40m7c06ru/lord.of.mysteries.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LD-pi2FXVhQOGn3L6bGs4XQ1KC1-_4D9",
     "https://downloadwella.com/gypic2nbsmbt/lord.of.mysteries.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sECL-9aOUv-Lu6ax6S0MYjYpi93nF7Dw",
     "https://downloadwella.com/r6f8rjqhy5ro/lord.of.mysteries.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/USO6lB1DH3_zmvQaraeWcXRJxVR90fqd",
-    "https://downloadwella.com/3vra7onlkg1f/lord.of.mysteries.s01e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mb018oTQsMFvBaXBcIJYL82d4d73Nl_W"
+    "https://downloadwella.com/3vra7onlkg1f/lord.of.mysteries.s01e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mb018oTQsMFvBaXBcIJYL82d4d73Nl_W",
+    "https://downloadwella.com/y7x2ruwc8ki3/King.and.Conqueror.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3pwvoq5LtlyLHqBSYs1Cb4YxvN7O4QSv"
   }
 }
