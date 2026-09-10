@@ -540,6 +540,13 @@
       "signature": "153147|https://thenkiri.com/the-rookie-s06-complete-tv-series/|2026-03-28T12:00:50|2026-03-28T12:00:50|{'rendered': 'The Rookie S06 (Complete) | TV Series'}",
       "modified": "2026-03-28T12:00:50",
       "completed_at": 1789035721
+    },
+    "https://thenkiri.com/the-rookie-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "153120|https://thenkiri.com/the-rookie-s02-complete-tv-series/|2026-03-28T11:59:11|2026-03-28T11:59:11|{'rendered': 'The Rookie S02 (Complete) | TV Series'}",
+      "modified": "2026-03-28T11:59:11",
+      "completed_at": 1789037288,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1104,6 +1111,21 @@
     "https://downloadwella.com/nxve3bzrmucw/The.Rookie.S06E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yrJRsEuXr37Dsjsg2HFJ_qjoNOyB_ZPb",
     "https://downloadwella.com/e9u47ks6fnir/The.Rookie.S06E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Stb-7am0UPXs4TFExE_TQom-VMhsgJZ1",
     "https://downloadwella.com/48iyhw1qj9e7/The.Rookie.S06E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcHxyKPuyY8iU3S7V-cS63-KfVXgkQzW",
-    "https://downloadwella.com/u32xwqi62hqj/The.Rookie.S06E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AKhTs9WS1gahC828tbp_gOjcC9ERbCji"
+    "https://downloadwella.com/u32xwqi62hqj/The.Rookie.S06E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AKhTs9WS1gahC828tbp_gOjcC9ERbCji",
+    "https://downloadwella.com/z4tywlzybqpt/The.Rookie.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y0l_zzmyH5u8fUhehvSz3QEI3n7Fvw9D",
+    "https://downloadwella.com/lashsjmu3h3a/The.Rookie.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4NV-C5dnBp2vKeqtG47_ezuSYmL6J-Nl",
+    "https://downloadwella.com/ltrd5u85zm13/The.Rookie.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_f0PA3Z6MYZCT_doilsyD9dKKLZCXLgh",
+    "https://downloadwella.com/gi7nggoxxu0u/The.Rookie.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/laXwkgzV8x_s4XU1X1zQnvZWMFTe4a7u",
+    "https://downloadwella.com/tbgqz2h7kpvt/The.Rookie.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3AfSkSFug8lvNptvVjq4w--dd4ipmCUY",
+    "https://downloadwella.com/t7h916xwbjjo/The.Rookie.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iICGyIycH6xBMg7IsqfC5A0MOue0vYIz",
+    "https://downloadwella.com/mdpvijlnsbxi/The.Rookie.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M3LP1OK6P0K2VaJB9DngLhxZ5wHMGZ2y",
+    "https://downloadwella.com/tw3oz4ws9f3a/The.Rookie.S02E09(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0clm-SO8bePYnMPb9SyCdRCYiTrmXQsw",
+    "https://downloadwella.com/clkiwnhp9vv2/The.Rookie.S02E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E6nnLFake1mx5c9F6RMmBis4_sLFH4qQ",
+    "https://downloadwella.com/svfvv4i54apf/The.Rookie.S02E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KobwzD3qCayABJ8JOWxA97HWiZM_6qRN",
+    "https://downloadwella.com/1wtpcmyy46aj/The.Rookie.S02E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jhZCCxS5cgzD9cvVmqpl_leqoYt-5WKG",
+    "https://downloadwella.com/ck5liuutg2c2/The.Rookie.S02E17.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EeMpDwRApYoX45pkIVxw9CVYUd6-6TOD",
+    "https://downloadwella.com/8gxd7fv9tcna/The.Rookie.S02E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uNF5oDzOMhfYEMQ1CaWxeXZeL9Xt_mWh",
+    "https://downloadwella.com/lwi2d77nfmk1/The.Rookie.S02E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hpA49GFxOM087nK8QK5bZkh6rRdcCge_",
+    "https://downloadwella.com/nbf9ck8yhxsa/The.Rookie.S02E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wP7eu8maM9Hyq4PXzHx6G31mOMHsgh22"
   }
 }
