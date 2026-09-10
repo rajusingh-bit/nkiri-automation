@@ -780,6 +780,13 @@
       "modified": "2025-10-21T15:11:42",
       "completed_at": 1789069125,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/boston-blue-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144072|https://thenkiri.com/boston-blue-s01-complete-tv-series/|2025-10-18T17:17:20|2026-05-23T08:38:09|{'rendered': 'Boston Blue S01 (Episode 20 Added) | TV Series'}",
+      "modified": "2026-05-23T08:38:09",
+      "completed_at": 1789070348,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1526,6 +1533,10 @@
     "https://downloadwella.com/tj8vbk5tavhm/Slow.Horses.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mBu3gZ-R-ba7ijFZkN5ykv8KbhDy-NGS",
     "https://downloadwella.com/ty2rjl2utjah/Slow.Horses.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o9sgySbM2XhSf7_pwETNybek7mxxiRYN",
     "https://downloadwella.com/hexlsu83zjdt/Slow.Horses.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Orh6cWNAobHxyuoFOldu_-p12W0o1y5k",
-    "https://downloadwella.com/eg8vqyh9x3ov/Slow.Horses.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nzu_W9I3NnJhlrwg9y_lQgwja-C-areV"
+    "https://downloadwella.com/eg8vqyh9x3ov/Slow.Horses.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nzu_W9I3NnJhlrwg9y_lQgwja-C-areV",
+    "https://downloadwella.com/feb7le9jm6ls/Boston.Blue.S01E01.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/0tswf0Nkz_7XUhdw7N6plmOKu7yE1kAY",
+    "https://downloadwella.com/w86bjolqz1ih/Boston.Blue.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9LuEz2EZnz1U88pLfxWE2HWr5VkRoNTE",
+    "https://downloadwella.com/ld9i3t8dipyl/Boston.Blue.S01E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4x0G1ulrtvB18nhupRRQtEIPFylmYJCB",
+    "https://downloadwella.com/f16xywc6vkcb/Boston.Blues.S0120.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9vYDU8K5-t_fC7kmc2dW9jOiT3iY_owd"
   }
 }
