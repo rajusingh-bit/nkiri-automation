@@ -654,6 +654,13 @@
       "signature": "150189|https://thenkiri.com/the-artful-dodger-s02-complete-tv-series/|2026-02-13T17:21:47|2026-02-13T17:21:47|{'rendered': 'The Artful Dodger S02 (Complete) | TV Series'}",
       "modified": "2026-02-13T17:21:47",
       "completed_at": 1789047595
+    },
+    "https://thenkiri.com/cross-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "150054|https://thenkiri.com/cross-s02-complete-tv-series/|2026-02-11T14:38:33|2026-04-30T10:48:57|{'rendered': 'Cross S02 (Complete) | TV Series'}",
+      "modified": "2026-04-30T10:48:57",
+      "completed_at": 1789048149,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1341,6 +1348,9 @@
     "https://downloadwella.com/sj34sx0406mw/The.Artful.Dodger.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8tIIR6VBxrcCokrP8inHACyqyYcBqu5G",
     "https://downloadwella.com/0embp0sejlro/The.Artful.Dodger.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DmCs6yGNPjzrlAbo7p0Yw_Bv9u4KWEJs",
     "https://downloadwella.com/wc47xrmfosj5/The.Artful.Dodger.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sm8p0_7Cpi2kWThloWVguZp8ZZXEpIsA",
-    "https://downloadwella.com/7663wdzcfinw/The.Artful.Dodger.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0YaRzW6LKQxhlSBc1JgF2nahu2N-eZKC"
+    "https://downloadwella.com/7663wdzcfinw/The.Artful.Dodger.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0YaRzW6LKQxhlSBc1JgF2nahu2N-eZKC",
+    "https://downloadwella.com/4bzfy3k8kvsy/Cross.2024.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xoAX-4_wUoMWZ1f7x3b98gZZYh__kVD8",
+    "https://downloadwella.com/m717gnddceyw/Cross.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NfSXDdo2GRMV-iwTaEMcbsWY5hKlI7qX",
+    "https://downloadwella.com/zdsjs14scotl/Cross.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NfnN0I3rqe_NZunIuak3PKYkLWKV-7VH"
   }
 }
