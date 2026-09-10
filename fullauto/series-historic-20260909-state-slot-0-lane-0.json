@@ -772,6 +772,13 @@
       "modified": "2025-12-16T08:33:29",
       "completed_at": 1789068948,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/vinland-saga-s01-complete-anime-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "144415|https://thenkiri.com/vinland-saga-s01-complete-anime-tv-series/|2025-10-22T14:19:40|2025-10-22T14:19:40|{'rendered': 'Vinland Saga S01 (Complete) | Anime TV Series'}",
+      "modified": "2025-10-22T14:19:40",
+      "skipped_at": 1789069230,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
