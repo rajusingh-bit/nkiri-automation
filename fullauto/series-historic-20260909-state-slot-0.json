@@ -599,6 +599,13 @@
       "modified": "2026-06-02T11:34:28",
       "completed_at": 1789041246,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/crap-happens-complete-tv-series/": {
+      "status": "partial",
+      "signature": "151340|https://thenkiri.com/crap-happens-complete-tv-series/|2026-03-03T11:57:56|2026-03-03T11:57:56|{'rendered': 'Crap Happens (Complete) | TV Series'}",
+      "modified": "2026-03-03T11:57:56",
+      "completed_at": 1789042179,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1226,6 +1233,14 @@
     "https://downloadwella.com/noplrnr3ssj0/CIA.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q411yZWKVPe5el3mnp7SMyeXgg8jI2_-",
     "https://downloadwella.com/plb7chl8ijgn/CIA.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VIpncuGhzUIHfrcRmd4wfPxONFYK-5wC",
     "https://downloadwella.com/6wflogpitjhe/CIA.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w8AoYBFsWlm_IBDcvlXpkbVel_gM5JtZ",
-    "https://downloadwella.com/r1lsxe8bvoml/CIA.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pBkv0FJ9s7O_-MKgS14ol7ObryHT9Wow"
+    "https://downloadwella.com/r1lsxe8bvoml/CIA.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pBkv0FJ9s7O_-MKgS14ol7ObryHT9Wow",
+    "https://downloadwella.com/6gvnweuqhdg2/Craps.Happen.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0lzETcQi8oy-yJP0eRFV44TXUjj1OO8D",
+    "https://downloadwella.com/eif6e831u0m8/Craps.Happen.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kVvP_jXmsn-OGocytxyqItgtSkZUCQgE",
+    "https://downloadwella.com/wejze6d8ll6g/Craps.Happen.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u05udRjCzioDsATrFg0y9KB4v4OuRwIg",
+    "https://downloadwella.com/z7fr2uqvm5cu/Craps.Happen.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fQ00Y5N7JdpmG_cNA8qrElRhid2EcW75",
+    "https://downloadwella.com/8chg4mi3psd7/Craps.Happen.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yplMj5qpfCsOFfQxznSAsxHz88akhntf",
+    "https://downloadwella.com/3prw5e3n08qt/Craps.Happen.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lxo3nfentBMtjOMoRT0FeTI2oR5JUmOA",
+    "https://downloadwella.com/h1lpwitkelv1/Craps.Happen.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r8j38gQV6v3myuehOWaRy7DRzDo5FzV8",
+    "https://downloadwella.com/2j0mhuxltllg/Craps.Happen.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6E2IICPMlgTc6QOCUcI1WY2Dd1_qR62r"
   }
 }
