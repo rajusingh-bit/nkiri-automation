@@ -779,6 +779,13 @@
       "modified": "2025-10-22T14:19:40",
       "skipped_at": 1789069230,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/tracker-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "144189|https://thenkiri.com/tracker-s03-complete-tv-series/|2025-10-20T08:34:45|2026-05-25T08:50:31|{'rendered': 'Tracker S03 (Episode 22 Added) | TV Series'}",
+      "modified": "2026-05-25T08:50:31",
+      "completed_at": 1789073463,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1537,6 +1544,23 @@
     "https://downloadwella.com/ocxol2vyfcjw/IT.Welcome.to.Derry.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j8BEttUapdXotFt_PrFbxTv_THNrtgeu",
     "https://downloadwella.com/6c9i0h51fiut/IT.Welcome.to.Derry.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fbd-POiPLv6i-j51PFHrjpEeI6w5m-I6",
     "https://downloadwella.com/7ofvir73m19h/IT.Welcome.to.Derry.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4mx-iebnhIcTK_MtumPX3qqeL-qZvZzT",
-    "https://downloadwella.com/hq33247yodmz/IT.Welcome.to.Derry.S01E07.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/XhBAHiWwGPZQETRrt2I_VmDNEDTeEftN"
+    "https://downloadwella.com/hq33247yodmz/IT.Welcome.to.Derry.S01E07.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/XhBAHiWwGPZQETRrt2I_VmDNEDTeEftN",
+    "https://downloadwella.com/kqctw32i44vp/Tracker.2024.S03E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4Mo-QUFJKIXRWqHt8aJy32MRFjwZf4tB",
+    "https://downloadwella.com/9kuc6nbsceq6/Tracker.2024.S03E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WfUF8lE3OV5tB92DlSN6rhixv74Sejga",
+    "https://downloadwella.com/c84wo8yv2ud1/Tracker.2024.S03E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UV5Ck6MBbOLENjrzItce-8M_1sTZ28CW",
+    "https://downloadwella.com/cnuruohb6gng/Tracker.2024.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xzWlkEM5BiCmwOwA95sWQf3Ne5MwxLik",
+    "https://downloadwella.com/3xvt1sse8c0c/Tracker.2024.S03E08.(THENKIRI.COM).S.mkv.html": "https://v1.vidfiles.com/d/1uq08EvIhLnlEMOC_5iCS4YzEAeLCAWD",
+    "https://downloadwella.com/wc2efbtd4jdh/Tracker.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AdVqulqpMWni6o_HqV_qpFeC-rYSMeeG",
+    "https://downloadwella.com/eejx1bj46y49/Tracker.S03E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3gqN1sn_5NR83_6ITsJXg21VNNc_xTQx",
+    "https://downloadwella.com/sfnpb63x3tc4/Tracker.S03E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/W3njcLPZEMNnhjl8vQOWSc4wETdRhaUz",
+    "https://downloadwella.com/e38y5i14q9qf/Tracker.S03E13.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LYB19uqsqO3tDTNJrzyABk8CAxIDj1an",
+    "https://downloadwella.com/hnsxns6u1zm5/Tracker.S03E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p1Ig1MHMcIjJ4BGofugM-LTLWqblF3tJ",
+    "https://downloadwella.com/k787ps7nk9a2/Tracker.S03E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s20VhAuvXvb69RYWYdX__EDGUHM-0hyO",
+    "https://downloadwella.com/4nu0efhn03p7/Tracker.S03E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dNWqGd-J0r-q5k32KYb9beuMV8iUs4nm",
+    "https://downloadwella.com/xoj7qa6c290b/Tracker.S03E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VEdNF_tDGuivRp-6vEvQlfR7OJ9M1hq_",
+    "https://downloadwella.com/lla3576ljifx/Tracker.S03E19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WoW-irCT_JUvKgihxuGZBDxihHbrBebI",
+    "https://downloadwella.com/o1at2hge85jh/Tracker.S03E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1XrJf09BJIGL4EM5BcM9TFMKqyqZ6YhI",
+    "https://downloadwella.com/h8boo6r4xpmk/Tracker.S03E21.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TL5XVn4C6FFGneoZG8qT4prDxxOZ_v3j",
+    "https://downloadwella.com/axnob3l83m9x/Tracker.S03E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WXu15dTnCbBFBEa8oYcFQqusp57qltiX"
   }
 }
