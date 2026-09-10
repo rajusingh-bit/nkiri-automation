@@ -738,6 +738,13 @@
       "modified": "2026-01-19T10:11:04",
       "completed_at": 1789058560,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/pluribus-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145540|https://thenkiri.com/pluribus-s01-complete-tv-series/|2025-11-07T08:14:19|2025-12-24T08:04:52|{'rendered': 'Pluribus S01 (Episode 9 Added) | TV Series'}",
+      "modified": "2025-12-24T08:04:52",
+      "completed_at": 1789060065,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1457,6 +1464,8 @@
     "https://downloadwella.com/upc4b0r04ez1/Landman.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kwGWLzBtPaqAELcuQ21DiOdLiEgc5R13",
     "https://downloadwella.com/ydnnicl1kwya/Landman.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZzZ-UExQ_0p46weim_Djd7NSTWyiPSp_",
     "https://downloadwella.com/klh2dt9iwa3u/Landman.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_W-Pc4eDewjxhxxJdMQESwh1rwoERcoO",
-    "https://downloadwella.com/gnwq0qfadgfn/Landman.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcY4j04Bo33z-6j00pFXs3kLtOx6DuEL"
+    "https://downloadwella.com/gnwq0qfadgfn/Landman.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcY4j04Bo33z-6j00pFXs3kLtOx6DuEL",
+    "https://downloadwella.com/zw91q0quigky/Pluribus.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JUmL_rbiLFmifT702G_mMf7UFCLJtUk9",
+    "https://downloadwella.com/9jbeiiyyl0ov/Pluribus.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/azpMMM2DP3EyE3D60VIU8BLPPdeRwEGE"
   }
 }
