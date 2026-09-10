@@ -438,6 +438,13 @@
       "signature": "156726|https://thenkiri.com/believe-me-complete-tv-series/|2026-05-12T07:53:29|2026-05-12T07:53:29|{'rendered': 'Believe Me (Complete)  | TV Series'}",
       "modified": "2026-05-12T07:53:29",
       "completed_at": 1789021541
+    },
+    "https://thenkiri.com/citadel-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "156285|https://thenkiri.com/citadel-s02-complete-tv-series/|2026-05-06T12:35:09|2026-05-06T12:37:35|{'rendered': 'Citadel S02 (Complete) | TV Series'}",
+      "modified": "2026-05-06T12:37:35",
+      "completed_at": 1789021994,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -915,6 +922,12 @@
     "https://downloadwella.com/rw20v86rlifb/Believe.me.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tk8lLEYDPT8Y_-sWmf2OPuffkOCgVbxv",
     "https://downloadwella.com/s9gfdrhg39vn/Believe.me.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YtXnwSrjWJ6uWgJad9uT2U7gHTlMQhoh",
     "https://downloadwella.com/b8wvdvwq4aq7/Believe.me.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/22hNaEADicmgDb_5Xnpb0sTX8AmICrCJ",
-    "https://downloadwella.com/favidg761dbs/Believe.me.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ktbP_uIhiIs09_pQT6cD9aS3y-xnryB2"
+    "https://downloadwella.com/favidg761dbs/Believe.me.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ktbP_uIhiIs09_pQT6cD9aS3y-xnryB2",
+    "https://downloadwella.com/bgp73q4pfhz3/Citadel.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uXMVkgPA4B4w2zPIjODpffRVVkICzzhg",
+    "https://downloadwella.com/vv39afppfldv/Citadel.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dbU32knUc18xu4r2LSlwWDrOtef28Or9",
+    "https://downloadwella.com/jpr2cdh43tlm/Citadel.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qxH7_4D-m4V9BZf3TYrg0eRHddAGZkjD",
+    "https://downloadwella.com/111z9adjd8u6/Citadel.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OphbzAYTIGhAPNxBwQres0DIWLTgG_uA",
+    "https://downloadwella.com/hqjasjjdx8wx/Citadel.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TS_OfTjwB6DEbfdGoKxc758Hq9wRLpPX",
+    "https://downloadwella.com/lby28woeqdmw/Citadel.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/R5VXRIAIde13GFh5QToQru0r7i6JYmnK"
   }
 }
