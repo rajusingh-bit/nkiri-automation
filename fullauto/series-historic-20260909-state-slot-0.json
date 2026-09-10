@@ -520,6 +520,13 @@
       "modified": "2026-04-09T11:05:19",
       "completed_at": 1789032085,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/star-wars-maul-shadow-lord/": {
+      "status": "partial",
+      "signature": "153789|https://thenkiri.com/star-wars-maul-shadow-lord/|2026-04-06T19:01:11|2026-05-04T14:54:17|{'rendered': 'Star Wars: Maul – Shadow Lord S01 (Episode 9 & 10 Added) | TV Series'}",
+      "modified": "2026-05-04T14:54:17",
+      "completed_at": 1789034645,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1064,6 +1071,12 @@
     "https://downloadwella.com/82w24sl8kscg/Big.Mistake.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7x-YjgD_YACJupJJDqAphfN0sP4Nrcr0",
     "https://downloadwella.com/2i6t6l7flbmn/Big.Mistake.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WN38_m9avCw6H4WRtTIUwDee4NTMV7dr",
     "https://downloadwella.com/9kcl45sdvq74/Big.Mistake.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WGXPHhDG87d9TNmdUEGKgK3eV_6CCnmW",
-    "https://downloadwella.com/bc2ncmpof40t/Big.Mistake.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nc_3r-hf_hFlrB0re5OlP4ywCOB7vy3b"
+    "https://downloadwella.com/bc2ncmpof40t/Big.Mistake.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nc_3r-hf_hFlrB0re5OlP4ywCOB7vy3b",
+    "https://downloadwella.com/izax9kobikcr/Star.Wars.Maul.Shadow.Lord.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MitcW8gYQa1ioDKj0-T8yMpfFqKA6PNr",
+    "https://downloadwella.com/ffjdx05ga0qo/Star.Wars.Maul.Shadow.Lord.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i0W2vurN8hMxjoc7_ff0NpMMrClIutRV",
+    "https://downloadwella.com/266eav4bz1d7/Star.Wars.Maul.Shadow.Lord.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nJIk1zPGbE0U3iVinlC21d9WEmZVmWQ9",
+    "https://downloadwella.com/h69u989rc0gb/Star.Wars.Maul.Shadow.Lord.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZlfP8bw499PNJZcXi_shSmNsMSVoifV5",
+    "https://downloadwella.com/f7j8eu8oss1k/Star.Wars.Maul.Shadow.Lord.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gAQ77tcNpkosoqBpCbaTP3Fnl68j_k8m",
+    "https://downloadwella.com/kwr7yqq5z2ju/Star.Wars.Maul.Shadow.Lord.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O7c_EGtOsj-PLYxp8oaINna8pQPxyjZ5"
   }
 }
