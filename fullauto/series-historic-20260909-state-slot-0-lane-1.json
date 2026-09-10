@@ -821,6 +821,13 @@
       "signature": "142467|https://thenkiri.com/tulsa-king-s03-complete-tv-series/|2025-09-21T10:45:49|2025-11-23T08:33:00|{'rendered': 'Tulsa King S03 (Complete) | TV Series'}",
       "modified": "2025-11-23T08:33:00",
       "completed_at": 1789074737
+    },
+    "https://thenkiri.com/electric-bloom-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "142287|https://thenkiri.com/electric-bloom-s01-complete-tv-series/|2025-09-17T15:39:06|2025-09-17T15:39:06|{'rendered': 'Electric Bloom S01 (Complete) | TV Series'}",
+      "modified": "2025-09-17T15:39:06",
+      "completed_at": 1789078231,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1592,6 +1599,11 @@
     "https://downloadwella.com/dadilehh3wmx/Tulsa.King.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AH818B_PJTGSQFjIgR7WZYZyBRpx4iwJ",
     "https://downloadwella.com/1qmpfs4r7vbr/Tulsa.King.S03E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q3JZebfZqC7nXuImGYdaO5eoLcyBmmpV",
     "https://downloadwella.com/zmzl7szs46b6/Tulsa.King.S03E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VnT5HMa8KCjPR8D0bhIhEtOxhOJwLF_T",
-    "https://downloadwella.com/45xtwqyy42jx/Tulsa.King.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lXRSY0b_Cymp5DRvns13k6NRRarlD1GJ"
+    "https://downloadwella.com/45xtwqyy42jx/Tulsa.King.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lXRSY0b_Cymp5DRvns13k6NRRarlD1GJ",
+    "https://downloadwella.com/t22lrpdx534c/rvkd-electric.bloom.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FWqxuup6FDU45pbPN1njhwJDjKOpzrDy",
+    "https://downloadwella.com/4n4z7c6zga35/rvkd-electric.bloom.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AZkSVFPBuhJl_RmfED3W-LhtFfto-Q0R",
+    "https://downloadwella.com/c82gz5hbsvbc/rvkd-electric.bloom.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/35SNveVcV78UUiRU6XvOIE6ZTpTLI-GC",
+    "https://downloadwella.com/3ezqbj06zxwn/rvkd-electric.bloom.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8RwVP1308gIg1HGBGU5CW8eWr0TBh4YU",
+    "https://downloadwella.com/169387r7c8fc/rvkd-electric.bloom.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rfimAs7rYKRuTNmVMFfdbT103BIdRVj5"
   }
 }
