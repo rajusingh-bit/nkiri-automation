@@ -592,6 +592,13 @@
       "signature": "151797|https://thenkiri.com/agents-of-mystery-s01-complete-tv-series/|2026-03-10T09:35:48|2026-03-10T11:04:37|{'rendered': 'Agents of Mystery S01 (Complete) | TV Series'}",
       "modified": "2026-03-10T11:04:37",
       "completed_at": 1789040564
+    },
+    "https://thenkiri.com/cia-complete-tv-series-drama/": {
+      "status": "partial",
+      "signature": "151442|https://thenkiri.com/cia-complete-tv-series-drama/|2026-03-04T13:37:51|2026-06-02T11:34:28|{'rendered': 'CIA (Complete) | Tv series Drama'}",
+      "modified": "2026-06-02T11:34:28",
+      "completed_at": 1789041246,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1212,6 +1219,13 @@
     "https://downloadwella.com/fxmrzisseqm3/Agents.of.Mystery.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CRIeA-kuzXKUW-A8wbAmfskoMBu9td29",
     "https://downloadwella.com/cgtoh3ws3hl0/Agents.of.Mystery.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZNr0dWvl4qZ0q6uWTrZdESbsqK7U9TQ-",
     "https://downloadwella.com/2eazlbeme19g/Agents.of.Mystery.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YEIC6k4QlaN9SdIeTweaYYwo5tSAjWDN",
-    "https://downloadwella.com/j38vc8fp74k9/Agents.of.Mystery.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aGo4sdAxZzUbf5CdDoW0f54eDPZekdPf"
+    "https://downloadwella.com/j38vc8fp74k9/Agents.of.Mystery.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aGo4sdAxZzUbf5CdDoW0f54eDPZekdPf",
+    "https://downloadwella.com/itxucaqg15v6/CIA.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uuYcGuZVvZJ4JqIxYJJYLL5mmw3g1efg",
+    "https://downloadwella.com/oye9mlj4o92r/CIA.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BXPDEvgRErwZbYbuZ0cSJDzjxBG3knVL",
+    "https://downloadwella.com/andiypqtdkki/CIA.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1PL6BjyezWpB_OI3DJUhbekSiGI5iHSA",
+    "https://downloadwella.com/noplrnr3ssj0/CIA.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q411yZWKVPe5el3mnp7SMyeXgg8jI2_-",
+    "https://downloadwella.com/plb7chl8ijgn/CIA.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VIpncuGhzUIHfrcRmd4wfPxONFYK-5wC",
+    "https://downloadwella.com/6wflogpitjhe/CIA.S01E11.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w8AoYBFsWlm_IBDcvlXpkbVel_gM5JtZ",
+    "https://downloadwella.com/r1lsxe8bvoml/CIA.S01E12.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pBkv0FJ9s7O_-MKgS14ol7ObryHT9Wow"
   }
 }
