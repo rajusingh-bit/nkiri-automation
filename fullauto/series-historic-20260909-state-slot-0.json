@@ -661,6 +661,13 @@
       "modified": "2026-04-30T10:48:57",
       "completed_at": 1789048149,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/black-summer-s01-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149801|https://thenkiri.com/black-summer-s01-s02-complete-tv-series/|2026-02-06T05:00:59|2026-02-06T05:00:59|{'rendered': 'Black Summer S01 & S02 (Complete) | TV Series'}",
+      "modified": "2026-02-06T05:00:59",
+      "skipped_at": 1789048403,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
