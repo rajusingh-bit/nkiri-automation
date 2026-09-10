@@ -801,6 +801,13 @@
       "modified": "2025-11-16T20:29:28",
       "completed_at": 1789072481,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/film-club-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143373|https://thenkiri.com/film-club-s01-complete-tv-series/|2025-10-09T06:46:31|2025-10-22T11:19:29|{'rendered': 'Film Club S01 (Episode 5 & 6 Added) | TV Series'}",
+      "modified": "2025-10-22T11:19:29",
+      "completed_at": 1789073318,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1559,6 +1566,9 @@
     "https://downloadwella.com/og53gd782pd7/House.of.David.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LJsdUXW79YGp4q7tIUJO34RMCS-e6OUS",
     "https://downloadwella.com/ycrts6jdlnci/house.of.david.s02e05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NxNhhu-6Kp8SgC9Y6Njc64scylg4ikzQ",
     "https://downloadwella.com/qmsgepq9d6dm/house.of.david.s02e07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4xGK6JVa5aW9astbJgNaF6P-Oqt7ZDID",
-    "https://downloadwella.com/qvstey012t7l/house.of.david.s02e08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OSXcNwuRdgD8CFYpeRSnUqElFZ-yT2jM"
+    "https://downloadwella.com/qvstey012t7l/house.of.david.s02e08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OSXcNwuRdgD8CFYpeRSnUqElFZ-yT2jM",
+    "https://downloadwella.com/jm4s0fqunb7i/Film.Club.2025.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/-mz2NknForD41NRKe7AGuZUPLTAORNv6",
+    "https://downloadwella.com/j2zs4e4fn7rm/Film.Club.2025.S01E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/C6Lj8l4RdH2FlO1hd1apw_6AVSUL7_li",
+    "https://downloadwella.com/izbtvbdmesc7/Film.Club.2025.S01E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/FNUsPHhkr1CoQTxpLg_hqB0y92gykhTy"
   }
 }
