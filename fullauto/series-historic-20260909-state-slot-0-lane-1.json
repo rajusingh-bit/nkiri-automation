@@ -808,6 +808,13 @@
       "modified": "2025-10-22T11:19:29",
       "completed_at": 1789073318,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/wayward-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "142710|https://thenkiri.com/wayward-s01-complete-tv-series/|2025-09-26T07:58:33|2025-09-26T07:58:33|{'rendered': 'Wayward S01 (Complete) | TV Series'}",
+      "modified": "2025-09-26T07:58:33",
+      "skipped_at": 1789073461,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
