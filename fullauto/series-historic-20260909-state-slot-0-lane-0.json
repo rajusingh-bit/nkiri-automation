@@ -730,6 +730,13 @@
       "signature": "146768|https://thenkiri.com/its-florida-man-s02-complete-tv-series/|2025-11-29T09:26:09|2025-12-06T04:02:59|{'rendered': 'It’s Florida, Man. S02 (Episode 2 Added) | TV Series'}",
       "modified": "2025-12-06T04:02:59",
       "completed_at": 1789060318
+    },
+    "https://thenkiri.com/the-mighty-nein-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146208|https://thenkiri.com/the-mighty-nein-s01-complete-tv-series/|2025-11-19T14:32:59|2025-12-18T09:22:02|{'rendered': 'The Mighty Nein S01 (Episode 6 & 7 Added) | TV Series'}",
+      "modified": "2025-12-18T09:22:02",
+      "completed_at": 1789060965,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1456,6 +1463,11 @@
     "https://downloadwella.com/yyci8dojkkd1/the.copenhagen.test.s01e05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sIgXQm7EGBuEh-5iUCLq1Z9VvRvgbrF_",
     "https://downloadwella.com/hnqop5r5gxji/the.copenhagen.test.s01e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/72lU404LAW8OZcf1mW0laHvuNe9LNS5Y",
     "https://downloadwella.com/f66utdawme3c/Its.Florida.Man.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fwyi_SjZtmWwfO7lk768n4qsUyJ7SP9g",
-    "https://downloadwella.com/vprw01r5vfnm/Its.Florida.Man.S02E02.(THENEKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gFgnh2NPYSUwm5S-Te44cRflRrqrlnsi"
+    "https://downloadwella.com/vprw01r5vfnm/Its.Florida.Man.S02E02.(THENEKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gFgnh2NPYSUwm5S-Te44cRflRrqrlnsi",
+    "https://downloadwella.com/zljxy1ugfie8/The.Mighty.Nein.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fJqzfgvea-ay1SIAuI2W-RKyl3m7shSt",
+    "https://downloadwella.com/cbhb3og0cpjo/The.Mighty.Nein.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j3QiNK8m7Ysi71zmBpqQjyZJiIJW6QWM",
+    "https://downloadwella.com/dq127rn08zew/The.Mighty.Nein.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S9fnDbMN7_6Rb-OeRNVGtgpvhoRYh18Z",
+    "https://downloadwella.com/xsfrf0ambgn8/The.Mighty.Nein.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nggUQJkvrP-ppMWRwMnjZzAVSmnCWELg",
+    "https://downloadwella.com/ih6g9haio4cy/the.mighty.nein.s01e07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O-j4OHJi-U3-QkK5sdrMABFpQNp4uXWl"
   }
 }
