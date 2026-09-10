@@ -573,6 +573,13 @@
       "modified": "2026-04-29T09:16:29",
       "completed_at": 1789039299,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-madison-s01complete-tv-series/": {
+      "status": "partial",
+      "signature": "152231|https://thenkiri.com/the-madison-s01complete-tv-series/|2026-03-14T13:47:19|2026-03-21T10:43:30|{'rendered': 'The Madison S01(Episode 4 – 6 Added) | TV Series'}",
+      "modified": "2026-03-21T10:43:30",
+      "completed_at": 1789039702,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1174,6 +1181,11 @@
     "https://downloadwella.com/i20jt9nu7x1b/Imperfect.Women.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ruB6EhCUK02RZVIKlC7r8meB8vwesx4X",
     "https://downloadwella.com/6nfkam4vfmpw/Imperfect.Women.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XDADu4wRAaFFMhngSyZmUNNr0FcT3Nmf",
     "https://downloadwella.com/i2qyxx7x9ezo/Imperfect.Women.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J2CpopqJXjCFEHhefTTPvwClxyYHa-ON",
-    "https://downloadwella.com/sz6yml9mopdv/Imperfect.Women.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FwqTtqzAZRVXMiZ6XvVdmPB7WF73xIPA"
+    "https://downloadwella.com/sz6yml9mopdv/Imperfect.Women.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FwqTtqzAZRVXMiZ6XvVdmPB7WF73xIPA",
+    "https://downloadwella.com/ert5lmbuf0mt/The.Madison.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jCWP9vJAgeYpRaWjFwOVOvArBXcKdn94",
+    "https://downloadwella.com/ucox2ijwurs6/The.Madison.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lD3Ji_ptVjJZUZl2o0SaQfH9E914z739",
+    "https://downloadwella.com/7zqiv6p42tpf/The.Madison.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gBCEF0LwslEyvWFDmMVfToJj0cuREO2B",
+    "https://downloadwella.com/74x6b0cw39n2/The.Madison.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jvkD4ft8Sllx5iilJRGv9wRIpHV-pq-c",
+    "https://downloadwella.com/begj96pg66ue/The.Madison.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nVKEdLXR3U0SED_DQ1IB8EyENlpsAKkd"
   }
 }
