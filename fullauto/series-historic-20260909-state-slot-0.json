@@ -499,6 +499,13 @@
       "modified": "2026-04-16T15:06:29",
       "skipped_at": 1789030200,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/iyanu-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "154219|https://thenkiri.com/iyanu-s02-complete-tv-series/|2026-04-13T12:36:03|2026-05-31T17:48:55|{'rendered': 'Iyanu S02 (Episode 10 Added ) | TV Series'}",
+      "modified": "2026-05-31T17:48:55",
+      "completed_at": 1789031185,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1031,6 +1038,12 @@
     "https://downloadwella.com/a5x6oobgs8g5/Gotham.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9KR9XFDdAvI1XWvz2C8H1RwpENkF8aJf",
     "https://downloadwella.com/24vplun8eq1y/Gotham.S04E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_NDGcnXsJBkkf_xyEoPHgTblk0DeA3hf",
     "https://downloadwella.com/kxesxjuarduk/Gotham.s04e19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dfk0GsyO-c8OfsRgSUJw1pjbwcy9Ost7",
-    "https://downloadwella.com/sfmr101zs7jp/Gotham.S04E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqEM_xzrxO5YDYsnfP19chdUEIcapOls"
+    "https://downloadwella.com/sfmr101zs7jp/Gotham.S04E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqEM_xzrxO5YDYsnfP19chdUEIcapOls",
+    "https://downloadwella.com/icfzc0hsaiap/Iyanu.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rUzk4pagELaiCcFRW3cgSbQucQ2-fvxI",
+    "https://downloadwella.com/xlyq33s6w1w7/Iyanu.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FysVBgw8DW_xiAM77TBBFV_AiQDjyFRG",
+    "https://downloadwella.com/qn9qsp06366t/Iyanu.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4lD6T5oHnrq3ac0zR64AtpZkgDZlxxrN",
+    "https://downloadwella.com/h0ldzgch1z8d/Iyanu.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ij-dPXjhL4q_jZ3r8Qrclh29LhMehhxX",
+    "https://downloadwella.com/zro46ue9yfja/Iyanu.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/phMY37Jc8mMRR11Q0MPRh13hV4CMjgpY",
+    "https://downloadwella.com/i0r9s0yef3kh/Iyanu.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NwI1U7Acm2SzULPQaLVSvcQZ0TVUi_Dr"
   }
 }
