@@ -731,6 +731,13 @@
       "modified": "2026-01-01T10:10:40",
       "completed_at": 1789057455,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/landman-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "146032|https://thenkiri.com/landman-s02-complete-tv-series/|2025-11-16T18:44:57|2026-01-19T10:11:04|{'rendered': 'Landman S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2026-01-19T10:11:04",
+      "completed_at": 1789058560,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1443,6 +1450,13 @@
     "https://downloadwella.com/nhup191ed85m/Stranger.Things.S05E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s7z8iY94g_aj3hTCuXOScOtP6RPUuLYK",
     "https://downloadwella.com/ejkxbm5igid6/Stranger.Things.S05E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/E7NZbDLm5i5_3nCPRKd8p9MGMabfJ7XN",
     "https://downloadwella.com/0tmeerprm6jj/Stranger.Things.S05E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QiDmyMl6RYyfl72auq6T62M6dvt0gd-8",
-    "https://downloadwella.com/xzjm0nvg48gl/Stranger.Things.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wvdAO6IPt-vzG8VcN6WZYokTmCRFA6lL"
+    "https://downloadwella.com/xzjm0nvg48gl/Stranger.Things.S05E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wvdAO6IPt-vzG8VcN6WZYokTmCRFA6lL",
+    "https://downloadwella.com/bqun8g6fqdeo/Landman.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RfhBrF3Wfg3-usSQrI4ssbYFIceUDOOD",
+    "https://downloadwella.com/i5g7t5jhmzg8/Landman.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wewIsUrzUIci1XGsWhgP65KQkC_Nn5o4",
+    "https://downloadwella.com/nc0bi95wd16i/Landman.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KLPEEbUuciGPtRcIql2jWSqpPAWwF1Xa",
+    "https://downloadwella.com/upc4b0r04ez1/Landman.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kwGWLzBtPaqAELcuQ21DiOdLiEgc5R13",
+    "https://downloadwella.com/ydnnicl1kwya/Landman.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZzZ-UExQ_0p46weim_Djd7NSTWyiPSp_",
+    "https://downloadwella.com/klh2dt9iwa3u/Landman.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_W-Pc4eDewjxhxxJdMQESwh1rwoERcoO",
+    "https://downloadwella.com/gnwq0qfadgfn/Landman.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcY4j04Bo33z-6j00pFXs3kLtOx6DuEL"
   }
 }
