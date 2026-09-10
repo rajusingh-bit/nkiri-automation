@@ -806,6 +806,13 @@
       "modified": "2025-10-10T16:04:42",
       "completed_at": 1789079702,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/abbott-elementary-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143047|https://thenkiri.com/abbott-elementary-s05-complete-tv-series/|2025-10-02T14:34:02|2026-04-23T09:01:38|{'rendered': 'Abbott Elementary S05 (Complete) | TV Series'}",
+      "modified": "2026-04-23T09:01:38",
+      "completed_at": 1789081656,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1599,6 +1606,11 @@
     "https://downloadwella.com/lmlo623i137g/The.Resurrected.S01E02.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/LhHqwvSL0FMeiqoYoSUUEzrALtIOgz0h",
     "https://downloadwella.com/lhkhhnds0vso/The.Resurrected.S01E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/J2c6O9lgnFSqF9Y2iNhWG4Wi_oGLPWyw",
     "https://downloadwella.com/dfw21pa180jy/The.Resurrected.S01E04.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/mX54E4dMC5exZVAQFKVmi26CzjhKnxoB",
-    "https://downloadwella.com/z1qxhokxy2js/The.Resurrected.S01E08.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/h7tTe0h3yprjGdraIFI85DCKZjdKG2-d"
+    "https://downloadwella.com/z1qxhokxy2js/The.Resurrected.S01E08.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/h7tTe0h3yprjGdraIFI85DCKZjdKG2-d",
+    "https://downloadwella.com/50eixyn6s8ny/Abbott.Elementary.S05E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VAg3cdZa9OKY6VQoqmbTYZqEeV-HcNhZ",
+    "https://downloadwella.com/mgnyz3qarmtv/Abbott.Elementary.S05E03.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/Wz0QWj5Q2nLLPZvC-VrrXbdNpVJ4jVNU",
+    "https://downloadwella.com/4j9hult3mywu/Abbott.Elementary.S05E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7x3I3UFrXuFp99nfdoQubU4S4BEPITWm",
+    "https://downloadwella.com/uylpixtd0y47/Abbott.Elementary.S05E15.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y1-ItRGJqpCdJWubrwPHOeovthYVv495",
+    "https://downloadwella.com/hygsnib38o2t/Abbott.ELementary.S05E16.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RNdlMW7wh3qGFGbLDWocjYJPyzGJvqHf"
   }
 }
