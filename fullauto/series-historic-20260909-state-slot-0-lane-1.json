@@ -696,6 +696,13 @@
       "modified": "2026-01-21T13:40:23",
       "skipped_at": 1789050650,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hijack-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "148673|https://thenkiri.com/hijack-s02-complete-tv-series/|2026-01-14T07:13:13|2026-03-04T09:11:24|{'rendered': 'Hijack S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-03-04T09:11:24",
+      "completed_at": 1789051908,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1392,6 +1399,10 @@
     "https://downloadwella.com/kdokl2s2o0sv/Memory.of.a.Killer.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3NYV2C3qyprcZ4rjmKKMe7sAC5AJkH4H",
     "https://downloadwella.com/b7g3inhs1c32/Memory.of.a.Killer.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QBZ5CyoemeKfcLxHSa_eyOIj_eHRhYZy",
     "https://downloadwella.com/weap5j2b0pug/Memory.of.Killer.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/enQ2PKzYoSROKAbnZyBU9NCuavPWw9a3",
-    "https://downloadwella.com/mstx84r1g7ig/Memory.of.a.Killer.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PiNCJA4wnu_mND3EBlQ-4k1cnBC5bbhF"
+    "https://downloadwella.com/mstx84r1g7ig/Memory.of.a.Killer.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PiNCJA4wnu_mND3EBlQ-4k1cnBC5bbhF",
+    "https://downloadwella.com/6rc54ixucszk/Hijack.2023.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MCaQDdG0kB2RBYHldQIsu3Ut1nM-sViK",
+    "https://downloadwella.com/oepalzprs3kr/Hijack.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J-9pTAQdXuGWIi3yYoDEFs0NGsaSeZEe",
+    "https://downloadwella.com/irpk624n78ze/hijack.2023.s02e03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/spc5SsuHyzyUjVd7UOeupEEl6gGIIKZL",
+    "https://downloadwella.com/o1pgfo9k46pv/Hijack.2023.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2YtXDH1y0-06PxAE56z2PX2fyKGm9sK_"
   }
 }
