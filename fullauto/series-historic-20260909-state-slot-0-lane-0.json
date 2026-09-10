@@ -792,6 +792,13 @@
       "signature": "143903|https://thenkiri.com/the-diplomat-s03-complete-tv-series/|2025-10-16T14:30:25|2025-10-16T14:30:25|{'rendered': 'The Diplomat S03 (Complete) | TV Series'}",
       "modified": "2025-10-16T14:30:25",
       "completed_at": 1789074551
+    },
+    "https://thenkiri.com/dmv-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "143713|https://thenkiri.com/dmv-s01-complete-tv-series/|2025-10-14T06:20:18|2026-05-12T08:18:52|{'rendered': 'DMV S01 (Episode 20 Added) | TV Series'}",
+      "modified": "2026-05-12T08:18:52",
+      "completed_at": 1789077976,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1575,6 +1582,11 @@
     "https://downloadwella.com/r681pqgyfykn/The.Diplomat.US.S03E05.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/v68XdQlNVYb3iJUNyK0URyVFHBMw5Ofh",
     "https://downloadwella.com/ujpyff7u2cpr/The.Diplomat.US.S03E06.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/Ju5cSVH2aFjgEr1Qyhzmvo4edH9nizNZ",
     "https://downloadwella.com/qyubctsgye9q/The.Diplomat.US.S03E07.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/Gydca7Io9Y1k3TtvICRKIn3MneInykUz",
-    "https://downloadwella.com/nlk4bb91w4mg/The.Diplomat.US.S03E08.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/BH8WNtMt1g1z5TU2Lgqofsp7XiCfSxHZ"
+    "https://downloadwella.com/nlk4bb91w4mg/The.Diplomat.US.S03E08.(NKIRI.INK).mkv.html": "https://v1.vidfiles.com/d/BH8WNtMt1g1z5TU2Lgqofsp7XiCfSxHZ",
+    "https://downloadwella.com/w1ihazoji0yp/DMV.2025.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S_xvdgls5OKRfvcW44bR2eFjhUJJrXyP",
+    "https://downloadwella.com/jgk0wih29fvq/DMV.2025.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JCnGN551p3JUiDEJIJFFf19E0PwUePSl",
+    "https://downloadwella.com/81twhm60xakt/DMV.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6h3bYrXCABHaQcsMSV_K2-1JYhChiibJ",
+    "https://downloadwella.com/xjiqcxenkrbc/DMV.S01E14.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/siHK6EumCmX9p_CCI2RdFbva7PDIZt23",
+    "https://downloadwella.com/oxyngr3365bz/DMV.S01E20.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CwLFhCcyOLWDvNmu0avgsCtO6O8JWsgR"
   }
 }
