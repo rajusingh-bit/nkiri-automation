@@ -513,6 +513,13 @@
       "modified": "2026-04-10T14:13:11",
       "skipped_at": 1789031339,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/big-mistakes-complete-tv-series/": {
+      "status": "partial",
+      "signature": "153984|https://thenkiri.com/big-mistakes-complete-tv-series/|2026-04-09T11:05:19|2026-04-09T11:05:19|{'rendered': 'Big Mistakes (Complete) | TV Series'}",
+      "modified": "2026-04-09T11:05:19",
+      "completed_at": 1789032085,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1051,6 +1058,12 @@
     "https://downloadwella.com/qn9qsp06366t/Iyanu.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4lD6T5oHnrq3ac0zR64AtpZkgDZlxxrN",
     "https://downloadwella.com/h0ldzgch1z8d/Iyanu.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ij-dPXjhL4q_jZ3r8Qrclh29LhMehhxX",
     "https://downloadwella.com/zro46ue9yfja/Iyanu.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/phMY37Jc8mMRR11Q0MPRh13hV4CMjgpY",
-    "https://downloadwella.com/i0r9s0yef3kh/Iyanu.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NwI1U7Acm2SzULPQaLVSvcQZ0TVUi_Dr"
+    "https://downloadwella.com/i0r9s0yef3kh/Iyanu.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NwI1U7Acm2SzULPQaLVSvcQZ0TVUi_Dr",
+    "https://downloadwella.com/dkoyqqg2j48r/Big.Mistake.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wCEolKBsNlBQQAMThUiiQZNYW_0yMacP",
+    "https://downloadwella.com/bqfyf1thkv6m/Big.Mistake.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J9kHE5LzLVQnfdQBMavHixGavYPNNmMq",
+    "https://downloadwella.com/82w24sl8kscg/Big.Mistake.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7x-YjgD_YACJupJJDqAphfN0sP4Nrcr0",
+    "https://downloadwella.com/2i6t6l7flbmn/Big.Mistake.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WN38_m9avCw6H4WRtTIUwDee4NTMV7dr",
+    "https://downloadwella.com/9kcl45sdvq74/Big.Mistake.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WGXPHhDG87d9TNmdUEGKgK3eV_6CCnmW",
+    "https://downloadwella.com/bc2ncmpof40t/Big.Mistake.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nc_3r-hf_hFlrB0re5OlP4ywCOB7vy3b"
   }
 }
