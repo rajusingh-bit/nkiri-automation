@@ -566,6 +566,13 @@
       "signature": "152607|https://thenkiri.com/radioactive-emergency-s01-complete-foreign-tv-series/|2026-03-20T07:59:54|2026-03-20T07:59:54|{'rendered': 'Radioactive Emergency S01 (Complete) | Foreign TV Series'}",
       "modified": "2026-03-20T07:59:54",
       "completed_at": 1789038713
+    },
+    "https://thenkiri.com/imperfect-women-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "152530|https://thenkiri.com/imperfect-women-s01-complete-tv-series/|2026-03-18T13:53:25|2026-04-29T09:16:29|{'rendered': 'Imperfect Women S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-04-29T09:16:29",
+      "completed_at": 1789039299,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1163,6 +1170,10 @@
     "https://downloadwella.com/ckmv17zpogww/Radioactive.Emergency.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aqu1JSnMQWzb8ea-W96qvuYZn8wviuFU",
     "https://downloadwella.com/nwrorca6ouej/Radioactive.Emergency.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KYGq7ChI6A0gcpir57VU9AEZqFrYNQxa",
     "https://downloadwella.com/qj9h82xolvhz/Radioactive.Emergency.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H17mpuMrSZBKTfWkLfthzFZlnxuWip-U",
-    "https://downloadwella.com/3vgu6tmpr4nn/Radioactive.Emergency.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FSikFozM6aR6Fdf16-gbOU1GlCB6EaEI"
+    "https://downloadwella.com/3vgu6tmpr4nn/Radioactive.Emergency.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FSikFozM6aR6Fdf16-gbOU1GlCB6EaEI",
+    "https://downloadwella.com/i20jt9nu7x1b/Imperfect.Women.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ruB6EhCUK02RZVIKlC7r8meB8vwesx4X",
+    "https://downloadwella.com/6nfkam4vfmpw/Imperfect.Women.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XDADu4wRAaFFMhngSyZmUNNr0FcT3Nmf",
+    "https://downloadwella.com/i2qyxx7x9ezo/Imperfect.Women.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J2CpopqJXjCFEHhefTTPvwClxyYHa-ON",
+    "https://downloadwella.com/sz6yml9mopdv/Imperfect.Women.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FwqTtqzAZRVXMiZ6XvVdmPB7WF73xIPA"
   }
 }
