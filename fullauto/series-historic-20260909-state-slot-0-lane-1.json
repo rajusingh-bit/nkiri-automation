@@ -710,6 +710,13 @@
       "modified": "2026-02-01T20:17:47",
       "skipped_at": 1789052313,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/percy-jackson-and-the-olympians-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "147720|https://thenkiri.com/percy-jackson-and-the-olympians-s02-complete-tv-series/|2025-12-18T09:37:38|2026-01-22T07:27:40|{'rendered': 'Percy Jackson and the Olympians S02 (Episode 8 Added) | TV Series'}",
+      "modified": "2026-01-22T07:27:40",
+      "completed_at": 1789053240,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1410,6 +1417,10 @@
     "https://downloadwella.com/6rc54ixucszk/Hijack.2023.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MCaQDdG0kB2RBYHldQIsu3Ut1nM-sViK",
     "https://downloadwella.com/oepalzprs3kr/Hijack.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J-9pTAQdXuGWIi3yYoDEFs0NGsaSeZEe",
     "https://downloadwella.com/irpk624n78ze/hijack.2023.s02e03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/spc5SsuHyzyUjVd7UOeupEEl6gGIIKZL",
-    "https://downloadwella.com/o1pgfo9k46pv/Hijack.2023.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2YtXDH1y0-06PxAE56z2PX2fyKGm9sK_"
+    "https://downloadwella.com/o1pgfo9k46pv/Hijack.2023.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2YtXDH1y0-06PxAE56z2PX2fyKGm9sK_",
+    "https://downloadwella.com/dicdceozjoop/Percy.Jackson.and.the.Olympians.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/No1FuMOx0CWQjjIHOorDaoHjxAFPN-HH",
+    "https://downloadwella.com/7brg3fjrrkxg/Percy.Jackson.and.the.Olympians.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MyVNuwvMYkg-_mZ7WvC62ZlYk-TZ05Jy",
+    "https://downloadwella.com/muqv9zsriq4i/Percy.Jackson.and.the.Olympians.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aM5mndfsbKhfLgCqXt1GF9D0zeIsjhop",
+    "https://downloadwella.com/l7ddxsx5npk4/Percy.Jackson.and.the.Olympians.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xOLahDmPHcimb3eJoK9kGSWeTiq9EkBS"
   }
 }
