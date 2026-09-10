@@ -717,6 +717,13 @@
       "modified": "2025-12-27T15:41:20",
       "completed_at": 1789059900,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tomb-raider-the-legend-of-lara-croft-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "147503|https://thenkiri.com/tomb-raider-the-legend-of-lara-croft-s02-complete-tv-series/|2025-12-15T08:47:35|2025-12-15T08:47:35|{'rendered': 'Tomb Raider: The Legend of Lara Croft S02 (Complete) | TV Series'}",
+      "modified": "2025-12-15T08:47:35",
+      "skipped_at": 1789060007,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
