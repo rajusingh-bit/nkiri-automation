@@ -485,6 +485,13 @@
       "signature": "154806|https://thenkiri.com/from-s04-complete-tv-series/|2026-04-19T13:31:18|2026-07-17T18:24:27|{'rendered': 'From S04 (Complete) | TV Series'}",
       "modified": "2026-07-17T18:24:27",
       "completed_at": 1789027613
+    },
+    "https://thenkiri.com/gotham-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "154632|https://thenkiri.com/gotham-s04-complete-tv-series/|2026-04-18T09:52:13|2026-05-02T10:46:09|{'rendered': 'Gotham S04 (Episode 22 Fixed) | TV Series'}",
+      "modified": "2026-05-02T10:46:09",
+      "completed_at": 1789029498,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1011,6 +1018,12 @@
     "https://downloadwella.com/im2ujgp8igxt/From.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v07Qva9uF4geZrc_A5M3HWj0Q6Wo3Az9",
     "https://downloadwella.com/ohl5fq6kw1ro/FROM.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TsdlfBsVvOs5uA5PYJV51k9_4M1TGlLJ",
     "https://downloadwella.com/7me0eoisi19g/From.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9wVZ4x35zKcMsxSEALgFtVWhfN1zjqUt",
-    "https://downloadwella.com/uu5xntd7oinz/From.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l6TpRZVgLNbXSQ6rKOJkIlv61vAFu3pq"
+    "https://downloadwella.com/uu5xntd7oinz/From.S04E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l6TpRZVgLNbXSQ6rKOJkIlv61vAFu3pq",
+    "https://downloadwella.com/jj8lxp6dbq93/Gotham.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bLmLH4QeyOR3MKfhz1rKaJbW5lT6Tepi",
+    "https://downloadwella.com/a77b38urff2f/Gotham.S04E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IDwDizsOtsAq0QJO30t4wRrghIbVSA2W",
+    "https://downloadwella.com/a5x6oobgs8g5/Gotham.S04E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9KR9XFDdAvI1XWvz2C8H1RwpENkF8aJf",
+    "https://downloadwella.com/24vplun8eq1y/Gotham.S04E18.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_NDGcnXsJBkkf_xyEoPHgTblk0DeA3hf",
+    "https://downloadwella.com/kxesxjuarduk/Gotham.s04e19.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dfk0GsyO-c8OfsRgSUJw1pjbwcy9Ost7",
+    "https://downloadwella.com/sfmr101zs7jp/Gotham.S04E22.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jqEM_xzrxO5YDYsnfP19chdUEIcapOls"
   }
 }
