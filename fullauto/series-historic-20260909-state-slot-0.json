@@ -506,6 +506,13 @@
       "modified": "2026-05-31T17:48:55",
       "completed_at": 1789031185,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/michael-jackson-an-american-tragedy-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "154101|https://thenkiri.com/michael-jackson-an-american-tragedy-s01-complete-tv-series/|2026-04-10T14:13:11|2026-04-10T14:13:11|{'rendered': 'Michael Jackson: An American Tragedy S01 (Complete) | TV Series'}",
+      "modified": "2026-04-10T14:13:11",
+      "skipped_at": 1789031339,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
