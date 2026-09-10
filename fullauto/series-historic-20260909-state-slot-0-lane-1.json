@@ -745,6 +745,13 @@
       "modified": "2025-12-24T08:04:52",
       "completed_at": 1789060065,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/alls-fair-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145346|https://thenkiri.com/alls-fair-s01-complete-tv-series/|2025-11-04T07:38:05|2025-12-09T09:15:21|{'rendered': 'All’s Fair S01 (Episode 8 & 9 Added) | TV Series'}",
+      "modified": "2025-12-09T09:15:21",
+      "completed_at": 1789060952,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1466,6 +1473,11 @@
     "https://downloadwella.com/klh2dt9iwa3u/Landman.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_W-Pc4eDewjxhxxJdMQESwh1rwoERcoO",
     "https://downloadwella.com/gnwq0qfadgfn/Landman.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gcY4j04Bo33z-6j00pFXs3kLtOx6DuEL",
     "https://downloadwella.com/zw91q0quigky/Pluribus.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JUmL_rbiLFmifT702G_mMf7UFCLJtUk9",
-    "https://downloadwella.com/9jbeiiyyl0ov/Pluribus.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/azpMMM2DP3EyE3D60VIU8BLPPdeRwEGE"
+    "https://downloadwella.com/9jbeiiyyl0ov/Pluribus.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/azpMMM2DP3EyE3D60VIU8BLPPdeRwEGE",
+    "https://downloadwella.com/kxwzhpcdxn7s/Alls.Fair.2025.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UtR_mIbHKG-6ktySDmPg7sFgxya0Epua",
+    "https://downloadwella.com/51sx524hssrw/Alls.Fair.2025.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nyuhcmN5nkpHuhF3UjYBWXzTna928zne",
+    "https://downloadwella.com/ncfd4lwnw98l/Alls.Fair.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mQjZbVYiH238cOHL5CzFgKvgjs312oaZ",
+    "https://downloadwella.com/3hvwmk74um9h/Alls.Fair.2025.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ysy3_sh6HPyP-lwn1mWP0U37AJzyAqo3",
+    "https://downloadwella.com/dhtmf1jclosf/Alls.Fair.2025.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qJGkJxslo473eIl474TmvAsW1sGRgS_n"
   }
 }
