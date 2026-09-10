@@ -416,6 +416,13 @@
       "modified": "2026-07-27T07:55:25",
       "completed_at": 1789018055,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-boroughs-complete-tv-series/": {
+      "status": "partial",
+      "signature": "157459|https://thenkiri.com/the-boroughs-complete-tv-series/|2026-05-21T10:15:42|2026-05-21T10:15:42|{'rendered': 'The Boroughs (Complete) | TV Series'}",
+      "modified": "2026-05-21T10:15:42",
+      "completed_at": 1789018708,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -864,6 +871,12 @@
     "https://downloadwella.com/im9emz45q7nz/Rick.and.Morty.S09E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_aPacM0-Y4KGgbhqMletlDI6-LXc9-RA",
     "https://downloadwella.com/h79fesbdl4cz/Rick.and.Morty.S09E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L5ydwfpeN63EPuHDOnxaoL8SuLhKpZp6",
     "https://downloadwella.com/qfs577co8q59/Rick.and.Morty.S09E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S7Iwa5HSnHwoALR7vzFoRXu9wgv5pdAS",
-    "https://downloadwella.com/09j4x95iu1wj/Rick.and.Morty.S09E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/83uFSiu7kNzDRsRejFUUEHYK_wVctgdY"
+    "https://downloadwella.com/09j4x95iu1wj/Rick.and.Morty.S09E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/83uFSiu7kNzDRsRejFUUEHYK_wVctgdY",
+    "https://downloadwella.com/zocaijuu2s0e/The.Boroughs.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_dm9EHAzHpSCQ_BCYi_5zBTwIgjuj4Js",
+    "https://downloadwella.com/dg2256ce7kpt/The.Boroughs.S01E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DbwsGQGczx2KKKmLCohsms0FlDl5ogQU",
+    "https://downloadwella.com/30bjpk2agdf4/The.Boroughs.S01E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v5FhpK4LCH-6RzGTrDQl59IOZ3doaXQt",
+    "https://downloadwella.com/nhw4y26hf24a/The.Boroughs.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9SlftAV6qFilv8OAqTWxHpjaVap-Stik",
+    "https://downloadwella.com/xzl12htxemrw/The.Boroughs.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FA-xaRJaMLSq_22F0Z-syQFve_KVcERM",
+    "https://downloadwella.com/yi15pv8uixu4/The.Boroughs.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/72W2P6N2I7huTwwrQGgxXEciMizCF3mX"
   }
 }
