@@ -752,6 +752,13 @@
       "modified": "2025-12-09T09:15:21",
       "completed_at": 1789060952,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-witcher-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "145075|https://thenkiri.com/the-witcher-s04-complete-tv-series/|2025-10-30T08:50:11|2025-10-30T12:22:08|{'rendered': 'The Witcher S04 (Complete) | TV Series'}",
+      "modified": "2025-10-30T12:22:08",
+      "completed_at": 1789063090,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1478,6 +1485,11 @@
     "https://downloadwella.com/51sx524hssrw/Alls.Fair.2025.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nyuhcmN5nkpHuhF3UjYBWXzTna928zne",
     "https://downloadwella.com/ncfd4lwnw98l/Alls.Fair.2025.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mQjZbVYiH238cOHL5CzFgKvgjs312oaZ",
     "https://downloadwella.com/3hvwmk74um9h/Alls.Fair.2025.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ysy3_sh6HPyP-lwn1mWP0U37AJzyAqo3",
-    "https://downloadwella.com/dhtmf1jclosf/Alls.Fair.2025.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qJGkJxslo473eIl474TmvAsW1sGRgS_n"
+    "https://downloadwella.com/dhtmf1jclosf/Alls.Fair.2025.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qJGkJxslo473eIl474TmvAsW1sGRgS_n",
+    "https://downloadwella.com/f8t2hf7mq5pz/The.Witcher.S04E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cmdKqsKUj6jZnH0Afj7n6KAZKLtEGHpl",
+    "https://downloadwella.com/3ill0wlm773h/The.Witcher.S04E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RCeFCDpdRX-Q00niMJDq8AUpadotG96g",
+    "https://downloadwella.com/klsdi58fnxa0/The.Witcher.S04E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YQgkheQ_kaMTom__PuVsPkZgXTWFKe3g",
+    "https://downloadwella.com/nwz0iadst9q3/The.Witcher.S04E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HSYVE_fqBRiumhb5EXmYBtjGk0wIPsUg",
+    "https://downloadwella.com/0ottvtuzxp7a/The.Witcher.S04E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/COlobYXlLbNGzYTR_DCGTK4WECqIUsuy"
   }
 }
