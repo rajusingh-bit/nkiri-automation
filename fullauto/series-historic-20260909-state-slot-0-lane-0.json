@@ -724,6 +724,12 @@
       "modified": "2025-12-15T08:47:35",
       "skipped_at": 1789060007,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/its-florida-man-s02-complete-tv-series/": {
+      "status": "done",
+      "signature": "146768|https://thenkiri.com/its-florida-man-s02-complete-tv-series/|2025-11-29T09:26:09|2025-12-06T04:02:59|{'rendered': 'It’s Florida, Man. S02 (Episode 2 Added) | TV Series'}",
+      "modified": "2025-12-06T04:02:59",
+      "completed_at": 1789060318
     }
   },
   "series_links": {
@@ -1448,6 +1454,8 @@
     "https://downloadwella.com/tyx13gmfrn0x/the.copenhagen.test.s01e03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mTBzniddggbm4tO-7sfcnuEhuuDGfAV3",
     "https://downloadwella.com/j8191i38l21r/the.copenhagen.test.s01e04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XYqVLa-jdmBBXDtrdaEdTaOZJdE_2SbD",
     "https://downloadwella.com/yyci8dojkkd1/the.copenhagen.test.s01e05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sIgXQm7EGBuEh-5iUCLq1Z9VvRvgbrF_",
-    "https://downloadwella.com/hnqop5r5gxji/the.copenhagen.test.s01e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/72lU404LAW8OZcf1mW0laHvuNe9LNS5Y"
+    "https://downloadwella.com/hnqop5r5gxji/the.copenhagen.test.s01e06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/72lU404LAW8OZcf1mW0laHvuNe9LNS5Y",
+    "https://downloadwella.com/f66utdawme3c/Its.Florida.Man.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fwyi_SjZtmWwfO7lk768n4qsUyJ7SP9g",
+    "https://downloadwella.com/vprw01r5vfnm/Its.Florida.Man.S02E02.(THENEKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gFgnh2NPYSUwm5S-Te44cRflRrqrlnsi"
   }
 }
