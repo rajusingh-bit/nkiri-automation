@@ -465,6 +465,13 @@
       "signature": "155363|https://thenkiri.com/my-brother-the-minotaur-complete-tv-series/|2026-04-25T08:47:37|2026-04-25T08:47:37|{'rendered': 'My Brother the Minotaur (Complete) | TV Series'}",
       "modified": "2026-04-25T08:47:37",
       "completed_at": 1789025455
+    },
+    "https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/": {
+      "status": "partial",
+      "signature": "155164|https://thenkiri.com/hulk-hogan-real-american-complete-tv-series/|2026-04-23T10:20:45|2026-04-23T10:30:32|{'rendered': 'Hulk Hogan: Real American (Episode 1 – 4 Added) | TV Series'}",
+      "modified": "2026-04-23T10:30:32",
+      "completed_at": 1789025780,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -973,6 +980,8 @@
     "https://downloadwella.com/bnqhdyn234hp/My.Brother.the.Minotaur.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YsCxUCi4NoTzcDmgz4fTI4rC2S4P6CmJ",
     "https://downloadwella.com/q85pqd1oxgr2/My.Brother.the.Minotaur.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8EIGuO48PeUjzKmYidJRC_gdPbhatT5T",
     "https://downloadwella.com/wnhecsm65mws/My.Brother.the.Minotaur.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mc9IKfkAu9ligKIoSUGbVNNYoQM-M4H4",
-    "https://downloadwella.com/3re0oqd2a4ie/My.Brother.the.Minotaur.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0YeFU9qZR4uPXFXVAaH18i_JHZcaaL6S"
+    "https://downloadwella.com/3re0oqd2a4ie/My.Brother.the.Minotaur.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0YeFU9qZR4uPXFXVAaH18i_JHZcaaL6S",
+    "https://downloadwella.com/g9t8bxn3yfru/Hulk.Hogan.Real.American.S01E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wYC8czo-MU0Xba9ryvwtWKBQ93-bI6wU",
+    "https://downloadwella.com/tbdvc59fno9k/Hulk.Hogan.Real.American.S01E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rjp72vlpron0vZ-uazjQkm-5-S2Q1gu6"
   }
 }
