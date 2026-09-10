@@ -675,6 +675,13 @@
       "modified": "2026-02-03T18:18:38",
       "skipped_at": 1789048614,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/bridgerton-s04-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "149385|https://thenkiri.com/bridgerton-s04-complete-tv-series/|2026-01-29T11:13:12|2026-02-26T11:32:50|{'rendered': 'Bridgerton S04 (Episodes 4 – 8 Added) | TV Series'}",
+      "modified": "2026-02-26T11:32:50",
+      "skipped_at": 1789049160,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
