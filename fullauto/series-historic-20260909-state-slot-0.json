@@ -553,6 +553,13 @@
       "signature": "152992|https://thenkiri.com/something-very-bad-is-going-to-happen-s01-complete-tv-series/|2026-03-26T17:16:26|2026-03-27T11:04:10|{'rendered': 'Something Very Bad Is Going to Happen S01 (Completed) | TV Series'}",
       "modified": "2026-03-27T11:04:10",
       "completed_at": 1789037751
+    },
+    "https://thenkiri.com/daredevil-born-again-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "152867|https://thenkiri.com/daredevil-born-again-s02-complete-tv-series/|2026-03-25T08:02:06|2026-05-13T10:00:32|{'rendered': 'Daredevil: Born Again S02 (Complete) | TV Series'}",
+      "modified": "2026-05-13T10:00:32",
+      "completed_at": 1789038333,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1140,6 +1147,11 @@
     "https://downloadwella.com/g5owlnvgfhbk/Something.Very.Bad.is.Going.to.Happen.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fvVg1-4R1ceThf46sPjaZqkPEuKvo27T",
     "https://downloadwella.com/bpdo2s5rnlon/Something.Very.Bad.is.Going.to.Happen.S01E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dd0LHjWI7KFpffmcezeHBiPHM5wauD00",
     "https://downloadwella.com/fbdiwn0p0r5u/Something.Very.Bad.is.Going.to.Happen.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Ccdzao5qF2QsB9og0hM0DPSutJPFYHg",
-    "https://downloadwella.com/aofgcu4d4fbg/Something.Very.Bad.is.Going.to.Happen.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EaGNSObfhQEqLBr-j_gRL1USiBm8YB8f"
+    "https://downloadwella.com/aofgcu4d4fbg/Something.Very.Bad.is.Going.to.Happen.S01E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EaGNSObfhQEqLBr-j_gRL1USiBm8YB8f",
+    "https://downloadwella.com/uph78dccl1hh/Daredevil.Born.Again.S02E02.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TvqMvEtcePNqInTWqmZxgCxO11rYkYKr",
+    "https://downloadwella.com/8n17i2fl340o/Daredevil.Born.Again.S02E03.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yXt7DXaFK2YR6vIC5TaUHNU5kxAfeV4S",
+    "https://downloadwella.com/syqqkft9qfkb/Daredevil.Born.Again.S02E04.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/anlB6r5JC-hZK-UxxbA9zoF4AR4Pg_Kg",
+    "https://downloadwella.com/x24om8hjm7pm/Daredevil.Born.Again.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBJFabpdnAi8oNlS5P6amu5vpDkX-_eH",
+    "https://downloadwella.com/gaz8xuwbi7x1/Daredevil.Born.Again.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BAq6oEqfpOwwdr1KC5KAWIA1AKlFabQ9"
   }
 }
