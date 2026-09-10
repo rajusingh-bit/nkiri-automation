@@ -355,6 +355,13 @@
       "modified": "2026-08-12T08:59:47",
       "completed_at": 1789010301,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-agency-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "159958|https://thenkiri.com/the-agency-s02-complete-tv-series/|2026-06-22T16:05:07|2026-06-22T16:17:29|{'rendered': 'The Agency S02 (Complete) | TV Series'}",
+      "modified": "2026-06-22T16:17:29",
+      "completed_at": 1789010868,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -731,6 +738,13 @@
     "https://downloadwella.com/m0tqyex6dwkq/X.Men.97.S02E04(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rFL_Z-4nZD6PD43o3WKkQHTrFlRIdZg3",
     "https://downloadwella.com/3izayz3ta5x9/X.Men.97.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ec2NrrtRKfQGBwggevUSG88cp1Sw04Zs",
     "https://downloadwella.com/02hko3hhe459/X.Men.97.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/m-kaEGWDwS7mithv2roIvezpalwS_rHk",
-    "https://downloadwella.com/v2gfc0rkfabj/X.Men.97.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rp89IuSWGpsGAvVHu5O3aUCXgx-Zk8JM"
+    "https://downloadwella.com/v2gfc0rkfabj/X.Men.97.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rp89IuSWGpsGAvVHu5O3aUCXgx-Zk8JM",
+    "https://downloadwella.com/pizr2tz36afd/The.Agency.S02E01.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gVLJz3RByv0MStGjWzLtl1qlFy2847zD",
+    "https://downloadwella.com/bnvvl5ijv15x/The.Agency.S02E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/u8vlj7FoVwFu93OxEF1Kg_hdys00HVuQ",
+    "https://downloadwella.com/pxotln6iwdd0/The.Agency.S02E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7luVEEWLSLk2S8ixUlrrURK7qjGvdTAi",
+    "https://downloadwella.com/lvwnf6pidyi6/The.Agency.S02E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tnbUzJtS-octeTTVuDFSu2LpqkXGQCXX",
+    "https://downloadwella.com/s3vmjis3lhdf/The.Agency.S02E08.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eg-kl90nYAH0wHm_lWgieLYTJ2R2z4yk",
+    "https://downloadwella.com/etwk1bifizym/The.Agency.S02E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ugtrDN_dC9bt7WrgYoEqJR_K-W-4DM-z",
+    "https://downloadwella.com/giqmkynxe3mr/The.Agency.S02E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H1k7z3OJaZjvQaT_GcfOpRBYbHHipehF"
   }
 }
