@@ -689,6 +689,13 @@
       "modified": "2026-04-08T07:35:20",
       "completed_at": 1789050040,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/allegiance-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "149012|https://thenkiri.com/allegiance-s03-complete-tv-series/|2026-01-22T10:19:38|2026-05-12T13:11:36|{'rendered': 'Allegiance S03 (Complete) | TV Series'}",
+      "modified": "2026-05-12T13:11:36",
+      "completed_at": 1789050836,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1385,6 +1392,10 @@
     "https://downloadwella.com/kdokl2s2o0sv/Memory.of.a.Killer.S01E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3NYV2C3qyprcZ4rjmKKMe7sAC5AJkH4H",
     "https://downloadwella.com/b7g3inhs1c32/Memory.of.a.Killer.S01E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QBZ5CyoemeKfcLxHSa_eyOIj_eHRhYZy",
     "https://downloadwella.com/weap5j2b0pug/Memory.of.Killer.S01E09.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/enQ2PKzYoSROKAbnZyBU9NCuavPWw9a3",
-    "https://downloadwella.com/mstx84r1g7ig/Memory.of.a.Killer.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PiNCJA4wnu_mND3EBlQ-4k1cnBC5bbhF"
+    "https://downloadwella.com/mstx84r1g7ig/Memory.of.a.Killer.S01E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PiNCJA4wnu_mND3EBlQ-4k1cnBC5bbhF",
+    "https://downloadwella.com/62o0lv7w3mwh/Allegiance.S03E05.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y9r8n8lbs8ojbobyQUUABQQSfwE26hn8",
+    "https://downloadwella.com/kcttldumhzfh/Allegiance.S03E06.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GnvJC-VJyddJj0tDePpgRkj6qyhIIYlB",
+    "https://downloadwella.com/pl861r8zdmr3/Allegiance.S03E07.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ghVhlnKyBIH0XRo6M0KfhaH-UNZx1-GR",
+    "https://downloadwella.com/b22zjacq6qi0/Allegiance.S03E10.(THENKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/H8NthOhP0H8V8I6vgXns7pgBstxxdn-_"
   }
 }
