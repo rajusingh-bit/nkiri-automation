@@ -849,6 +849,13 @@
       "modified": "2025-08-25T09:30:57",
       "completed_at": 1789082481,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-twisted-tale-of-amanda-knox-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141075|https://thenkiri.com/the-twisted-tale-of-amanda-knox-s01-complete-tv-series/|2025-08-20T07:25:27|2025-10-01T07:48:34|{'rendered': 'The Twisted Tale of Amanda Knox S01 (Episode 8 Added)  | TV Series'}",
+      "modified": "2025-10-01T07:48:34",
+      "completed_at": 1789083887,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1636,6 +1643,10 @@
     "https://downloadwella.com/gypic2nbsmbt/lord.of.mysteries.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sECL-9aOUv-Lu6ax6S0MYjYpi93nF7Dw",
     "https://downloadwella.com/r6f8rjqhy5ro/lord.of.mysteries.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/USO6lB1DH3_zmvQaraeWcXRJxVR90fqd",
     "https://downloadwella.com/3vra7onlkg1f/lord.of.mysteries.s01e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mb018oTQsMFvBaXBcIJYL82d4d73Nl_W",
-    "https://downloadwella.com/y7x2ruwc8ki3/King.and.Conqueror.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3pwvoq5LtlyLHqBSYs1Cb4YxvN7O4QSv"
+    "https://downloadwella.com/y7x2ruwc8ki3/King.and.Conqueror.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3pwvoq5LtlyLHqBSYs1Cb4YxvN7O4QSv",
+    "https://downloadwella.com/jmffzko3u5zl/the.twisted.tale.of.amanda.knox.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lC-erxKvHhr13l2_gaPeV8t8L2cXywSC",
+    "https://downloadwella.com/67ptef073l1r/the.twisted.tale.of.amanda.knox.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N616Vwp_b69qEK1wevjw-0DApQRMzht8",
+    "https://downloadwella.com/gqrfvme8ynff/The.Twisted.Tale.of.Amanda.Knox.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7KvS5F2Tq65hWRrnuf9GPVmvSfGGqaD3",
+    "https://downloadwella.com/wb9l7su0bcn1/The.Twisted.Tale.of.Amanda.Knox.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-GUq3jhkmVsK209BmnM86_8rInhKd5D"
   }
 }
