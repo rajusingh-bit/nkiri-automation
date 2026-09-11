@@ -872,6 +872,13 @@
       "modified": "2025-09-17T09:59:00",
       "completed_at": 1789093266,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/ballard-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "139312|https://thenkiri.com/ballard-s01-complete-tv-series/|2025-07-09T15:06:58|2025-07-09T17:55:36|{'rendered': 'Ballard S01 (Complete) | TV Series'}",
+      "modified": "2025-07-09T17:55:36",
+      "completed_at": 1789095032,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1716,6 +1723,11 @@
     "https://downloadwella.com/0bxz7kbn6e4x/The.Summer.I.Turned.Pretty.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gMU-LSIKKoL4j2r7saJHczDj4-cXndRz",
     "https://downloadwella.com/0unagookccmq/the.summer.i.turned.pretty.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q-7r66UOZ2cFXeKvgSLCLFJo1d4RRRAX",
     "https://downloadwella.com/3uttm2kox5ir/the.summer.i.turned.pretty.s03e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5928K8f3qOIT0Zzg-SR7p2FZeIexqAbk",
-    "https://downloadwella.com/0t9qz4n7atbf/the.summer.i.turned.pretty.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eOCQmsrt-1fIusEiLp18WVS-hJ_0XMLQ"
+    "https://downloadwella.com/0t9qz4n7atbf/the.summer.i.turned.pretty.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eOCQmsrt-1fIusEiLp18WVS-hJ_0XMLQ",
+    "https://downloadwella.com/js35qn464h62/ballard.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8R-iIhQUsZIGAHPVT3QIwCUb_5D_U4Nd",
+    "https://downloadwella.com/daxfi93qlt5e/ballard.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jsko4E7BMxBZxVR9zl8SxqZ5S98s1nx6",
+    "https://downloadwella.com/0swugdq4995y/ballard.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHb0NEpduKm1Yr8GKsz_1VhJtOCtwLo9",
+    "https://downloadwella.com/irpte1j633k7/ballard.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U22DCwe0kEA_OEfsCmU_bj8OTHxkAu_m",
+    "https://downloadwella.com/wuoyfelxw3aj/ballard.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qH7xor8L6jH_1OJJuLR5Z_CQ-daSMN0g"
   }
 }
