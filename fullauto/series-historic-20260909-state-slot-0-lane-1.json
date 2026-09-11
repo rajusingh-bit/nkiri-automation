@@ -1013,6 +1013,13 @@
       "modified": "2025-03-19T11:36:23",
       "completed_at": 1789125962,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/missing-you-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129496|https://thenkiri.com/missing-you-s01-complete-tv-series/|2025-01-03T10:44:15|2025-01-03T10:44:15|{'rendered': 'Missing You S01 (Complete) | TV Series'}",
+      "modified": "2025-01-03T10:44:15",
+      "completed_at": 1789126816,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1957,6 +1964,9 @@
     "https://downloadwella.com/6dmuvhm0swy8/Doc.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EZy8THHpQW1aNSi-zA2a4Kjiq1gKrMUC",
     "https://downloadwella.com/m3k0ozw9bohy/Doc.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xe_TXDKbGlM_AoH7WHbt-dCm_uRElN9K",
     "https://downloadwella.com/26684xsano5m/Doc.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EkTfKOgBoeeGN3Ft1ILtBER1l7LqfXM9",
-    "https://downloadwella.com/2yq9bxam66yf/Doc.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KECin6jnEq1-QpWsNh4cachrAKFekS-w"
+    "https://downloadwella.com/2yq9bxam66yf/Doc.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KECin6jnEq1-QpWsNh4cachrAKFekS-w",
+    "https://downloadwella.com/9kv95f836bti/Missing.You.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Yv8cBY0joJeLJwK7q8zlQH0pfiXl4VaI",
+    "https://downloadwella.com/4hani8ty79af/Missing.You.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fUj_dbqxZOt-LV1IRKRuFimGqqWWHXgr",
+    "https://downloadwella.com/9okwm3flmz7f/Missing.You.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9MAcOqlpVXcF6aoArJXab991iXk8mJ_P"
   }
 }
