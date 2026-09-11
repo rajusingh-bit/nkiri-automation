@@ -879,6 +879,12 @@
       "modified": "2025-07-09T17:55:36",
       "completed_at": 1789095032,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/transaction-s01-complete-tv-series/": {
+      "status": "done",
+      "signature": "138657|https://thenkiri.com/transaction-s01-complete-tv-series/|2025-06-25T13:29:51|2025-06-25T13:29:51|{'rendered': 'Transaction S01 (Complete)  | TV Series'}",
+      "modified": "2025-06-25T13:29:51",
+      "completed_at": 1789095907
     }
   },
   "series_links": {
@@ -1728,6 +1734,12 @@
     "https://downloadwella.com/daxfi93qlt5e/ballard.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jsko4E7BMxBZxVR9zl8SxqZ5S98s1nx6",
     "https://downloadwella.com/0swugdq4995y/ballard.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHb0NEpduKm1Yr8GKsz_1VhJtOCtwLo9",
     "https://downloadwella.com/irpte1j633k7/ballard.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U22DCwe0kEA_OEfsCmU_bj8OTHxkAu_m",
-    "https://downloadwella.com/wuoyfelxw3aj/ballard.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qH7xor8L6jH_1OJJuLR5Z_CQ-daSMN0g"
+    "https://downloadwella.com/wuoyfelxw3aj/ballard.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qH7xor8L6jH_1OJJuLR5Z_CQ-daSMN0g",
+    "https://downloadwella.com/jfhjyj7wv30o/Transaction.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AwoBIYoewPIVLJAL4Y3GGcKZqHgrds1h",
+    "https://downloadwella.com/paxmtx5xtklg/Transaction.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BhJVlG0TNViCQBmmDH_l-B39gKN0pQHC",
+    "https://downloadwella.com/l9a43wjqkos7/Transaction.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oVnblq-8NCFn7T9cHLp8tkz89LKw6y7V",
+    "https://downloadwella.com/2x1jbidq2hxg/Transaction.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TJ520H1BL3mUh3HRHL1APh5gW6rIcqnt",
+    "https://downloadwella.com/jlip5rabwa6t/Transaction.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwPdmiihs1_fkQZ7Kf-jNU06lp9qpeWm",
+    "https://downloadwella.com/y6konwaaod0h/Transaction.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/97f-6w5m4izF8HmGdbHEpMUKYYrOYk5e"
   }
 }
