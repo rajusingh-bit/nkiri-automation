@@ -1109,6 +1109,13 @@
       "modified": "2024-08-30T08:49:42",
       "completed_at": 1789155440,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/emily-in-paris-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "119710|https://thenkiri.com/emily-in-paris-s04-complete-tv-series/|2024-08-15T11:27:43|2024-09-12T10:43:19|{'rendered': 'Emily in Paris S04 (Complete) | TV Series'}",
+      "modified": "2024-09-12T10:43:19",
+      "completed_at": 1789156076,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2161,6 +2168,8 @@
     "https://downloadwella.com/q4nwtqf6vd9a/Terminator.Zero.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FRfjrmmlxRRDFSNq6IyRzGRkBSCOKBeA",
     "https://downloadwella.com/4v9n2fw5hz9m/Terminator.Zero.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GaHejjtv2mqxByK9246qKS8V_k_1NCat",
     "https://downloadwella.com/a04b3e7nwjsj/Terminator.Zero.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tHAFQa7GHWzdZl1v7J4pcSFrsMV0LCQd",
-    "https://downloadwella.com/nlqgrk4wbeyu/Terminator.Zero.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JpJii4UnTcXi4KikK6z82awnB_TKBv6j"
+    "https://downloadwella.com/nlqgrk4wbeyu/Terminator.Zero.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JpJii4UnTcXi4KikK6z82awnB_TKBv6j",
+    "https://downloadwella.com/82abovzqmoyl/Emily.in.Paris.S04E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nb4qh0hPiIeJL2FYuaJBfpEudwuikdnQ",
+    "https://downloadwella.com/864hyi0v4ao5/Emily.in.Paris.S04E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KvD10tqtq4_qoT4lFS1mDdMfxJy4M6vF"
   }
 }
