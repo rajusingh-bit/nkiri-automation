@@ -845,6 +845,13 @@
       "signature": "141493|https://thenkiri.com/atomic-s01-complete-tv-series/|2025-08-29T09:45:42|2025-09-19T08:33:20|{'rendered': 'Atomic S01 (Episode 5 Added) | TV Series'}",
       "modified": "2025-09-19T08:33:20",
       "completed_at": 1789088909
+    },
+    "https://thenkiri.com/hostage-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "141125|https://thenkiri.com/hostage-s01-complete-tv-series/|2025-08-22T09:44:44|2025-08-22T09:47:12|{'rendered': 'Hostage S01 (Complete)  | TV Series'}",
+      "modified": "2025-08-22T09:47:12",
+      "completed_at": 1789089479,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1669,6 +1676,8 @@
     "https://downloadwella.com/jt4ety9rsvxp/Atomic.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yAWvXpJXvMZv8bcOCpYil4DIzM-Qhb2d",
     "https://downloadwella.com/7q2lssrlbqgk/Atomic.S01.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Rp4J5DEQ_Z6CN8xShyFDsSj9s4E4iUXg",
     "https://downloadwella.com/58wwngcmod35/Atomic.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L4yU2oFcXH4bvV2DrbrJa9SC6HpZxuQy",
-    "https://downloadwella.com/swwzp39wxw84/Atomic.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/opI2cpr_ZMQdiLgLdAX5jSHfuBVomDQl"
+    "https://downloadwella.com/swwzp39wxw84/Atomic.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/opI2cpr_ZMQdiLgLdAX5jSHfuBVomDQl",
+    "https://downloadwella.com/hsx8jutjxsnx/Hostage.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ljZeca5Ep6kewK7CCwuBTZXuzfd4ol8j",
+    "https://downloadwella.com/m6z43dw3ilgi/Hostage.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hhXzb9EVVpeYNJdkBfHHdgHi2n-gfJ6i"
   }
 }
