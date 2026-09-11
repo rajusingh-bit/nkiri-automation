@@ -856,6 +856,13 @@
       "modified": "2025-10-01T07:48:34",
       "completed_at": 1789083887,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/platonic-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "140553|https://thenkiri.com/platonic-s01-complete-tv-series/|2025-08-07T06:57:50|2025-08-07T06:57:50|{'rendered': 'Platonic S01 (Complete)  | TV Series'}",
+      "modified": "2025-08-07T06:57:50",
+      "completed_at": 1789084937,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1647,6 +1654,13 @@
     "https://downloadwella.com/jmffzko3u5zl/the.twisted.tale.of.amanda.knox.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lC-erxKvHhr13l2_gaPeV8t8L2cXywSC",
     "https://downloadwella.com/67ptef073l1r/the.twisted.tale.of.amanda.knox.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N616Vwp_b69qEK1wevjw-0DApQRMzht8",
     "https://downloadwella.com/gqrfvme8ynff/The.Twisted.Tale.of.Amanda.Knox.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7KvS5F2Tq65hWRrnuf9GPVmvSfGGqaD3",
-    "https://downloadwella.com/wb9l7su0bcn1/The.Twisted.Tale.of.Amanda.Knox.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-GUq3jhkmVsK209BmnM86_8rInhKd5D"
+    "https://downloadwella.com/wb9l7su0bcn1/The.Twisted.Tale.of.Amanda.Knox.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7-GUq3jhkmVsK209BmnM86_8rInhKd5D",
+    "https://downloadwella.com/yxlcjsj4nufg/Platonic.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PElaAFLWyMWTiq_C7TN_ii_bi9z9S8MM",
+    "https://downloadwella.com/3elgz9lwbyr8/Platonic.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dlujlH9g3LmakN8QeWtsjyZbwB_wstiE",
+    "https://downloadwella.com/fgdjj016bmhz/Platonic.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nOEChINKTe-gYxL8nrlxE1XYc-H0_SMG",
+    "https://downloadwella.com/oechb2mnjnlx/Platonic.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IDZHDqqp33VJLJvfztgQH_vhS-LqIbFW",
+    "https://downloadwella.com/8ui6lfnmr17s/Platonic.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pePGeF6nBre7JVcEmVdDgcRwdSYtWxPh",
+    "https://downloadwella.com/8fmirc467cf0/Platonic.2023.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MyOSBTCoPxQQr9PlNtmfQpi1tBN2Y5vO",
+    "https://downloadwella.com/mrqiommbe77u/Platonic.2023.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3qVCy7kmuH5_iYoAkMSIXtW_2TYCMji9"
   }
 }
