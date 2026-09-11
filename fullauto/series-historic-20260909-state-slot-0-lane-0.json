@@ -1115,6 +1115,13 @@
       "modified": "2024-08-22T14:31:13",
       "completed_at": 1789167449,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/industry-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "119559|https://thenkiri.com/industry-s03-complete-tv-series/|2024-08-12T12:36:26|2024-09-30T07:38:44|{'rendered': 'Industry S03 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-09-30T07:38:44",
+      "completed_at": 1789168661,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2182,6 +2189,10 @@
     "https://downloadwella.com/od66z55tchas/Tell.Me.Lies.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P9qNNeQdrLGkrjaetus4fSMfkAUqfanf",
     "https://downloadwella.com/t3m6ct6tl2hw/Tell.Me.Lies.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JOaiS92V22veXdMhAPfU0COUDdTaomHK",
     "https://downloadwella.com/ch4brdqwf21k/Tell.Me.Lies.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RGv5hQvD6mZEHmYKHOSlGLXL5FRcTATB",
-    "https://downloadwella.com/wyj623f3zfay/That.90s.Show.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3NY0W05iVpftoKJ6bxnGRI-3ez4ZwSRW"
+    "https://downloadwella.com/wyj623f3zfay/That.90s.Show.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3NY0W05iVpftoKJ6bxnGRI-3ez4ZwSRW",
+    "https://downloadwella.com/xrimb1xnnlwc/Industry.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N1nvgzUfUBbcaIbkIB6qZq25NcqqgxJg",
+    "https://downloadwella.com/ye7lj2t58xef/Industry.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GllTXFs827abOTGRjVaMRnRSCNJWWwJR",
+    "https://downloadwella.com/bew25t2nldxw/Industry.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2HTIBbNJHapCY10OXC30C-s8lnMoKVzb",
+    "https://downloadwella.com/7q40br0eb9s6/Industry.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AK3Q-FQe9-7Xw5cQl99zg-dPxT21h1n4"
   }
 }
