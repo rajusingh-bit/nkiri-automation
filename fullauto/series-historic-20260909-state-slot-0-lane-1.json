@@ -1074,6 +1074,13 @@
       "signature": "122665|https://thenkiri.com/curses-s02-complete-tv-series/|2024-10-05T11:54:54|2024-10-05T11:54:54|{'rendered': 'Curses! S02 (Complete) | TV Series'}",
       "modified": "2024-10-05T11:54:54",
       "completed_at": 1789146339
+    },
+    "https://thenkiri.com/the-walking-dead-daryl-dixon-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "122226|https://thenkiri.com/the-walking-dead-daryl-dixon-s02-complete-tv-series/|2024-09-29T13:26:33|2024-11-04T18:11:31|{'rendered': 'The Walking Dead: Daryl Dixon S02 (Episode 6 Added) | TV Series'}",
+      "modified": "2024-11-04T18:11:31",
+      "completed_at": 1789147318,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2093,6 +2100,10 @@
     "https://downloadwella.com/vx9ku4yeuglv/Curses.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DWvSpfRDS0X2JMXEd3e7ZM9RP5iIdy_1",
     "https://downloadwella.com/to0xra77zr9v/Curses.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w1LgCxK-bb9T4VQsEBWS9pCj6m8NH0tB",
     "https://downloadwella.com/fhj18oa9lkcy/Curses.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aXsH-nFsGjK0I06ubrLiQHvQT-n8AKh6",
-    "https://downloadwella.com/tpfyex6rx50h/Curses.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y2G-9Z0wMNUsMfVoCtbL6cBxGQzbndWS"
+    "https://downloadwella.com/tpfyex6rx50h/Curses.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y2G-9Z0wMNUsMfVoCtbL6cBxGQzbndWS",
+    "https://downloadwella.com/mxxengp4f6ee/The.Walking.Dead.Daryl.Dixon.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1IjsUludazrwquMOnbKAWNf5em_hX3Tj",
+    "https://downloadwella.com/cbvs6dum2eln/The.walking.dead.daryl.dixon.s02e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ccpc8bMvUh7LI-j3q4DEazS8kUDeqWLB",
+    "https://downloadwella.com/urvw62j10z6v/The.Walking.Dead.Daryl.Dixon.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zR5TLCPF52oP9vyrI7AEX2_jJd6ULnhd",
+    "https://downloadwella.com/dw4jqju7ca36/The.walking.dead.daryl.dixon.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WPm0xeji647Y05fF15aeUwV9GqGbwM9z"
   }
 }
