@@ -914,6 +914,13 @@
       "modified": "2025-05-08T17:23:55",
       "skipped_at": 1789102839,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sullivans-crossing-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135115|https://thenkiri.com/sullivans-crossing-s03-complete-tv-series/|2025-04-28T07:29:50|2026-03-24T06:24:31|{'rendered': 'Sullivan’s Crossing S03 (Complete) | TV Series'}",
+      "modified": "2026-03-24T06:24:31",
+      "completed_at": 1789104296,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1788,6 +1795,13 @@
     "https://downloadwella.com/zmxuk932ac6c/Duster.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ylMTjxfodLLsojT9TjoSqXxQvJ4zEGJR",
     "https://downloadwella.com/b9kuqsoi9jom/Duster.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NoaHQ-Zh9XTFPyoyTirU_LLrTAjP9Sva",
     "https://downloadwella.com/kutdy76z4dtv/Duster.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wyCaoE2hu6qftjWF9xOBkXWQ73x78NPn",
-    "https://downloadwella.com/ty7rxqva9qlp/Duster.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fG6hbPyftCbPbbH4yDQRDMV1xULxvlT3"
+    "https://downloadwella.com/ty7rxqva9qlp/Duster.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fG6hbPyftCbPbbH4yDQRDMV1xULxvlT3",
+    "https://downloadwella.com/yxcwwwj3pbq1/sullivans.crossing.s03e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T0d1H20lMv5yNcp6pIOpHx5OElvivKEV",
+    "https://downloadwella.com/fe25bgr6j9hv/Sullivans.Crossing.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/clGeCtrKeJIU-jnkqVUcHSFGLsC5CjGW",
+    "https://downloadwella.com/ed4z4qaf3sif/Sullivans.Crossing.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hNd_QG9dZ8sile69jTDJNHUJMhI5Us3f",
+    "https://downloadwella.com/jzh88fn319ch/sullivans.crossing.s03e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x6XEh1KTEYw3i9D0Rq8uTVHNblX2GTzy",
+    "https://downloadwella.com/orxt03plvvj4/sullivans.crossing.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gFvQLKjaHCKAyNZGkT0uUfWWsYtfmpHx",
+    "https://downloadwella.com/oq9tyb9wwafn/Sullivans.Crossing.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iYE-iAduLR9rJYWTUznXfuS9_c2rpDIC",
+    "https://downloadwella.com/nxiz33kz5y0h/Sullivans.Crossing.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P5I0DZohJL82uDr2EIARMBa5J5B31mbU"
   }
 }
