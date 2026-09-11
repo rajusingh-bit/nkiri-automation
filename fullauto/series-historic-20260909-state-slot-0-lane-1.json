@@ -964,7 +964,14 @@
       "completed_at": 1789111498,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-elimination-chamber-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-elimination-chamber-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/a-thousand-blows-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "131883|https://thenkiri.com/a-thousand-blows-s01-complete-tv-series/|2025-02-23T07:49:22|2025-02-23T07:49:22|{'rendered': 'A Thousand Blows S01 (Complete) | TV Series'}",
+      "modified": "2025-02-23T07:49:22",
+      "completed_at": 1789112382,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1864,6 +1871,11 @@
     "https://downloadwella.com/qsefig4wk7t9/The.Wheel.of.Time.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l_O3SQxfdkARqhQAwTMqydiLEPBm0Mxw",
     "https://downloadwella.com/9sep1w6gn2sv/The.Wheel.of.Time.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NcnuKJdy0_a4HPmEMxz3J7wZ-Yp2r56N",
     "https://downloadwella.com/pm5tgvxg72yb/the.wheel.of.time.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RQX7N6qQuAWezud9PkTgRidwEqxeJ2we",
-    "https://downloadwella.com/bg41pwjdnn3u/the.wheel.of.time.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/moVjRswxFZ_XA831fs5RrnNYgBA9G3Wf"
+    "https://downloadwella.com/bg41pwjdnn3u/the.wheel.of.time.s03e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/moVjRswxFZ_XA831fs5RrnNYgBA9G3Wf",
+    "https://downloadwella.com/nz9xix06ikgr/A.Thousand.Blows.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/csIBC0mUnpu4PrmdrtpABDO1ViA0q2k7",
+    "https://downloadwella.com/d0njd8t7qr3b/A.Thousand.Blows.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gqH2aUzK_mrSTGnQx59R5ZR06AkVfKC_",
+    "https://downloadwella.com/dhyna9oqkac7/a.thousand.blows.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YeCovk5SFxOmEIr1lSywJeYDUCjvhYom",
+    "https://downloadwella.com/95ab89ek5shn/A.Thousand.Blows.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hBWz__fobqtcjBPS4GT03aKJHTPK9VX7",
+    "https://downloadwella.com/hkcacdopdufy/A.Thousand.Blows.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YgcfVs90KSnSbaiE12qibPggmaInmwnD"
   }
 }
