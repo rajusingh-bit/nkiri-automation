@@ -1006,6 +1006,13 @@
       "modified": "2025-01-16T08:49:16",
       "completed_at": 1789123475,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/doc-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129713|https://thenkiri.com/doc-s01-complete-tv-series/|2025-01-09T07:42:56|2025-03-19T11:36:23|{'rendered': 'Doc S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-03-19T11:36:23",
+      "completed_at": 1789125962,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1946,6 +1953,10 @@
     "https://downloadwella.com/jbrc5zz1nbbq/Bandidos.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mJfHZimR8SIHCVreiw1ZT9nTkL1jn-S9",
     "https://downloadwella.com/vbez2robkehw/Bandidos.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-0V0mjrCSoKatv1fGwSv4FEtRfbWsa1R",
     "https://downloadwella.com/d5ixr76xmll7/Bandidos.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/q-pdCLqY9InNdnyqyr4XTKNkkMcYRHdV",
-    "https://downloadwella.com/yzg094w784xz/Bandidos.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9iKnzgPYHXI1QPbPC0WkzD2vxrdfpi-s"
+    "https://downloadwella.com/yzg094w784xz/Bandidos.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9iKnzgPYHXI1QPbPC0WkzD2vxrdfpi-s",
+    "https://downloadwella.com/6dmuvhm0swy8/Doc.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EZy8THHpQW1aNSi-zA2a4Kjiq1gKrMUC",
+    "https://downloadwella.com/m3k0ozw9bohy/Doc.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xe_TXDKbGlM_AoH7WHbt-dCm_uRElN9K",
+    "https://downloadwella.com/26684xsano5m/Doc.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EkTfKOgBoeeGN3Ft1ILtBER1l7LqfXM9",
+    "https://downloadwella.com/2yq9bxam66yf/Doc.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KECin6jnEq1-QpWsNh4cachrAKFekS-w"
   }
 }
