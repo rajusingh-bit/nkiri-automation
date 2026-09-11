@@ -1101,6 +1101,13 @@
       "modified": "2024-09-27T07:53:36",
       "completed_at": 1789163683,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tell-me-lies-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "120800|https://thenkiri.com/tell-me-lies-s01-complete-tv-series/|2024-09-05T07:12:08|2024-09-05T07:12:08|{'rendered': 'Tell Me Lies S01 (Complete) | TV Series'}",
+      "modified": "2024-09-05T07:12:08",
+      "completed_at": 1789164271,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2164,6 +2171,9 @@
     "https://downloadwella.com/78cisqlp800m/How.to.die.alone.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KwDhoYFlyZ4c1F1HCpto9uwThGDNDDBS",
     "https://downloadwella.com/htc7kc33m4n3/How.to.die.alone.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M_9EaqapKLokAqlBFiWOjKDYm0RhSJWd",
     "https://downloadwella.com/ddgxkhmdv2px/How.to.Die.Alone.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AmI9rYoAkLrHblAS6gsfV-aZTPTyHAaj",
-    "https://downloadwella.com/65r58b8d2ajr/How.to.Die.Alone.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7eIOjD32-IJzeAjY6xamJMqRsVL-I_7d"
+    "https://downloadwella.com/65r58b8d2ajr/How.to.Die.Alone.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7eIOjD32-IJzeAjY6xamJMqRsVL-I_7d",
+    "https://downloadwella.com/od66z55tchas/Tell.Me.Lies.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P9qNNeQdrLGkrjaetus4fSMfkAUqfanf",
+    "https://downloadwella.com/t3m6ct6tl2hw/Tell.Me.Lies.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JOaiS92V22veXdMhAPfU0COUDdTaomHK",
+    "https://downloadwella.com/ch4brdqwf21k/Tell.Me.Lies.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RGv5hQvD6mZEHmYKHOSlGLXL5FRcTATB"
   }
 }
