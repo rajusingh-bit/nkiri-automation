@@ -893,7 +893,14 @@
       "completed_at": 1789098052,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-money-in-the-bank-2025-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-money-in-the-bank-2025-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/rick-and-morty-s08-complete-tv-series/": {
+      "status": "partial",
+      "signature": "136336|https://thenkiri.com/rick-and-morty-s08-complete-tv-series/|2025-05-26T07:11:36|2025-07-28T07:22:10|{'rendered': 'Rick and Morty S08 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-07-28T07:22:10",
+      "completed_at": 1789100599,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -1755,6 +1762,14 @@
     "https://downloadwella.com/x4bmwfs4zjff/we.were.liars.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S9vABgqwMLDaHHGFP2xjVo-TJFDfipwc",
     "https://downloadwella.com/q99dq60itehy/we.were.liars.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZYriwBwbVj9X3KOQkf4Mt7mdY5amfhkK",
     "https://downloadwella.com/zldp5vqqf2u5/we.were.liars.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lwBGqIa6ySk1Fkv4GWEwfphqkvVSJtxP",
-    "https://downloadwella.com/7l11gzujln4r/We.Were.Liars.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B02aPNeTdo5TcZ4zFhv55zNqc5PqczU4"
+    "https://downloadwella.com/7l11gzujln4r/We.Were.Liars.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B02aPNeTdo5TcZ4zFhv55zNqc5PqczU4",
+    "https://downloadwella.com/6lvjdlek4bdz/rick.and.morty.s08e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HtWXYCc0r7XLJL-er9wonNcycsckFzIf",
+    "https://downloadwella.com/cyu2kgf3dhka/rick.and.morty.s08e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dlJO2n8t8JzAvBPIfUkSwzEXIHeZfHtF",
+    "https://downloadwella.com/z4ghgr803aw3/rick.and.morty.s08e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rHvP6tHb78fffGTZ3jhcaqsje7-rGx5O",
+    "https://downloadwella.com/ub8vmjkgvfwz/rick.and.morty.s08e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/s9Z6ZiAkZu3rvjHjLOMecrlFL1NSccTi",
+    "https://downloadwella.com/amcle1iddut6/Rick.And.Morty.S08E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rszMeoPBkHbzN2J2dIygVdSzp9Ww-mPl",
+    "https://downloadwella.com/x1jo8etkdax0/rick.and.morty.s08e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zcbea8FgtHWDbtt1EWaX5bOm7VAPWnGc",
+    "https://downloadwella.com/0zl8l2r8z9bw/rick.and.morty.s08e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hsqrXjvaRay9Y4iwpSr7iMazroGsOpT_",
+    "https://downloadwella.com/p3prpus3mwzl/rick.and.morty.s08e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PaRdp7pKiic0SBLSIVtkJ4neDbY2JyZk"
   }
 }
