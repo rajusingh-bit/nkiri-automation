@@ -941,6 +941,13 @@
       "modified": "2025-06-30T10:03:31",
       "completed_at": 1789108478,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/abbott-elementary-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133539|https://thenkiri.com/abbott-elementary-s01-complete-tv-series/|2025-03-27T09:04:43|2025-03-27T09:34:36|{'rendered': 'Abbott Elementary S01 (Complete) | TV Series'}",
+      "modified": "2025-03-27T09:34:36",
+      "completed_at": 1789115303,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1846,6 +1853,12 @@
     "https://downloadwella.com/smlt6vln6ify/lazarus.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rtxCIK-zebgaCxYFSuVnfA-UU8-_9i25",
     "https://downloadwella.com/57c1czskbyym/Lazarus.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V7n760KIjONcQRB5_Lvgchcu8E5I3QdN",
     "https://downloadwella.com/p0mkifqfoumu/Lazarus.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xqRiVFmzAljmze-QG21syYoUb9_O3-tO",
-    "https://downloadwella.com/fauij112l7hn/Lazarus.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tMZMt031lQHqXYvdxoysNzAol8IURkoI"
+    "https://downloadwella.com/fauij112l7hn/Lazarus.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tMZMt031lQHqXYvdxoysNzAol8IURkoI",
+    "https://downloadwella.com/l3zn8j9r9tdi/Abbott.Elementary.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EsGCNh-4Nxj1gZqB1wz6urVKGGSzM3iC",
+    "https://downloadwella.com/uh5vzzyy7ynu/Abbott.Elementary.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/G_iicLey1Lv-D11TmTScQDd5bphvmoVh",
+    "https://downloadwella.com/ul1wo361snqz/Abbott.Elementary.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SSiy3OjRNHUCfLKsBPdXNhGof1J2fTRV",
+    "https://downloadwella.com/xso4pc3tptog/Abbott.Elementary.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sHBfqDdYLgWg9StbM_4nDVWd6lsn94DU",
+    "https://downloadwella.com/vyuft6heuyrf/Abbott.Elementary.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FngwiLPZP3Yjo10ZcLW-A3eS7IXJXwyB",
+    "https://downloadwella.com/n2i6y52zlbw3/Abbott.Elementary.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uGStDZjDRaTVvS1_nep8Bu5DM0HH-BJ0"
   }
 }
