@@ -907,6 +907,13 @@
       "modified": "2025-07-15T15:08:26",
       "completed_at": 1789102420,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/blood-of-zeus-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "135598|https://thenkiri.com/blood-of-zeus-s03-complete-tv-series/|2025-05-08T17:23:55|2025-05-08T17:23:55|{'rendered': 'Blood of Zeus S03 (Complete) | TV Series'}",
+      "modified": "2025-05-08T17:23:55",
+      "skipped_at": 1789102839,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
