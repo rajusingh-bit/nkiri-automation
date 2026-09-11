@@ -900,6 +900,13 @@
       "modified": "2025-07-28T07:22:10",
       "completed_at": 1789100599,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/duster-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "135981|https://thenkiri.com/duster-s01-complete-tv-series/|2025-05-16T08:25:54|2025-07-15T15:08:26|{'rendered': 'Duster S01 (Complete) | TV Series'}",
+      "modified": "2025-07-15T15:08:26",
+      "completed_at": 1789102420,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1770,6 +1777,10 @@
     "https://downloadwella.com/amcle1iddut6/Rick.And.Morty.S08E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rszMeoPBkHbzN2J2dIygVdSzp9Ww-mPl",
     "https://downloadwella.com/x1jo8etkdax0/rick.and.morty.s08e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zcbea8FgtHWDbtt1EWaX5bOm7VAPWnGc",
     "https://downloadwella.com/0zl8l2r8z9bw/rick.and.morty.s08e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hsqrXjvaRay9Y4iwpSr7iMazroGsOpT_",
-    "https://downloadwella.com/p3prpus3mwzl/rick.and.morty.s08e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PaRdp7pKiic0SBLSIVtkJ4neDbY2JyZk"
+    "https://downloadwella.com/p3prpus3mwzl/rick.and.morty.s08e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PaRdp7pKiic0SBLSIVtkJ4neDbY2JyZk",
+    "https://downloadwella.com/zmxuk932ac6c/Duster.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ylMTjxfodLLsojT9TjoSqXxQvJ4zEGJR",
+    "https://downloadwella.com/b9kuqsoi9jom/Duster.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NoaHQ-Zh9XTFPyoyTirU_LLrTAjP9Sva",
+    "https://downloadwella.com/kutdy76z4dtv/Duster.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wyCaoE2hu6qftjWF9xOBkXWQ73x78NPn",
+    "https://downloadwella.com/ty7rxqva9qlp/Duster.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fG6hbPyftCbPbbH4yDQRDMV1xULxvlT3"
   }
 }
