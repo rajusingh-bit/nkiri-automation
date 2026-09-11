@@ -1088,6 +1088,13 @@
       "modified": "2025-04-01T13:45:59",
       "completed_at": 1789151999,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/agatha-all-along-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "121584|https://thenkiri.com/agatha-all-along-s01-complete-tv-series/|2024-09-19T06:18:28|2024-10-31T17:57:08|{'rendered': 'Agatha All Along S01 (Complete) | TV Series'}",
+      "modified": "2024-10-31T17:57:08",
+      "completed_at": 1789152897,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2124,6 +2131,9 @@
     "https://downloadwella.com/rc3kkxq0e97s/Rescue.HI-Surf.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x8aDulk80m9ObpnTRhKPYtfRqhGYSKUC",
     "https://downloadwella.com/g7sapnzppsud/Rescue.HI-Surf.S01E17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JehDWOpAg9sDtrPFeAfNMC9x0nqWElIq",
     "https://downloadwella.com/n5w8dpg3sxcc/Rescue.HI-Surf.S01E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gBcpZNQhNCY9xVpLayVeyb6s0xDeng4D",
-    "https://downloadwella.com/khv8m72ivvun/Rescue.HI-Surf.S01E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cWFzgDZxbX7vwb81_SnaTmt2EPQnwWBj"
+    "https://downloadwella.com/khv8m72ivvun/Rescue.HI-Surf.S01E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cWFzgDZxbX7vwb81_SnaTmt2EPQnwWBj",
+    "https://downloadwella.com/fqfri209vfws/Agatha.All.Along.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tN0ktPJgLFcFZWgZ99zZASEXQB0tl94n",
+    "https://downloadwella.com/9ql3reezwr9j/Agatha.All.Along.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PZPgtbZ9EN9EdznxecjNyYkV6UuDYbNb",
+    "https://downloadwella.com/ehrh0b8os5eu/Agatha.All.Along.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YL_mEkmcJiPZfaQHlQm2m8aVRHrVr31W"
   }
 }
