@@ -885,6 +885,13 @@
       "signature": "138657|https://thenkiri.com/transaction-s01-complete-tv-series/|2025-06-25T13:29:51|2025-06-25T13:29:51|{'rendered': 'Transaction S01 (Complete)  | TV Series'}",
       "modified": "2025-06-25T13:29:51",
       "completed_at": 1789095907
+    },
+    "https://thenkiri.com/we-were-liars-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "138249|https://thenkiri.com/we-were-liars-s01-complete-tv-series/|2025-06-18T14:04:59|2025-06-18T18:21:00|{'rendered': 'We Were Liars S01 (Complete)  | TV Series'}",
+      "modified": "2025-06-18T18:21:00",
+      "completed_at": 1789098052,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1740,6 +1747,13 @@
     "https://downloadwella.com/l9a43wjqkos7/Transaction.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oVnblq-8NCFn7T9cHLp8tkz89LKw6y7V",
     "https://downloadwella.com/2x1jbidq2hxg/Transaction.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TJ520H1BL3mUh3HRHL1APh5gW6rIcqnt",
     "https://downloadwella.com/jlip5rabwa6t/Transaction.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwPdmiihs1_fkQZ7Kf-jNU06lp9qpeWm",
-    "https://downloadwella.com/y6konwaaod0h/Transaction.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/97f-6w5m4izF8HmGdbHEpMUKYYrOYk5e"
+    "https://downloadwella.com/y6konwaaod0h/Transaction.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/97f-6w5m4izF8HmGdbHEpMUKYYrOYk5e",
+    "https://downloadwella.com/4i3gupo4ydsx/we.were.liars.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5GwfDKW0KMBVIBUEr8rKFzVSI__4Jq7o",
+    "https://downloadwella.com/fjr926u5c8zc/we.were.liars.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XMFpUzKK5NQhAoyFVYD04njHfZBSoNX1",
+    "https://downloadwella.com/i5ew93h37whs/we.were.liars.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A8SLXlOmKJZQymlr8KUX5_0av5qMna-8",
+    "https://downloadwella.com/x4bmwfs4zjff/we.were.liars.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S9vABgqwMLDaHHGFP2xjVo-TJFDfipwc",
+    "https://downloadwella.com/q99dq60itehy/we.were.liars.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZYriwBwbVj9X3KOQkf4Mt7mdY5amfhkK",
+    "https://downloadwella.com/zldp5vqqf2u5/we.were.liars.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lwBGqIa6ySk1Fkv4GWEwfphqkvVSJtxP",
+    "https://downloadwella.com/7l11gzujln4r/We.Were.Liars.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B02aPNeTdo5TcZ4zFhv55zNqc5PqczU4"
   }
 }
