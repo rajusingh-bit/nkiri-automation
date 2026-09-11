@@ -985,6 +985,13 @@
       "modified": "2025-05-06T07:55:23",
       "completed_at": 1789115266,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/watson-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130542|https://thenkiri.com/watson-s01-complete-tv-series/|2025-01-27T10:03:03|2025-05-12T09:56:19|{'rendered': 'Watson S01 (Episode 13 Added) | TV Series'}",
+      "modified": "2025-05-12T09:56:19",
+      "completed_at": 1789118717,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1901,6 +1908,17 @@
     "https://downloadwella.com/hfmcg1cg7wcv/All.American.S07E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hWUHgTXtZsVIT7INUGZq3R3OXjBFT_xO",
     "https://downloadwella.com/wbrvrjjsnk3b/All.American.S07E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WMT4qsBqu9lfK94xlksjdMPxoY_A7UyR",
     "https://downloadwella.com/2ruydy3k4c99/All.American.S07E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UNhOUsRTFr0NJ4KPoHlthzbcBbxCRX-Y",
-    "https://downloadwella.com/3p20h5yh1y1s/all.american.s07e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IuxqbmjNcx-nLXxuGO31H4GIHA16R1OO"
+    "https://downloadwella.com/3p20h5yh1y1s/all.american.s07e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IuxqbmjNcx-nLXxuGO31H4GIHA16R1OO",
+    "https://downloadwella.com/6xpdhpckw0o1/watson.s01e01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RkYkUOCN-WzSvRheUr9eJVld4aYVHKrp",
+    "https://downloadwella.com/ndwr2aq2twdz/Watson.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OKvxPVarF5kju7HAvodGYVQjPHHXnhgB",
+    "https://downloadwella.com/eqpedz3jegif/Watson.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HAjV7vlyXGfDsM23v_XAlJjCVdhZiUJQ",
+    "https://downloadwella.com/ig2e8vntlg6p/watson.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d_013VmY0uODKwBVPx5l5bYufHGZHvZh",
+    "https://downloadwella.com/g5fsk39gswco/Watson.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ba6BWsCzKho_b8YDksBVdFjGrzHUQjlM",
+    "https://downloadwella.com/a987z7zyz46m/Watson.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5UitssZcFLFYyPHql7z60UzeffRoy4Y8",
+    "https://downloadwella.com/1ap6ctu8naqn/Watson.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4Y8rTFg6lhfuxByBauTpPe9mbi9IJDrl",
+    "https://downloadwella.com/hzmib7fvkj0e/Watson.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uwxRlsICSomViRXs9Ctxhuz1SQuFflzj",
+    "https://downloadwella.com/bocg6xf5by34/watson.s01e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QwmiIZbsu9bhWDWrFRaipQiYznBAXRYh",
+    "https://downloadwella.com/zrw5viogbkdp/Watson.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MN1K57UCfA7BlSDGWr-Sw2TxE9FxIcNf",
+    "https://downloadwella.com/byfity3wyvzv/Watson.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mYEb2FavV54n2P0oWrSvQMWFoG8z9F9g"
   }
 }
