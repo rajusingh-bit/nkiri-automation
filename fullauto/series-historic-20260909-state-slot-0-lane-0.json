@@ -1060,6 +1060,13 @@
       "modified": "2024-12-20T07:58:11",
       "completed_at": 1789148245,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/citadel-diana-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123191|https://thenkiri.com/citadel-diana-s01-complete-tv-series/|2024-10-14T05:14:02|2024-10-14T05:14:02|{'rendered': 'Citadel: Diana S01 (Complete) | TV Series'}",
+      "modified": "2024-10-14T05:14:02",
+      "completed_at": 1789149240,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2077,6 +2084,9 @@
     "https://downloadwella.com/fc7da8mznr22/before.2024.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SNMl4ZJYCPs9KA_aoDx2ENJqqQzWzi3W",
     "https://downloadwella.com/9uuxx2xdjk6j/Before.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VI1-2O9vcxdOnvTk6MohY7pvZ71CzR0u",
     "https://downloadwella.com/ecmzembps9sw/Before.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ji7Rw0Fun_yTTzqFx_SPfj0Lo5-hCbON",
-    "https://downloadwella.com/osmlx2h93107/Before.2024.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scqhwbyP2dtGvu0i1YD8ZLwNHA8uAZur"
+    "https://downloadwella.com/osmlx2h93107/Before.2024.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scqhwbyP2dtGvu0i1YD8ZLwNHA8uAZur",
+    "https://downloadwella.com/rd7kwryuspof/Citadel.Diana.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3ZoQwt1vIlgvOE7SLJFbVwv_-ElHwMGN",
+    "https://downloadwella.com/ktp3a33jn25z/Citadel.Diana.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/opJMRgywQ2S2AbRzpSKEpQdW6EuqepXd",
+    "https://downloadwella.com/9txlnlewxcvy/Citadel.Diana.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DSn5cKC-4aEWdr6XEqNBcMOTZxMmN-pV"
   }
 }
