@@ -922,6 +922,13 @@
       "modified": "2025-05-06T09:27:18",
       "skipped_at": 1789099204,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/you-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134917|https://thenkiri.com/you-s05-complete-tv-series/|2025-04-24T09:54:09|2025-04-24T10:50:52|{'rendered': 'You S05 (Complete) | TV Series'}",
+      "modified": "2025-04-24T10:50:52",
+      "completed_at": 1789102055,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1778,6 +1785,14 @@
     "https://downloadwella.com/dz78u29eqjzx/She.the.People.s01e16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C6qJNmgUvSnKdtG0wsXM17MGxFYaLuLX",
     "https://downloadwella.com/1cgb7yf2geqy/American.Manhunt.Osama.bin.Laden.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9hsa52OqQUxwzLaYlIRXBP1YkR7gDyKB",
     "https://downloadwella.com/68xt778oprn3/American.Manhunt.Osama.bin.Laden.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kV3UQrb9SCSvowOn3gANzJOQw_0DPQ02",
-    "https://downloadwella.com/pkr5orw2tsqc/American.Manhunt.Osama.bin.Laden.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/edvJRi1K3e2e-Jpqoh3t2ZbQtxXN_Ftm"
+    "https://downloadwella.com/pkr5orw2tsqc/American.Manhunt.Osama.bin.Laden.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/edvJRi1K3e2e-Jpqoh3t2ZbQtxXN_Ftm",
+    "https://downloadwella.com/4mujx8f4cv1z/You.S05E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hXG-cG7cIpJl4PqAdxA4JgOiKaWQnKqT",
+    "https://downloadwella.com/0ygk90gt4mg3/you.s05e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gOjEId8rz1gBWKMVbWNI_PU_e-XMsYkS",
+    "https://downloadwella.com/9z5u01rslda0/You.S05E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ia67VaehbYdDbbAsJHNEiN_PIlxlBO7X",
+    "https://downloadwella.com/rw0qdu21e1s3/you.s05e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/udvSDsAmte5sotj2SBcW5Ej1vVmKb48A",
+    "https://downloadwella.com/m5pgpbgyvomj/you.s05e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mWI4c-ZMWbqc6284TutsdJxtti7JGVDZ",
+    "https://downloadwella.com/zyodidhw44nk/You.S05E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AQby_dEYenIzLfdLUHt04DPXa35-YCO6",
+    "https://downloadwella.com/3rdcmnbimzax/you.s05e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GAhFlaTx4aL19HdQyHRnj3cuiN78MFeV",
+    "https://downloadwella.com/d0f9mhq1490h/You.S05E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-dnRS9UgS3R89-1G8NqXK_E-A-PDlwtT"
   }
 }
