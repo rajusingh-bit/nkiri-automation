@@ -1144,6 +1144,13 @@
       "modified": "2024-07-02T11:40:13",
       "completed_at": 1789164078,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-bear-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "117515|https://thenkiri.com/the-bear-s03-complete-tv-series/|2024-06-27T09:13:36|2024-06-27T09:13:36|{'rendered': 'The Bear S03 (Complete) | TV Series'}",
+      "modified": "2024-06-27T09:13:36",
+      "skipped_at": 1789164454,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
