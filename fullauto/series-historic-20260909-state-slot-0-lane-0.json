@@ -1103,11 +1103,11 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/tell-me-lies-s01-complete-tv-series/": {
-      "status": "partial",
+      "status": "skipped_unavailable",
       "signature": "120800|https://thenkiri.com/tell-me-lies-s01-complete-tv-series/|2024-09-05T07:12:08|2024-09-05T07:12:08|{'rendered': 'Tell Me Lies S01 (Complete) | TV Series'}",
       "modified": "2024-09-05T07:12:08",
-      "completed_at": 1789164271,
-      "reason": "one or more source links were unavailable"
+      "skipped_at": 1789164637,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
