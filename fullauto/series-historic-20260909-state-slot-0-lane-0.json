@@ -1053,6 +1053,13 @@
       "modified": "2024-11-24T15:30:58",
       "completed_at": 1789145662,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/before-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "123863|https://thenkiri.com/before-s01-complete-tv-series/|2024-10-26T05:54:30|2024-12-20T07:58:11|{'rendered': 'Before S01 (Complete) | TV Series'}",
+      "modified": "2024-12-20T07:58:11",
+      "completed_at": 1789148245,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2062,6 +2069,14 @@
     "https://downloadwella.com/ge8wuddmvbf0/Arcane.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JFlC8N3f6YasisTwaAB16AEkxyJZQgPY",
     "https://downloadwella.com/j39dpyud5fb7/Arcane.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zoZQVavggi9t0zi0Cgr_m2Yr1IFBAQq9",
     "https://downloadwella.com/zrokgtv0o6ky/Arcane.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/04jbolVWy24z8yibgEZPK8gECue-GZ9t",
-    "https://downloadwella.com/42et7gbc6l9a/Arcane.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L7uEqfzt6Vj1q1qtdpaJi0hLmO7nT8VL"
+    "https://downloadwella.com/42et7gbc6l9a/Arcane.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L7uEqfzt6Vj1q1qtdpaJi0hLmO7nT8VL",
+    "https://downloadwella.com/h2odpkw5sadt/Before.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HMDlWIV_L53EFXOTPa4G7VINCFLDkDp5",
+    "https://downloadwella.com/g9sfjtgn0gu5/Before.2024.s01e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QYFCVzoaWwOkgblQq_uYP9zNXGO_AT8P",
+    "https://downloadwella.com/sihngleznqb8/Before.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/56SaJaC4y-Y-BdOMingsa0yDUE32dLeW",
+    "https://downloadwella.com/zeqtubz2yf89/Before.2024.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S7i4sXrgosQOOoM38CsES1qLPn31TpwV",
+    "https://downloadwella.com/fc7da8mznr22/before.2024.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SNMl4ZJYCPs9KA_aoDx2ENJqqQzWzi3W",
+    "https://downloadwella.com/9uuxx2xdjk6j/Before.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VI1-2O9vcxdOnvTk6MohY7pvZ71CzR0u",
+    "https://downloadwella.com/ecmzembps9sw/Before.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ji7Rw0Fun_yTTzqFx_SPfj0Lo5-hCbON",
+    "https://downloadwella.com/osmlx2h93107/Before.2024.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scqhwbyP2dtGvu0i1YD8ZLwNHA8uAZur"
   }
 }
