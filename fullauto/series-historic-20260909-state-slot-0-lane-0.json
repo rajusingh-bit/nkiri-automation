@@ -1046,6 +1046,13 @@
       "modified": "2025-01-17T06:58:12",
       "completed_at": 1789144177,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/arcane-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "124757|https://thenkiri.com/arcane-s02-complete-tv-series/|2024-11-09T18:26:46|2024-11-24T15:30:58|{'rendered': 'Arcane S02 (Complete) | TV Series'}",
+      "modified": "2024-11-24T15:30:58",
+      "completed_at": 1789145662,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2049,6 +2056,12 @@
     "https://downloadwella.com/0ex18k6yovje/Silo.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ja-iBKuOYWJF8HH-NR49mYUm8DNVkRh9",
     "https://downloadwella.com/gpqfgc6axs7h/Silo.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D_8yJNq77DuYUeIvuLr-mj3BeXZC0Rxm",
     "https://downloadwella.com/szgb7geoal2d/Silo.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fBwc6yI5eWGsxYjZWM5p0dKB9YjYAeZC",
-    "https://downloadwella.com/vgeoqh7u31gj/Silo.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Ef8JCLyq8J44zv53C7jbISAGr2w6-K-"
+    "https://downloadwella.com/vgeoqh7u31gj/Silo.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Ef8JCLyq8J44zv53C7jbISAGr2w6-K-",
+    "https://downloadwella.com/1xzbj6pdgvk4/Arcane.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eOKHT6yMd05r3n0n4tRtE69IRmFV73n1",
+    "https://downloadwella.com/kczoin5gmxg2/Arcane.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3P-_l1CNbyAEp3cdvyU5jUDHPCwUah5n",
+    "https://downloadwella.com/ge8wuddmvbf0/Arcane.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JFlC8N3f6YasisTwaAB16AEkxyJZQgPY",
+    "https://downloadwella.com/j39dpyud5fb7/Arcane.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zoZQVavggi9t0zi0Cgr_m2Yr1IFBAQq9",
+    "https://downloadwella.com/zrokgtv0o6ky/Arcane.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/04jbolVWy24z8yibgEZPK8gECue-GZ9t",
+    "https://downloadwella.com/42et7gbc6l9a/Arcane.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/L7uEqfzt6Vj1q1qtdpaJi0hLmO7nT8VL"
   }
 }
