@@ -976,6 +976,13 @@
       "modified": "2025-03-27T08:47:23",
       "completed_at": 1789124461,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/apple-cider-vinegar-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "131152|https://thenkiri.com/apple-cider-vinegar-s01-complete-tv-series/|2025-02-08T10:08:22|2025-02-08T10:08:22|{'rendered': 'Apple Cider Vinegar S01 (Complete) | TV Series'}",
+      "modified": "2025-02-08T10:08:22",
+      "skipped_at": 1789124831,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
