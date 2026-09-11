@@ -1027,6 +1027,13 @@
       "modified": "2024-12-14T09:58:11",
       "completed_at": 1789127850,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-agency-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "126010|https://thenkiri.com/the-agency-s01-complete-tv-series/|2024-11-29T11:10:42|2025-01-24T08:16:10|{'rendered': 'The Agency S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-01-24T08:16:10",
+      "completed_at": 1789129426,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1978,6 +1985,12 @@
     "https://downloadwella.com/q9ksljugptqk/Die.Hart.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vZxTmkGm-iYXZ8NcIF2sIRtpMdyFuAih",
     "https://downloadwella.com/82b4j3yf5uoj/Die.Hart.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sasnHkzKbuPe7sTnp2iCihEuAT_ccYaN",
     "https://downloadwella.com/xe43qkdoczvo/Die.Hart.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DwQnGlJSMnA2ewYNqgoltrwW7WBFoPm_",
-    "https://downloadwella.com/5388aqj162kc/Die.Hart.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3TniH_ZgwniXRplsuyPSqfC8Tx4kpqQu"
+    "https://downloadwella.com/5388aqj162kc/Die.Hart.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3TniH_ZgwniXRplsuyPSqfC8Tx4kpqQu",
+    "https://downloadwella.com/2f2j3wzbzm0h/The.Agency.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4IjwOm-9ntTawzdiZbszg9g904h9Ru1L",
+    "https://downloadwella.com/zp91ydtihaq2/The.Agency.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JQhXx1c7cxl6q3GwZieY2UkpOQK7m3XI",
+    "https://downloadwella.com/rjpvip4ctddc/The.Agency.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Tr0Ca2JfDvz0KSVQz3GpktWwnzTGMyKg",
+    "https://downloadwella.com/x6p4bfcibrq1/The.Agency.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GZv4QL_m2Nrk1G1xGG2asDUkPaMFr4zh",
+    "https://downloadwella.com/nfdjug4eohqe/The.agency.2024.s01e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2HsfGSnpCQvwMc3vM4JKMCIry-VFt2k4",
+    "https://downloadwella.com/31zvpqz4w7lk/The.agency.2024.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AVvbtGonEJHIc822YTCxUpogrc7nMCyU"
   }
 }
