@@ -942,6 +942,13 @@
       "signature": "134281|https://thenkiri.com/iyanu-s01-complete-tv-series/|2025-04-11T12:46:44|2025-05-25T11:15:53|{'rendered': 'Iyanu S01 (Episode 9 & 10 Added) | TV Series'}",
       "modified": "2025-05-25T11:15:53",
       "completed_at": 1789106367
+    },
+    "https://thenkiri.com/devil-may-cry-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "133930|https://thenkiri.com/devil-may-cry-s01-complete-tv-series/|2025-04-03T11:01:31|2025-04-04T08:36:49|{'rendered': 'Devil May Cry S01 (Complete) | TV Series'}",
+      "modified": "2025-04-04T08:36:49",
+      "completed_at": 1789107534,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1824,6 +1831,13 @@
     "https://downloadwella.com/2wiwgqhjd1x0/Iyanu.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8nUOrRfHxJOEFHnn-qN8CYOL6GKOTOq0",
     "https://downloadwella.com/3vwm4ugaqamk/Iyanu.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aU0-1mAPIrmarEVx9rityxhSRZbyiHzX",
     "https://downloadwella.com/pgzco1ekmu62/Iyanu.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4p3ps_NoXoQSyltITtBwBY9hN_RqAyab",
-    "https://downloadwella.com/pkwqopc2uvr2/Iyanu.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Mv5-U3af0219YZWXOwWwUrgn3TziJNW"
+    "https://downloadwella.com/pkwqopc2uvr2/Iyanu.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8Mv5-U3af0219YZWXOwWwUrgn3TziJNW",
+    "https://downloadwella.com/laq7emvybfo2/Devil.May.Cry.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c2Ii-w4VjaIipZM2raiRJSyq-oMJutPh",
+    "https://downloadwella.com/nem4gntv5zk5/Devil.May.Cry.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/scHRjGKoaZzAxW6B__z7wQ3RdJhjnfYh",
+    "https://downloadwella.com/1mrv15fzgntp/Devil.May.Cry.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5beha-JwV6NCStAPECX5VSRl4gBR7HoC",
+    "https://downloadwella.com/3xoylqpazux1/Devil.May.Cry.2025.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J-56OX_A3-pzDShS-8ULbflKtmaXfnjv",
+    "https://downloadwella.com/69kvbugyegfx/Devil.May.Cry.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HcZKm1yhyDkLKaTnoNniM0VxZHOs-Xii",
+    "https://downloadwella.com/dgw91o6bd7ny/Devil.May.Cry.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Crrdfx2gjod6jxsSg_aEkShrP2-IjYfe",
+    "https://downloadwella.com/ezn0pqvacsn0/Devil.May.Cry.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bPDgEDp1qtX-2VlFZzTUyOmmrz17SQvO"
   }
 }
