@@ -1011,6 +1011,13 @@
       "modified": "2025-01-14T09:20:22",
       "completed_at": 1789133911,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/skymed-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "129611|https://thenkiri.com/skymed-s03-complete-tv-series/|2025-01-06T07:26:13|2025-03-04T12:35:35|{'rendered': 'SkyMed S03 (Episode 9 Added) | TV Series'}",
+      "modified": "2025-03-04T12:35:35",
+      "completed_at": 1789136811,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1981,6 +1988,14 @@
     "https://downloadwella.com/doov5b57ak0n/Solo.Leveling.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/v337XuOQ3OliXdmwz6RceI8Dju316lkG",
     "https://downloadwella.com/8tuqydpxzkqf/Solo.Leveling.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GllzV76sglPTJaHL745bhFj6eI1OLDRL",
     "https://downloadwella.com/acl041lkv1m5/Solo.Leveling.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KpIlfjZE7-hlhX9pD2_yhh9hIe9S4Eqg",
-    "https://downloadwella.com/69ead8r9ncre/Solo.Leveling.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Mn6lNhEUTVHkyfB0gn2amcywyLq684iM"
+    "https://downloadwella.com/69ead8r9ncre/Solo.Leveling.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Mn6lNhEUTVHkyfB0gn2amcywyLq684iM",
+    "https://downloadwella.com/jp5agg9i4k4t/SkyMed.S03E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uUSaR_-xAms-iLOyd1iBXt7UkTsKhyts",
+    "https://downloadwella.com/k6ctgjm4ez8p/SkyMed.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j4KUQN54IJmZh22KJ47SkGsaK-zf-MHt",
+    "https://downloadwella.com/l4aaa5dxcksq/SkyMed.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rlJMNgBeGEAqo17_Xt23S97ZuH3jJlZp",
+    "https://downloadwella.com/trwsbe2up4xn/SkyMed.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MAhAz5m6PLtzQ89kp-fpdleM6Re6RfRt",
+    "https://downloadwella.com/ud3j4wi2snf5/SkyMed.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eLAD7nzr_szT342dvTDlZAsJUXzrMs2J",
+    "https://downloadwella.com/2a9pwrs4yhyl/SkyMed.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vGscAFU4pJLX203MBIZrNSsAR0GJ_EiO",
+    "https://downloadwella.com/ptasujfmrag0/SkyMed.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P3nec4cKY7PPQJyyf4Y9pDl9eNX8stlj",
+    "https://downloadwella.com/ae1r3w0z1b1o/SkyMed.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4cxoxVDzNwgmb_SfABct7uemg88_ACkr"
   }
 }
