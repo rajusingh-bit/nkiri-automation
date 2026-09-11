@@ -971,6 +971,13 @@
       "modified": "2025-02-23T07:49:22",
       "completed_at": 1789112382,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/__trashed-4/": {
+      "status": "skipped_unavailable",
+      "signature": "131238|https://thenkiri.com/__trashed-4/|2025-02-10T08:37:42|2025-02-10T08:40:32|{'rendered': 'F4 Thailand Boys Over Flowers (Complete) | Thai Drama'}",
+      "modified": "2025-02-10T08:40:32",
+      "skipped_at": 1789112514,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
