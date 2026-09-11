@@ -915,6 +915,13 @@
       "signature": "135928|https://thenkiri.com/american-manhunt-osama-bin-laden-s01-complete-tv-series/|2025-05-14T16:27:58|2025-05-14T16:28:13|{'rendered': 'American Manhunt: Osama bin Laden S01 (Complete) | TV Series'}",
       "modified": "2025-05-14T16:28:13",
       "completed_at": 1789098833
+    },
+    "https://thenkiri.com/the-four-seasons-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "135329|https://thenkiri.com/the-four-seasons-s01-complete-tv-series/|2025-05-01T18:31:59|2025-05-06T09:27:18|{'rendered': 'The Four Seasons S01 (Complete) | TV Series'}",
+      "modified": "2025-05-06T09:27:18",
+      "skipped_at": 1789099204,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
