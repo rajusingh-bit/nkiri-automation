@@ -895,6 +895,13 @@
       "modified": "2025-06-11T09:57:02",
       "completed_at": 1789092760,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/stick-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "137610|https://thenkiri.com/stick-s01-complete-tv-series/|2025-06-04T09:18:08|2025-07-23T08:07:32|{'rendered': 'Stick S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2025-07-23T08:07:32",
+      "completed_at": 1789095200,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1726,6 +1733,13 @@
     "https://downloadwella.com/ocxd8409dxs4/Adults.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xcPilzH_u-DY-_MW6GmKzutAvfDH2D2N",
     "https://downloadwella.com/q4vvgcwjan12/Adults.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NkCzArCUgk8L8zNN7m0VJK4MeN6UT1o1",
     "https://downloadwella.com/r80zgu8b4zsm/Adults.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lIS5Cq4TCmvcP68SV7i9QtzsNDHjfjjA",
-    "https://downloadwella.com/p71pzqxlqaai/Adults.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cgOp98SnzEzQ6VY6jgOHq4HWFw15zAd4"
+    "https://downloadwella.com/p71pzqxlqaai/Adults.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cgOp98SnzEzQ6VY6jgOHq4HWFw15zAd4",
+    "https://downloadwella.com/l4zoc6zc6fdu/stick.s01e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WJKrmxSD0n0pyX2ip_FaxqygvF2w_l7-",
+    "https://downloadwella.com/dwqtz5fpc7vx/Stick.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8tdWZTIPOiKYOjrMny1ARrBzrAajknf-",
+    "https://downloadwella.com/2ptycwqbh7uf/stick.s01e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QvvgIU01w0w67sewLsdJgmrmZaWP5aHO",
+    "https://downloadwella.com/4j3ssdmdp98c/stick.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8oIeSeZhR6U7JWcqKM4Z2RwSc5plSOGO",
+    "https://downloadwella.com/6lo0evar1okh/Stick.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MQ0XU1vtZ7_BiUZscxuMq6MP0J3SzTue",
+    "https://downloadwella.com/khu82cldmyvn/Stick.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HjSiRlVY5OIshrpqOOCh1CmSYhWVoy9i",
+    "https://downloadwella.com/8shinvm70xwu/stick.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rYOAgS6ZaJHP3HJ4YWVU3neFPQbOteZ_"
   }
 }
