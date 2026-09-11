@@ -888,6 +888,13 @@
       "signature": "138384|https://thenkiri.com/olympo-s01-complete-spanish-tv-series/|2025-06-20T13:39:47|2025-06-20T14:29:01|{'rendered': 'Olympo S01 (Complete) | Spanish TV Series'}",
       "modified": "2025-06-20T14:29:01",
       "completed_at": 1789090892
+    },
+    "https://thenkiri.com/adults-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "137926|https://thenkiri.com/adults-s01-complete-tv-series/|2025-06-11T09:57:02|2025-06-11T09:57:02|{'rendered': 'Adults S01 (Complete)  | TV Series'}",
+      "modified": "2025-06-11T09:57:02",
+      "completed_at": 1789092760,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1712,6 +1719,13 @@
     "https://downloadwella.com/v3i29jlshnug/Olympo.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HvXuzQGDUZ-_d6gIDdNaFSLQ8x2P32kC",
     "https://downloadwella.com/ovr4jk8x8eba/Olympo.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_ID8P_b4gsO44UutnP2BnARZhuBqwt43",
     "https://downloadwella.com/tt5v0b2fipm5/Olympo.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jWo9NI4DW-o8tqpAxyDnR9CFN_WkpqJn",
-    "https://downloadwella.com/4fvsbo6t0jv5/Olympo.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/alcbb1TF9ZoCeMrWx1J_EhmXI-Oal2sn"
+    "https://downloadwella.com/4fvsbo6t0jv5/Olympo.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/alcbb1TF9ZoCeMrWx1J_EhmXI-Oal2sn",
+    "https://downloadwella.com/8xrf5m028wb8/Adults.2025.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-wJkrzCHBJM6Q5A72CMiCdL1lxNvh-fr",
+    "https://downloadwella.com/sga4c1bfwp9z/Adults.2025.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8c7aM52WJ11GP7llfw4I4uF2QM3cF71J",
+    "https://downloadwella.com/99y27hjkc1h5/Adults.2025.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wp_1iDMEGgFe8Li-NybMIAVvSwLl8l3T",
+    "https://downloadwella.com/ocxd8409dxs4/Adults.2025.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xcPilzH_u-DY-_MW6GmKzutAvfDH2D2N",
+    "https://downloadwella.com/q4vvgcwjan12/Adults.2025.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NkCzArCUgk8L8zNN7m0VJK4MeN6UT1o1",
+    "https://downloadwella.com/r80zgu8b4zsm/Adults.2025.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lIS5Cq4TCmvcP68SV7i9QtzsNDHjfjjA",
+    "https://downloadwella.com/p71pzqxlqaai/Adults.2025.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cgOp98SnzEzQ6VY6jgOHq4HWFw15zAd4"
   }
 }
