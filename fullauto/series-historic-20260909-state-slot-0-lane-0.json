@@ -934,6 +934,13 @@
       "signature": "134469|https://thenkiri.com/government-cheese-s01-episode-1-added-tv-series/|2025-04-16T08:21:59|2025-05-28T07:36:09|{'rendered': 'Government Cheese S01 (Episode 10 Added) | TV Series'}",
       "modified": "2025-05-28T07:36:09",
       "completed_at": 1789106707
+    },
+    "https://thenkiri.com/lazarus-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "134104|https://thenkiri.com/lazarus-s01-complete-tv-series/|2025-04-07T09:00:06|2025-06-30T10:03:31|{'rendered': 'Lazarus S01 (Complete) | TV Series'}",
+      "modified": "2025-06-30T10:03:31",
+      "completed_at": 1789108478,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1831,6 +1838,14 @@
     "https://downloadwella.com/a8aacbh3m446/Government.Cheese.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yG4tc56e7KZ2eiHvOeUi7xWc21yFH-wX",
     "https://downloadwella.com/xmej33k4qu2h/government.cheese.s01e08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1mp7LaCtJBfUr9RS_JVHt8GvP47vs2zA",
     "https://downloadwella.com/zk8xxo5lpiew/government.cheese.s01e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f4RE2-E8ZsobaM7lMxJrlqKWKLd1W7sH",
-    "https://downloadwella.com/zwcu2c3p3lzg/government.cheese.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/muiKHHqVpV7mtNKNcJlDRFrmibCekXRL"
+    "https://downloadwella.com/zwcu2c3p3lzg/government.cheese.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/muiKHHqVpV7mtNKNcJlDRFrmibCekXRL",
+    "https://downloadwella.com/ldzc6q6prxhv/Lazarus.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9_h5XVbltq6yKzz7hFsghppgVi4OlPDe",
+    "https://downloadwella.com/uyj4f6eidaee/Lazarus.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fcey275GwAd8Yj8G4AFxyo1tr7DGzSyF",
+    "https://downloadwella.com/zzrc6pcgfaht/Lazarus.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0_7oHowK7nuCHDkzgSGMqzQvIYd4FsBI",
+    "https://downloadwella.com/yndkrzx6gj3l/Lazarus.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bbUBcF30a8p7bvwTL-VE40lgbz6_W2SC",
+    "https://downloadwella.com/smlt6vln6ify/lazarus.s01e07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rtxCIK-zebgaCxYFSuVnfA-UU8-_9i25",
+    "https://downloadwella.com/57c1czskbyym/Lazarus.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V7n760KIjONcQRB5_Lvgchcu8E5I3QdN",
+    "https://downloadwella.com/p0mkifqfoumu/Lazarus.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xqRiVFmzAljmze-QG21syYoUb9_O3-tO",
+    "https://downloadwella.com/fauij112l7hn/Lazarus.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tMZMt031lQHqXYvdxoysNzAol8IURkoI"
   }
 }
