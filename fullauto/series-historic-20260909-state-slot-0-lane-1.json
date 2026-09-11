@@ -863,6 +863,13 @@
       "modified": "2025-08-07T06:57:50",
       "completed_at": 1789084937,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/hell-motel-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "139955|https://thenkiri.com/hell-motel-s01-complete-tv-series/|2025-07-23T10:41:43|2025-07-23T10:41:43|{'rendered': 'Hell Motel S01 (Episode 1 – 6 Added) | TV Series'}",
+      "modified": "2025-07-23T10:41:43",
+      "skipped_at": 1789085294,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
