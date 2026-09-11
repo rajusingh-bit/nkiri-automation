@@ -983,6 +983,13 @@
       "modified": "2025-02-08T10:08:22",
       "skipped_at": 1789124831,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/your-friendly-neighborhood-spider-man-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "130707|https://thenkiri.com/your-friendly-neighborhood-spider-man-s01-complete-tv-series/|2025-01-29T12:37:30|2025-02-19T21:49:53|{'rendered': 'Your Friendly Neighborhood Spider-Man S01 (Episode 9 & 10 Added) | TV Series'}",
+      "modified": "2025-02-19T21:49:53",
+      "completed_at": 1789127171,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1919,6 +1926,12 @@
     "https://downloadwella.com/f3di18d5wp3q/Grosse.Pointe.Garden.Society.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-PCHDx73_7LpPIGyHQOtwU0LFvA94e7i",
     "https://downloadwella.com/jfd6hog6lgtx/Grosse.Pointe.Garden.Society.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9UwEGeegJwFLh7VFkflti1_OJF7JZfZb",
     "https://downloadwella.com/m46cofrt3hqc/Grosse.Pointe.Garden.Society.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4YIiBzb24rD5BPch6Lknh2iwOyN31qeZ",
-    "https://downloadwella.com/q28rzf99ip8a/reacher.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EzuiTQK3LsIKLNJ-Q3gQ4drMtmbSYszk"
+    "https://downloadwella.com/q28rzf99ip8a/reacher.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EzuiTQK3LsIKLNJ-Q3gQ4drMtmbSYszk",
+    "https://downloadwella.com/tajgtuym8dbp/Your.Friendly.Neighborhood.Spider-Man.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nn3OsN1Upenk8QnX4PokKThYHQIlBlyI",
+    "https://downloadwella.com/4k896dab9sfh/Your.Friendly.Neighborhood.Spider-Man.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ix2FzbPTOsbaSBncKS6s1nR8351WDOCP",
+    "https://downloadwella.com/fmp6jhh6lma2/Your.Friendly.Neighborhood.Spider-Man.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6HeAByeV-H3V1fgljtxbU6dPPbS5x9BN",
+    "https://downloadwella.com/rev98cf02eg3/Your.Friendly.Neighborhood.Spider-Man.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r-udZ5XC63WvbfMrZ1LIvcndzph_Jdg0",
+    "https://downloadwella.com/xtr8xsd8ls5o/Your.Friendly.Neighborhood.Spider-Man.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qPKgcsZHHh2dVzkKiNqun1_iyAzdqQtk",
+    "https://downloadwella.com/5148lprx23c6/Your.Friendly.Neighborhood.Spider-Man.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zS0-dDT3OlkKBOw8RH9oIncJIR32o9ZZ"
   }
 }
