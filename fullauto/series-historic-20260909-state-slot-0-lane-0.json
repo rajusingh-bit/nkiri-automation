@@ -1406,6 +1406,13 @@
       "modified": "2023-09-02T18:00:27",
       "completed_at": 1789251027,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/class-of-09-episode-1-2-added-tv-series/": {
+      "status": "partial",
+      "signature": "89086|https://thenkiri.com/class-of-09-episode-1-2-added-tv-series/|2023-05-10T09:35:47|2024-02-23T11:03:39|{'rendered': 'Class of ’09 (Episode 8 Added) | TV Series'}",
+      "modified": "2024-02-23T11:03:39",
+      "completed_at": 1789254636,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2713,6 +2720,9 @@
     "https://downloadwella.com/xfj6zzg51sux/Ghosts.of.Beirut.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AScy38HYePuf8ihpC0onwKi6fwIswkwk",
     "https://downloadwella.com/la8normuzw5q/Ghosts.of.Beirut.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4RWVZCxRaPsHOWDrVChWqlEWxmdhHz2N",
     "https://downloadwella.com/ixh5yc6nj5pa/Ghosts.of.Beirut.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Nw0tNi3fcjWS0CHC0TeRak3TPr35nVHg",
-    "https://downloadwella.com/hifvsgg0cyb4/Ghosts.of.Beirut.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M1FwqatVY0iKU7YDTuZu0eFf1iSOr1fz"
+    "https://downloadwella.com/hifvsgg0cyb4/Ghosts.of.Beirut.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/M1FwqatVY0iKU7YDTuZu0eFf1iSOr1fz",
+    "https://downloadwella.com/hifqsjy7trcb/Class.of.09.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2UQTHxTdDpdgoJbyPnYR2xp3qIZ1fSoz",
+    "https://downloadwella.com/u11wl6v6mq9c/Class.of.09.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NBPdPBXQ4k3am2w6BCqo7Ir5DhkDxKnw",
+    "https://downloadwella.com/q4l86umu2qui/Class.of.09.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D0U4M46zQukF3IqQx8iKnLLkXOomjZ_5"
   }
 }
