@@ -1329,6 +1329,13 @@
       "modified": "2024-05-20T07:21:30",
       "completed_at": 1789238655,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/adventure-time-fionna-cake-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "99941|https://thenkiri.com/adventure-time-fionna-cake-s01-complete-tv-series/|2023-09-21T09:28:33|2024-02-23T11:48:24|{'rendered': 'Adventure Time: Fionna & Cake S01 (Episode 1 -6 Added) | TV Series'}",
+      "modified": "2024-02-23T11:48:24",
+      "completed_at": 1789239339,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2604,6 +2611,8 @@
     "https://downloadwella.com/r5tzhahfkpos/Krapopolis.S01E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/me7TNVY9x-GIYSUWqZgclh1dbqPgTrhU",
     "https://downloadwella.com/vz59q2lah0i0/Krapopolis.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kPfBKlHeiOPs3vKOGJ6___XyimSsqxbA",
     "https://downloadwella.com/s59a2mj9gdb6/Krapopolis.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Un9iCZJx-Mg3t2wYiP6u7mSSnj414eP",
-    "https://downloadwella.com/b3tbexruamf8/Krapopolis.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Et-GqZSM0j7jcucspOTo_IhOXfKDmgG"
+    "https://downloadwella.com/b3tbexruamf8/Krapopolis.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Et-GqZSM0j7jcucspOTo_IhOXfKDmgG",
+    "https://downloadwella.com/pu7a9ynxcho7/Adventure.Time.Fionna.and.Cake.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tRRGcOHwYNfUuIa75iAT-iavZlhedDFJ",
+    "https://downloadwella.com/xiuf9n5j7bus/Adventure.Time.Fionna.and.Cake.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UOvTt4iqtKuVeCRsJsP20Lkc4XsJ7gpS"
   }
 }
