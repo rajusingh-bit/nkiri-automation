@@ -1193,6 +1193,13 @@
       "modified": "2024-04-15T09:17:39",
       "completed_at": 1789194236,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/loot-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "113267|https://thenkiri.com/loot-s02-complete-tv-series/|2024-04-03T09:48:22|2024-05-29T07:03:16|{'rendered': 'Loot S02 (Episode 10 Added) | TV Series'}",
+      "modified": "2024-05-29T07:03:16",
+      "completed_at": 1789197697,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2326,6 +2333,11 @@
     "https://downloadwella.com/kya7xmkjyouk/Sullivans.Crossing.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iZ75gVSc-SzVNGDisv35L-7NGmB77BF5",
     "https://downloadwella.com/wh15l06mieja/Sullivans.Crossing.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_4ln0L5ni6Ddj8Sh5VSRk2-6A_zwJMDD",
     "https://downloadwella.com/p8klsslq2912/Sullivans.Crossing.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tvhQ8YnahKTXCludg9wgRoVanN_cHcKM",
-    "https://downloadwella.com/ucdwzxdy8b5r/Sullivans.Crossing.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MtmAruzH4R1OEeaoSpZCX32EFgXWO5PN"
+    "https://downloadwella.com/ucdwzxdy8b5r/Sullivans.Crossing.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MtmAruzH4R1OEeaoSpZCX32EFgXWO5PN",
+    "https://downloadwella.com/haoxc07vhojf/Loot.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ghf-Oat5-vXzeeHfcvtc8r1oMjqbTN2a",
+    "https://downloadwella.com/yf5hnnbmvkx3/Loot.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ek3sd3p1wR-tLdmVhfSAfjvkTXu0TEds",
+    "https://downloadwella.com/3e44848da170/Loot.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7N8kMcjaPYPbTXxoeXL7s5YgzsCFH1d8",
+    "https://downloadwella.com/xypqr7w3vnwk/Loot.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iitIzFeDfS1t8islJWE87jiM-8cfrhfP",
+    "https://downloadwella.com/226icl99tod4/Loot.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZLbXcE3isTfUkix4jPcCalfSw-NFuHRW"
   }
 }
