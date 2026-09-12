@@ -1393,6 +1393,13 @@
       "modified": "2024-01-08T11:43:41",
       "completed_at": 1789241204,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-walking-dead-dead-city-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "91584|https://thenkiri.com/the-walking-dead-dead-city-complete-tv-series/|2023-06-15T12:48:54|2024-02-26T19:24:09|{'rendered': 'The Walking Dead: Dead City (Episode 6 Added) | TV Series'}",
+      "modified": "2024-02-26T19:24:09",
+      "skipped_at": 1789241284,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
