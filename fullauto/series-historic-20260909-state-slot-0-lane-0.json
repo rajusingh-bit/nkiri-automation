@@ -1136,6 +1136,13 @@
       "modified": "2024-09-19T18:17:02",
       "skipped_at": 1789170682,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/vikings-valhalla-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "118171|https://thenkiri.com/vikings-valhalla-s03-complete-tv-series/|2024-07-11T12:20:43|2024-07-11T12:20:43|{'rendered': 'Vikings Valhalla S03 (Complete) | TV Series'}",
+      "modified": "2024-07-11T12:20:43",
+      "completed_at": 1789171585,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2210,6 +2217,11 @@
     "https://downloadwella.com/7q40br0eb9s6/Industry.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AK3Q-FQe9-7Xw5cQl99zg-dPxT21h1n4",
     "https://downloadwella.com/9rblyujhuafz/Too.Hot.to.Handle.S06E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sPF1Dgf2RWxWSmRthHOXCgzL8Pv5D26R",
     "https://downloadwella.com/pki4jcfvy1qo/Too.Hot.to.Handle.S06E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N_WfkZxxUCOrrbnaMcMjN_LgnllYb1Oe",
-    "https://downloadwella.com/pquv3ocu2yw5/Too.Hot.to.Handle.S06E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qcrT1WThmJT1_XHBGco-oLl51MNvDLrf"
+    "https://downloadwella.com/pquv3ocu2yw5/Too.Hot.to.Handle.S06E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qcrT1WThmJT1_XHBGco-oLl51MNvDLrf",
+    "https://downloadwella.com/b4dgnvcblu2e/Vikings.Valhalla.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oTDqG5N8t-GEAW2Yg-QXq-oJcra_G3X5",
+    "https://downloadwella.com/g877h946hfk0/Vikings.Valhalla.S03E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6y1OAE_3urDSfBX1rmWOetej9YkXSwnK",
+    "https://downloadwella.com/8x35zvoqu5jh/Vikings.Valhalla.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7lYHODEOdm8ldjMlNLE4mQLRfnOKlruG",
+    "https://downloadwella.com/88uifhjoip3y/Vikings.Valhalla.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lrzrlB6ejN8n5OI9VJ5DCGraElmxtODy",
+    "https://downloadwella.com/xb8ot9w954oo/Vikings.Valhalla.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/O6i12qCgUI8J2xiIqHEWy_Q2kvJtjjOp"
   }
 }
