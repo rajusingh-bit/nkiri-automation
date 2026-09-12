@@ -1357,6 +1357,13 @@
       "modified": "2024-02-23T08:54:48",
       "completed_at": 1789243279,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/sweet-magnolias-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "95740|https://thenkiri.com/sweet-magnolias-s03-complete-tv-series/|2023-07-21T17:49:30|2023-09-02T17:27:06|{'rendered': 'Sweet Magnolias S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:27:06",
+      "completed_at": 1789244570,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2642,6 +2649,8 @@
     "https://downloadwella.com/09mbpy1q8g85/The.Winter.King.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A0TjSGg7ClJYqpfBuf_0A64RwC2ksGvh",
     "https://downloadwella.com/7rh9w53942om/The.Winter.King.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwiUWMkVStH9KW2XzuJN7hJgPhbO8ZXW",
     "https://downloadwella.com/okw48qdp8rfs/Average.Joe.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U3jlwxZKUBoaToHK_6uwuehF1WwVy-pK",
-    "https://downloadwella.com/ofji7uh63cut/Average.Joe.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4jHP1P4OjstrsB7GgJWBlHsX9cy80JC4"
+    "https://downloadwella.com/ofji7uh63cut/Average.Joe.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4jHP1P4OjstrsB7GgJWBlHsX9cy80JC4",
+    "https://downloadwella.com/yjpyjln5pqig/Sweet.Magnolias.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gb-Hv7MnSroYdtO69DdHqgHuz2RBvWWy",
+    "https://downloadwella.com/cwtkwtb7qlii/Sweet.Magnolias.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Ucir5YbngE4Zr_hFtAw1BDabR0o3SfP"
   }
 }
