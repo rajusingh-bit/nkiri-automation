@@ -1315,6 +1315,13 @@
       "modified": "2024-02-23T12:29:05",
       "completed_at": 1789233781,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/skymed-s02-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "100546|https://thenkiri.com/skymed-s02-episode-1-added-tv-series/|2023-10-02T08:42:13|2024-02-25T01:53:16|{'rendered': 'SkyMed S02 (Episode 9 Added) | TV Series'}",
+      "modified": "2024-02-25T01:53:16",
+      "completed_at": 1789235849,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2571,6 +2578,13 @@
     "https://downloadwella.com/sn862044vhvc/Everything.Now.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U2MzItFJjgzo8uCda7AqLaIJDt6mPYHQ",
     "https://downloadwella.com/o0alhpffdjvd/Everything.Now.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IrKmTmMvvcpiyOP7tAA-fVO12BZ9P9tw",
     "https://downloadwella.com/xqw687txpxim/Everything.Now.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S5D1HgQgEMSJdwz_-u3sj5OTE7mAlXbT",
-    "https://downloadwella.com/mc0g03hp6wmo/Everything.Now.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OhmnmXonA3MDwhQkKTIzZuXOXN59rW8-"
+    "https://downloadwella.com/mc0g03hp6wmo/Everything.Now.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OhmnmXonA3MDwhQkKTIzZuXOXN59rW8-",
+    "https://downloadwella.com/r83zejera24m/SkyMed.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ibqE7DVaagN0oqblkHUaACR8Kyq8Xugx",
+    "https://downloadwella.com/fmd5uj0cmtk9/SkyMed.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y5orNOvusFvN8BTj0qA29QOG1Vgq6XV4",
+    "https://downloadwella.com/gjim3763puvh/SkyMed.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7iEpQqnvb4cMghEkmgBrHaaV3y7QvH1R",
+    "https://downloadwella.com/c4gvp14ohwdj/SkyMed.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KJTSYQbEXgeCSRbqGNLksHvUnPwKc91t",
+    "https://downloadwella.com/1gs46tca1y8j/SkyMed.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uMWnlN_dOoCZtcYOz6MaaBjHGzMzkFZM",
+    "https://downloadwella.com/e3hcdf8ozqsu/SkyMed.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RjlrH6y3CHna4peUBLRj2pQWHB-M4tjX",
+    "https://downloadwella.com/nkful4dnum0w/SkyMed.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AYEstGTQZJ-Em3opG6wcYOmL-AbvwOMi"
   }
 }
