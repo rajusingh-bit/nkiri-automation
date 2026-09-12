@@ -1317,6 +1317,13 @@
       "signature": "101427|https://thenkiri.com/billy-the-kid-s02-complete-tv-series/|2023-10-15T14:05:53|2024-06-23T09:57:32|{'rendered': 'Billy The Kid S02 (Episode 8 Added) | TV Series'}",
       "modified": "2024-06-23T09:57:32",
       "completed_at": 1789221574
+    },
+    "https://thenkiri.com/payback-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100997|https://thenkiri.com/payback-s01-complete-tv-series/|2023-10-09T08:34:04|2023-10-09T08:34:04|{'rendered': 'Payback S01 (Complete) | TV Series'}",
+      "modified": "2023-10-09T08:34:04",
+      "completed_at": 1789222358,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2513,6 +2520,11 @@
     "https://downloadwella.com/60ms7x9x7f0d/Billy.The.Kid.2022.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eTnFc3Gj7Kp1bzi4Paye59GtQ06alj2w",
     "https://downloadwella.com/2dsvojbtlzk3/Billy.the.Kid.2022.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2PwLmCETNVvzGjbdo6qyaX9eTA4kfCTv",
     "https://downloadwella.com/ocgktyiz8cku/Billy.The.Kid.2022.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5tdf8TlQTFOPmrbWKpVgBjoWQSkRAd2c",
-    "https://downloadwella.com/v2o4qujo1uxx/Billy.The.Kid.2022.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nu7dVu2Z_TaI5PpXMHWW7QtPy_vxgr5b"
+    "https://downloadwella.com/v2o4qujo1uxx/Billy.The.Kid.2022.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nu7dVu2Z_TaI5PpXMHWW7QtPy_vxgr5b",
+    "https://downloadwella.com/ns1lpqpkjcc6/Payback_2023_S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LQoqzqTV8z0GhmPcgPZ73TdQGrMNoEz9",
+    "https://downloadwella.com/pmv3g4ncqarf/Payback_2023_S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XGfZYnTEGCBGL4sfwDftA7HS8_Q3casN",
+    "https://downloadwella.com/7pt4p91nmwxk/Payback_2023_S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xf6Gto1bKXTR9oV94m_SNCDuYXIlt6YS",
+    "https://downloadwella.com/pu98bfxeaohq/Payback_2023_S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BquHShnlS2FuDKOGWKVauTeMa48W7b6f",
+    "https://downloadwella.com/bj4xrs2ojr5k/Payback_2023_S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VonUpYQNOxLXFA2KO25rArh1wdgsIONp"
   }
 }
