@@ -1350,6 +1350,13 @@
       "modified": "2024-02-24T11:58:44",
       "completed_at": 1789241807,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/average-joe-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96393|https://thenkiri.com/average-joe-s01-complete-tv-series/|2023-08-04T15:39:44|2024-02-23T08:54:48|{'rendered': 'Average Joe S01 (Complete) | TV Series'}",
+      "modified": "2024-02-23T08:54:48",
+      "completed_at": 1789243279,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2633,6 +2640,8 @@
     "https://downloadwella.com/rt8f3d8euwes/I.Am.Groot.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tK-oBI-nj-Eqmbq6PF9ETkZMXVkdICAJ",
     "https://downloadwella.com/r8fs8mpcldxa/The.Winter.King.E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Si_NCpGT_E2KzAgdxpNnogDAJq5eXYbe",
     "https://downloadwella.com/09mbpy1q8g85/The.Winter.King.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A0TjSGg7ClJYqpfBuf_0A64RwC2ksGvh",
-    "https://downloadwella.com/7rh9w53942om/The.Winter.King.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwiUWMkVStH9KW2XzuJN7hJgPhbO8ZXW"
+    "https://downloadwella.com/7rh9w53942om/The.Winter.King.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwiUWMkVStH9KW2XzuJN7hJgPhbO8ZXW",
+    "https://downloadwella.com/okw48qdp8rfs/Average.Joe.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/U3jlwxZKUBoaToHK_6uwuehF1WwVy-pK",
+    "https://downloadwella.com/ofji7uh63cut/Average.Joe.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4jHP1P4OjstrsB7GgJWBlHsX9cy80JC4"
   }
 }
