@@ -1241,7 +1241,14 @@
       "modified": "2024-04-11T06:57:19",
       "completed_at": 1789212552
     },
-    "https://thenkiri.com/wwe-nxt-vengeance-day-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-nxt-vengeance-day-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/griselda-s01-complete-spanish-tv-series/": {
+      "status": "partial",
+      "signature": "107460|https://thenkiri.com/griselda-s01-complete-spanish-tv-series/|2024-01-25T13:08:29|2024-01-25T13:08:29|{'rendered': 'Griselda S01 (Complete) | Spanish TV Series'}",
+      "modified": "2024-01-25T13:08:29",
+      "completed_at": 1789213789,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2425,6 +2432,10 @@
     "https://downloadwella.com/3s20gi34j7n0/Allegiance.2024.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZFmgRuSLde8b9cEV7lrnCvDsnidAoLEB",
     "https://downloadwella.com/de0xrf57pl3i/Allegiance.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8hUbzo0aUWkYx9NbFIJuWqfuC0ZOQgEZ",
     "https://downloadwella.com/48jt6ykoaogu/Allegiance.2024.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FWBDg1-8UOu4Dq2K4zHYF7OooFLyq1cl",
-    "https://downloadwella.com/kqahpe5kpb84/Allegiance.2024.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3tLb1RNj-YSI617t4fQypxZnwdcv5CF7"
+    "https://downloadwella.com/kqahpe5kpb84/Allegiance.2024.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3tLb1RNj-YSI617t4fQypxZnwdcv5CF7",
+    "https://downloadwella.com/aai2sithauoe/Griselda.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DyzyKfrz6snFf_mktU_xHMV8LRP54Znp",
+    "https://downloadwella.com/f7cazoq5vvaq/Griselda.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_iqau3oRQy3gsFqCbbHkb9o1jou31D5y",
+    "https://downloadwella.com/2318h72f8d36/Griselda.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HpTdIEERB1a5A_ptwUDf9RkerjuxKnIw",
+    "https://downloadwella.com/1tjfnzjv9q0x/Griselda.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kjIN7boQ5mNo-PTo-Y6DLx3bUY2JGuWb"
   }
 }
