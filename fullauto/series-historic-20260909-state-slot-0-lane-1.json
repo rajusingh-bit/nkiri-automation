@@ -1255,6 +1255,13 @@
       "modified": "2024-02-22T19:55:01",
       "skipped_at": 1789202042,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/chad-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "107295|https://thenkiri.com/chad-s02-complete-tv-series/|2024-01-22T11:03:20|2024-01-22T11:03:20|{'rendered': 'Chad S02 (Complete) | TV Series'}",
+      "modified": "2024-01-22T11:03:20",
+      "completed_at": 1789202888,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2394,6 +2401,9 @@
     "https://downloadwella.com/ihfrrbeqobl9/Feud.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GGMlg9UAuX69ciFoNd3IroY_HVjx3U5X",
     "https://downloadwella.com/ysl068zf8fh6/Feud.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bEQ92gmF4K9NvBFcgw3p150Y3rQdI14o",
     "https://downloadwella.com/shzgnvs0yopb/Feud.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c3gpZDRiKKjJyZwQ5bP7w5xGFn8s5t0Z",
-    "https://downloadwella.com/i4m7v34aivye/Feud.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KTjT18_K_Pe__8tVv5nHE-0bn3iJHQNI"
+    "https://downloadwella.com/i4m7v34aivye/Feud.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KTjT18_K_Pe__8tVv5nHE-0bn3iJHQNI",
+    "https://downloadwella.com/2u78ez2s22hb/Chad.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sqEzGKZgjQIcwpra6wFWOb_sUNjhllGv",
+    "https://downloadwella.com/fqjjh7grth03/Chad.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dzss-wa3_ZDqXBSlO54i-ME2q_cRHt1s",
+    "https://downloadwella.com/6rxrhoxopz1g/Chad.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ed2CvM48yfeIvm9HPznGccEu3WA2i6mm"
   }
 }
