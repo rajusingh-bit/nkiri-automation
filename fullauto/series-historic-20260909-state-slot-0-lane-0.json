@@ -1157,6 +1157,13 @@
       "modified": "2024-08-04T08:54:24",
       "completed_at": 1789179411,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/queenie-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "116483|https://thenkiri.com/queenie-s01-complete-tv-series/|2024-06-05T06:47:18|2024-06-05T06:47:18|{'rendered': 'Queenie S01 (Complete) | TV Series'}",
+      "modified": "2024-06-05T06:47:18",
+      "completed_at": 1789181040,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2256,6 +2263,9 @@
     "https://downloadwella.com/44ykfw4u8wnm/Hotel.Cocaine.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iE3bEVpykM2IEBUkxcZh7ZxnQsHCUzQo",
     "https://downloadwella.com/imrufxs390vv/Hotel.Cocaine.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DFSjPac1pQ_gpB45zNeTh2c02VAtos4j",
     "https://downloadwella.com/pwqes0599x1z/Hotel.Cocaine.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ACOS1JgsDcS_qzckDxO9PI9JDf0h31zZ",
-    "https://downloadwella.com/m47jspl4ua1a/Hotel.Cocaine.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xhUXeyrHMAH_hl8dHoAdyeqw10VMqse5"
+    "https://downloadwella.com/m47jspl4ua1a/Hotel.Cocaine.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xhUXeyrHMAH_hl8dHoAdyeqw10VMqse5",
+    "https://downloadwella.com/dzl0rzvggqyw/Queenie.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DHM-Lqi6gLuAOxmpstUbfqbD9bNgoO9-",
+    "https://downloadwella.com/31cv2yxksm5e/Queenie.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PslZHSraH1T2WZvDsBmhrowBniD4smIu",
+    "https://downloadwella.com/jvg4tsu9hix7/Queenie.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bMrv-nJGAeBsF1FrYKFRihRqYvC_D2np"
   }
 }
