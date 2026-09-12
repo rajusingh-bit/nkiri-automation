@@ -1301,6 +1301,13 @@
       "signature": "101578|https://thenkiri.com/neon-s01-complete-tv-series/|2023-10-19T18:24:55|2023-10-19T18:24:55|{'rendered': 'Neon S01 (Complete) | TV Series'}",
       "modified": "2023-10-19T18:24:55",
       "completed_at": 1789227624
+    },
+    "https://thenkiri.com/lessons-in-chemistry-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101276|https://thenkiri.com/lessons-in-chemistry-s01-complete-tv-series/|2023-10-13T09:09:45|2023-12-17T09:54:53|{'rendered': 'Lessons in Chemistry S01 (Episode 8 Added) | TV Series'}",
+      "modified": "2023-12-17T09:54:53",
+      "completed_at": 1789228840,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2542,6 +2549,11 @@
     "https://downloadwella.com/7j76vyi1recl/Neon.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nvATjLnpzOOLQnBmW0fP0qM9t_Ox3d-j",
     "https://downloadwella.com/w3ntecqe0qfk/Neon.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XoPTDx6-7tLiupYSLw-y6no1E-ptMQ5q",
     "https://downloadwella.com/clajddcy9zt5/Neon.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2PykKWWvACQpEd6aQ5IQfGOg8xtNqUve",
-    "https://downloadwella.com/7ybk8hk9myxo/Neon.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dR6x1qYpIJ0hQ4biiiCN69Xt9bsH4NPn"
+    "https://downloadwella.com/7ybk8hk9myxo/Neon.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dR6x1qYpIJ0hQ4biiiCN69Xt9bsH4NPn",
+    "https://downloadwella.com/xwxgkhkfh5gk/Lessons.in.Chemistry.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/km4_SphxdJxRIzSUnyjsyY6r4C5PPLmb",
+    "https://downloadwella.com/h1a1kzksm0wr/Lessons.in.Chemistry.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/V3AkU2tdkt0wghhQ9GVc79egWzZgqFBb",
+    "https://downloadwella.com/7ehm4txnl3az/Lessons.in.Chemistry.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6nBFl8YQtAhRNSMG2Tw2k-qpFOqE7HVZ",
+    "https://downloadwella.com/7q7jvvth66l2/Lessons.in.Chemistry.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9HhlhncCbZnFUo527S7HsOmAy690izWH",
+    "https://downloadwella.com/zlpsh9yq8gq3/Lessons.in.Chemistry.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6UVRb02BVXh2bfk_R8TW06TQoEVDO1PS"
   }
 }
