@@ -1158,6 +1158,13 @@
       "modified": "2024-07-25T13:58:51",
       "completed_at": 1789173342,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/eric-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "116299|https://thenkiri.com/eric-s01-complete-tv-series/|2024-05-31T09:23:03|2024-05-31T09:23:03|{'rendered': 'Eric S01 (Complete) | TV Series'}",
+      "modified": "2024-05-31T09:23:03",
+      "completed_at": 1789174330,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2233,6 +2240,10 @@
     "https://downloadwella.com/c6kzp4ecnoku/The.Kardashians.S05E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wQk1nSeu_X7YRDqiNvDuDrUrU__XoEeF",
     "https://downloadwella.com/wdwpv10886sg/The.Kardashians.S05E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d4_jySfioqsUruoijANrbzEOzDDwB-g-",
     "https://downloadwella.com/dgo9a5zc685n/The.Kardashians.S05E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dkb92-cBH6V5xTdV4Q79_QbIsv3YW8wB",
-    "https://downloadwella.com/fu61rjr9gqgk/The.Kardashians.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8kyFcM-Wv3J-iIG-pPJ9lokeyF5U5Rjg"
+    "https://downloadwella.com/fu61rjr9gqgk/The.Kardashians.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8kyFcM-Wv3J-iIG-pPJ9lokeyF5U5Rjg",
+    "https://downloadwella.com/l9cca0tr4hyv/Eric.2024.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r6EKaNsmu7CLuQuCp8YdiOzEJ29E8dQ0",
+    "https://downloadwella.com/i1c9vxxtqg58/Eric.2024.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oNVeBw9OFjymOOlkw3ZQFh8Wkt7OWyz6",
+    "https://downloadwella.com/flk6ee0ia2fm/Eric.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tKeCgfatXKDc4BKfxv_5Dz7uOON6qOlK",
+    "https://downloadwella.com/8gj965s6525l/Eric.2024.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B7EaNwF7BA-R9zwpeGo-AEYR5KELzv3X"
   }
 }
