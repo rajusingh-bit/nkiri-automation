@@ -1206,6 +1206,13 @@
       "signature": "113053|https://thenkiri.com/big-mood-s01-complete-tv-series/|2024-03-30T08:04:33|2024-03-30T08:04:33|{'rendered': 'Big Mood S01 (Complete) | TV Series'}",
       "modified": "2024-03-30T08:04:33",
       "completed_at": 1789185545
+    },
+    "https://thenkiri.com/palm-royale-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "112577|https://thenkiri.com/palm-royale-s01-complete-tv-series/|2024-03-20T10:58:46|2024-05-08T09:16:59|{'rendered': 'Palm Royale S01 (Episodes 10 Added) | TV Series'}",
+      "modified": "2024-05-08T09:16:59",
+      "completed_at": 1789188711,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2313,6 +2320,12 @@
     "https://downloadwella.com/yevh33t2awa0/Big.Mood.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dVdDqBu7CkDdY_XzgbT_pJ9PpnzleXlq",
     "https://downloadwella.com/n3streh3y52n/Big.Mood.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-s1nryCwMu19H3bzWCw16p1o3eV2vJIB",
     "https://downloadwella.com/fgtpiwwtci36/Big.Mood.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iqihu7oVMqabbGAxTZLeN3n5LJxk6NqV",
-    "https://downloadwella.com/3qkhkraxmopo/Big.Mood.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rijE_B0YD5OyzUku9mZjmGNAXKcCYfJC"
+    "https://downloadwella.com/3qkhkraxmopo/Big.Mood.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/rijE_B0YD5OyzUku9mZjmGNAXKcCYfJC",
+    "https://downloadwella.com/l202zydblfsq/Palm.Royale.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IUowmNslJGckk6Bl3EvUvF-MUtfSgIHK",
+    "https://downloadwella.com/tx1pdz6gq5px/Palm.Royale.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/x9I0Gb9-PGlZD6wP_Y_tXkz8iUCQOp5s",
+    "https://downloadwella.com/xu4a0tz0x8r8/Palm.Royale.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hz_NXCb6_JOIz-EkICSVYA5BmCrWcWoF",
+    "https://downloadwella.com/6ogl48rffi2x/Palm.Royale.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8XCPfy1N7iRcLq_7YcHYbEEH2zSocCZE",
+    "https://downloadwella.com/fqktmrg4nonc/Palm.Royale.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nHPwlk2WJKZijoGI_pqwv9qZBRYWtqcq",
+    "https://downloadwella.com/c3n80jg3zl62/Palm.royale.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9nJtbIaIAWTysKTtlmVDM1tbFQix5Dnw"
   }
 }
