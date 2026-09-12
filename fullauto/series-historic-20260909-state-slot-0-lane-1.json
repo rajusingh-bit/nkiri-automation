@@ -1218,7 +1218,14 @@
       "status": "partial",
       "signature": "111905|https://thenkiri.com/animal-control-s02-complete-tv-series/|2024-03-07T07:39:19|2024-05-09T07:37:49|{'rendered': 'Animal Control S02 (Episode 9 Added) | TV Series'}",
       "modified": "2024-05-09T07:37:49",
-      "completed_at": 1789193938,
+      "completed_at": 1789191015,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bmf-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111558|https://thenkiri.com/bmf-s03-complete-tv-series/|2024-03-01T08:17:50|2024-05-10T06:31:15|{'rendered': 'BMF S03 (Complete) | TV Series'}",
+      "modified": "2024-05-10T06:31:15",
+      "completed_at": 1789195532,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2335,12 +2342,16 @@
     "https://downloadwella.com/fqktmrg4nonc/Palm.Royale.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nHPwlk2WJKZijoGI_pqwv9qZBRYWtqcq",
     "https://downloadwella.com/c3n80jg3zl62/Palm.royale.s01e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9nJtbIaIAWTysKTtlmVDM1tbFQix5Dnw",
     "https://downloadwella.com/akkic3bqkdi2/Animal.Control.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hYzYWwO8N8Zd3us6Sad1CtUnhbgphp9d",
-    "https://downloadwella.com/yhzlm1fh8mtt/Animal.Control.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/l6yghli_hQ6fI074u7e25L6PB9OPtJNt",
-    "https://downloadwella.com/ace52en1b6ll/Animal.Control.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nCFunxuQ1cxJPZ9oOYhMLbREPrBWxGs2",
-    "https://downloadwella.com/wzwl1j0xbv7q/Animal.Control.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LkkE5ZgC-r581OVU2gWbPs7M2vAsbWis",
-    "https://downloadwella.com/k3oumjq7ppts/Animal.Control.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/got209NyN-RDo4YUUH3AdAvLagwfIMh3",
-    "https://downloadwella.com/nzswgk1yd280/Animal.Control.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dS4qu_H2RqWLjCA7AJgz19CjXWxsx4lw",
-    "https://downloadwella.com/cmxb95vcz9o4/Animal.control.s02e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Fo9qpBFXMbPkRBwAI8axEIl9ezKroUzs",
-    "https://downloadwella.com/kqc8tnkot3ub/Animal.Control.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BnbhWzOQcVfyS3rLOwZMTehW9QSHkx71"
+    "https://downloadwella.com/yhzlm1fh8mtt/Animal.Control.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sRzGryXS85djGK5sOxj3fF4tjKj28JOY",
+    "https://downloadwella.com/ace52en1b6ll/Animal.Control.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JwHfe9VieeKXACYdM2ECQaM_lLJiJ7uL",
+    "https://downloadwella.com/wzwl1j0xbv7q/Animal.Control.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VFoVdQX7kvBeRm5NzxPbBG0Hr3mx8-3u",
+    "https://downloadwella.com/k3oumjq7ppts/Animal.Control.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/c-ykFyUiQKGcomFypEpSFNJI_4RbhVH7",
+    "https://downloadwella.com/nzswgk1yd280/Animal.Control.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sw0IjhMYFQ7OUt4MK6wxXlbFbOwCi4rI",
+    "https://downloadwella.com/cmxb95vcz9o4/Animal.control.s02e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/00ipWp-olqQDG-MaZVGERpn2p6UNVJZS",
+    "https://downloadwella.com/kqc8tnkot3ub/Animal.Control.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BnbhWzOQcVfyS3rLOwZMTehW9QSHkx71",
+    "https://downloadwella.com/gnvqryi01310/BMF.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GhMIa6fx_DKdu6vzsHmAqUDkgSNrmlfQ",
+    "https://downloadwella.com/ce7v9m3nh124/BMF.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fgKDFir1j03albUUZaMSbXThTZld8Wbp",
+    "https://downloadwella.com/z9v7lfxo0ipx/BMF.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y6vfktfDT_pQlvJmf4nCEf8hmk64-fbD",
+    "https://downloadwella.com/qpwdmjgqgblc/BMF.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WtKVA-Dt5Wy33ucHyFF_drC_W2OIZO5a"
   }
 }
