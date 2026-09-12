@@ -1151,6 +1151,13 @@
       "modified": "2024-06-27T09:13:36",
       "skipped_at": 1789164823,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-kardashians-s05-complete-tv-series/": {
+      "status": "partial",
+      "signature": "116610|https://thenkiri.com/the-kardashians-s05-complete-tv-series/|2024-06-07T08:02:32|2024-07-25T13:58:51|{'rendered': 'The Kardashians S05 (Complete) | TV Series'}",
+      "modified": "2024-07-25T13:58:51",
+      "completed_at": 1789173342,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2221,6 +2228,11 @@
     "https://downloadwella.com/8xbrqk0uo34i/Emperor.of.Ocean.Park.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LOqGb3curzSQ1ccye0O2HLeF7RagpJMU",
     "https://downloadwella.com/ghul6ths3fqj/A.Good.Girls.Guide.to.Murder.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/A-4qPYeJQGu1aq5A_BmnCWkrnLqkTfj0",
     "https://downloadwella.com/ro6y623cn533/A.Good.Girls.Guide.to.Murder.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-ZSDXIR6jEgRASgJvVRclpWya2oib0cp",
-    "https://downloadwella.com/ly7688ibkgqp/A.Good.Girls.Guide.to.Murder.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EOV4e-Y-4srDzaSH1ZaBz2xvbNc2ZCm1"
+    "https://downloadwella.com/ly7688ibkgqp/A.Good.Girls.Guide.to.Murder.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EOV4e-Y-4srDzaSH1ZaBz2xvbNc2ZCm1",
+    "https://downloadwella.com/41gu9n2gbh4r/The.Kardashians.S05E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NZOxdTL5SguEqVAgICTUpgLjgJlP0Ksk",
+    "https://downloadwella.com/c6kzp4ecnoku/The.Kardashians.S05E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wQk1nSeu_X7YRDqiNvDuDrUrU__XoEeF",
+    "https://downloadwella.com/wdwpv10886sg/The.Kardashians.S05E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d4_jySfioqsUruoijANrbzEOzDDwB-g-",
+    "https://downloadwella.com/dgo9a5zc685n/The.Kardashians.S05E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Dkb92-cBH6V5xTdV4Q79_QbIsv3YW8wB",
+    "https://downloadwella.com/fu61rjr9gqgk/The.Kardashians.S05E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8kyFcM-Wv3J-iIG-pPJ9lokeyF5U5Rjg"
   }
 }
