@@ -1288,6 +1288,13 @@
       "signature": "102465|https://thenkiri.com/bones-of-crows-s01-complete-tv-series/|2023-11-06T14:16:27|2024-02-23T09:03:46|{'rendered': 'Bones of Crows S01 (Complete) | TV Series'}",
       "modified": "2024-02-23T09:03:46",
       "completed_at": 1789223857
+    },
+    "https://thenkiri.com/stan-against-evil-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "101995|https://thenkiri.com/stan-against-evil-s01-complete-tv-series/|2023-10-27T20:11:40|2023-10-27T20:11:40|{'rendered': 'Stan Against Evil S01 (Complete) | TV Series'}",
+      "modified": "2023-10-27T20:11:40",
+      "completed_at": 1789225453,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2514,6 +2521,13 @@
     "https://downloadwella.com/1rcf8onsahil/Bones.of.Crows.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6iL3OJbsy6J0f8mWvNY1nyfNStYFUxAD",
     "https://downloadwella.com/iwtecu9qkvjc/Bones.of.Crows.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TATEanCbdBFG6BrpbBV0KbKOjjm5KY6t",
     "https://downloadwella.com/rerphcrpxbz7/Bones.of.Crows.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r88MTxXkL1kmXNvRGIt34bF05x1uNfEz",
-    "https://downloadwella.com/1e9an66cbqio/Bones.of.Crows.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bGxEiC-FuDfOBubgkOBc7oiQ_0Rc7R-k"
+    "https://downloadwella.com/1e9an66cbqio/Bones.of.Crows.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bGxEiC-FuDfOBubgkOBc7oiQ_0Rc7R-k",
+    "https://downloadwella.com/u1z2bklplc1n/Stan.Against.Evil.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1KdV4cNeE-RF2__ma8zcaskf7NUq773v",
+    "https://downloadwella.com/gfazl3nw922o/Stan.Against.Evil.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/giJycwvTPRl-Sn7KNGQqRtRH-uoXau06",
+    "https://downloadwella.com/uu3rkfhkreyo/Stan.Against.Evil.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/42WF1EoMVL26ZlLXAsIhYAX6eqBQYCsN",
+    "https://downloadwella.com/i8njgzdcm6vs/Stan.Against.Evil.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/BBpdq4URWZLOQ4mCTQrSAp8XAmJhxSEd",
+    "https://downloadwella.com/5jviwd65ligz/Stan.Against.Evil.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CpkfE2Vr_qqjb-WbwSaVf4rou-Zn3hYu",
+    "https://downloadwella.com/djde9gdwxk9g/Stan.Against.Evil.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RGAd7mts38G4kSKa_XiAdByoprFrO5Oa",
+    "https://downloadwella.com/gslo79t53a8h/Stan.Against.Evil.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uBHxx6cMFupCZaHfLt_CLI2wBgFEHoJw"
   }
 }
