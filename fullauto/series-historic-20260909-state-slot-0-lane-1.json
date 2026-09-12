@@ -1384,7 +1384,14 @@
       "status": "partial",
       "signature": "92989|https://thenkiri.com/the-dessert-complete-tv-series/|2023-07-07T12:28:30|2023-09-02T17:16:40|{'rendered': 'The Dessert (Complete) | TV Series'}",
       "modified": "2023-09-02T17:16:40",
-      "completed_at": 1789239653,
+      "completed_at": 1789238532,
+      "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/hijack-complete-tv-series/": {
+      "status": "partial",
+      "signature": "92357|https://thenkiri.com/hijack-complete-tv-series/|2023-06-28T09:45:41|2024-01-08T11:43:41|{'rendered': 'Hijack (Episode 7 Added) | TV Series'}",
+      "modified": "2024-01-08T11:43:41",
+      "completed_at": 1789241204,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2640,10 +2647,14 @@
     "https://downloadwella.com/x1quca25x275/The.Summer.I.Turned.Pretty.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d7os1iixc2MgxGgbZLIl9Dtrd_8tD1vS",
     "https://downloadwella.com/grosebvwso5w/The.Summer.I.Turned.Pretty.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VZbC5yoMgEhKtvlopGHkvrLgFm4V-raw",
     "https://downloadwella.com/rr7w1l4ekbb8/The.Dessert.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sKJxqB45gMfnxGIWwBXn7rv3umgNvM2q",
-    "https://downloadwella.com/5wirh2qc5vro/The.Dessert.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t-Y0YHAZGE0NKMbouUmZd38Aj_tjEQTY",
-    "https://downloadwella.com/8r5ot6kgxaet/The.Dessert.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zhCKI9dU5AzexJLcKnwOFllfN3pL7ZeL",
+    "https://downloadwella.com/5wirh2qc5vro/The.Dessert.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sMNPiMss451jWsuc5h4dyLqj2pI4eVN1",
+    "https://downloadwella.com/8r5ot6kgxaet/The.Dessert.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/nO-PpjzSnPZp_J9eIOM-kBw9SXPJFuG_",
     "https://downloadwella.com/5fi3y8ctcsxt/The.Dessert.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LUSAtUFhC4cwxYjSCK_0Qc6bKE41nxPu",
     "https://downloadwella.com/p8w4noxh7lqx/The.Dessert.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3MJIcrpNFbtpsuQ1cZQa5kX56YXOs8rk",
-    "https://downloadwella.com/qk00np3jz5s1/The.Dessert.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/deBskTVyzkBUoLY0LCThIw4Xuu9npQBn"
+    "https://downloadwella.com/qk00np3jz5s1/The.Dessert.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/deBskTVyzkBUoLY0LCThIw4Xuu9npQBn",
+    "https://downloadwella.com/e4my3bvdnh09/Hijack.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4QMa_Lus98GB41DIxhi8M_IntmcQacvn",
+    "https://downloadwella.com/y0rt71ozi3k6/Hijack.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o0xP8oJYORtqtoOmJe_YJYXaV9yEd9eD",
+    "https://downloadwella.com/xejfd6yyeyne/Hijack.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8gVW4fbD3VQKQBqAHCmH5NxtctmkjAw9",
+    "https://downloadwella.com/vlf16asux428/Hijack.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ohWIj9DBG93nh_hTV38QXMrx2ESXf1oH"
   }
 }
