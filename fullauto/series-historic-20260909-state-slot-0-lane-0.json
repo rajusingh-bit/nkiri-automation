@@ -1385,6 +1385,13 @@
       "modified": "2023-09-02T17:08:25",
       "completed_at": 1789246664,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/my-marvellous-fable-chinese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "91349|https://thenkiri.com/my-marvellous-fable-chinese-drama/|2023-06-12T19:26:15|2023-09-02T18:09:07|{'rendered': 'My Marvellous Fable (Episode 13-17 Added) | Chinese Drama'}",
+      "modified": "2023-09-02T18:09:07",
+      "skipped_at": 1789246713,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
