@@ -1220,6 +1220,13 @@
       "modified": "2025-03-26T08:51:44",
       "completed_at": 1789204697,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/shogun-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "111283|https://thenkiri.com/shogun-s01-complete-tv-series/|2024-02-27T10:46:10|2024-04-23T06:36:37|{'rendered': 'Shogun S01 (Episodes 10 Added) | TV Series'}",
+      "modified": "2024-04-23T06:36:37",
+      "completed_at": 1789206434,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2379,6 +2386,12 @@
     "https://downloadwella.com/48elynjk5zil/The.cleaning.lady.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/TKSt7ri7QVRUsjCpcrqKTUWiMUbO4Ews",
     "https://downloadwella.com/7mpe2150z8mi/The.Cleaning.Lady.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vkJqliqvWIPdCUO6mhRihNRPBWuxleLZ",
     "https://downloadwella.com/sj4r2u6zgyon/The.cleaning.Lady.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YWK6dnSAZJwCZ8HYeChkR9b9rNfJtJpC",
-    "https://downloadwella.com/p6cqapp57yl1/The.Cleaning.Lady.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NDiD5C6wrRnfLVL9xKYj6aGGU8ClIL77"
+    "https://downloadwella.com/p6cqapp57yl1/The.Cleaning.Lady.S03E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NDiD5C6wrRnfLVL9xKYj6aGGU8ClIL77",
+    "https://downloadwella.com/v5fognhz0dbi/Shogun.2024.s01e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZQeMVlpYv30zTBJs0TIkYubtd8zWA5x4",
+    "https://downloadwella.com/lukhhuwgon3e/Shogun.2024.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6hJ6jxMqEBes7pi0GOFEYDLWQgsx0JAW",
+    "https://downloadwella.com/3r0a64vh1mr1/Shogun.2024.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3vWh6MB4u2RSrxKpatCpoNogYYZ86oTB",
+    "https://downloadwella.com/nae222suoyzr/Shogun.2024.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/bwmmcj436r6FFHV7atEkoSzhwU5Hg_YI",
+    "https://downloadwella.com/uco3ngt9784m/Shogun.2024.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gq9gPaAZ3yxjKtpaTk-F1sHfPntFVXHW",
+    "https://downloadwella.com/y9fewevvklji/Shogun.2024.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0yuxHFIYZsa2l8lGaUs8CFILXYQXUkPA"
   }
 }
