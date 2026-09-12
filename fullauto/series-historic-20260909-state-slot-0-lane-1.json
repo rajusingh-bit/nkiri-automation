@@ -1365,6 +1365,13 @@
       "modified": "2023-09-02T18:01:32",
       "completed_at": 1789233613,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/twisted-metal-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "96075|https://thenkiri.com/twisted-metal-s01-complete-tv-series/|2023-07-28T08:38:33|2023-09-02T17:58:55|{'rendered': 'Twisted Metal S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:58:55",
+      "completed_at": 1789235108,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2605,6 +2612,11 @@
     "https://downloadwella.com/sootcwooi95h/Mech.Cadets.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q-EwPYlBE0xy_1tK1m35-5kqZhSO8A3t",
     "https://downloadwella.com/lubg1vb30lge/Mech.Cadets.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yC6EDm6u0TBKn-AjZFDwqF3_BmGajrXD",
     "https://downloadwella.com/0ve9uxxfv6wr/Mech.Cadets.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sBeIJnOHioGzXlm8sXROWxYlZ3kxb0zt",
-    "https://downloadwella.com/xydtpd8egtrq/Mech.Cadets.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XaTJcPtaa-Eb3Pcsuj1KXZmtg7FCaY8y"
+    "https://downloadwella.com/xydtpd8egtrq/Mech.Cadets.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XaTJcPtaa-Eb3Pcsuj1KXZmtg7FCaY8y",
+    "https://downloadwella.com/6v5mllmmfnht/Twisted.Metal.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mBBY-7CnAfyMv-pnvBTuwR6-hDG0mGJ6",
+    "https://downloadwella.com/wdj806a9qoap/Twisted.Metal.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vjj8DutxkCzJFL4dpKbOLU-g6aXR_8lq",
+    "https://downloadwella.com/k8gr9j1a6l43/Twisted.Metal.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Cld2ZzjYjHmkGNkglzA_xQCawDJuwU51",
+    "https://downloadwella.com/olp5i36ne1z5/Twisted.Metal.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tzxeufJ3urgiwp_yeNAoICWXZDlUiBx0",
+    "https://downloadwella.com/s1d4amokw42s/Twisted.Metal.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HuvifKMzynl9sPUI_K3TueoaLFU5TGKc"
   }
 }
