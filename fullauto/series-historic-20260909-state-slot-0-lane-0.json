@@ -1336,6 +1336,13 @@
       "modified": "2024-02-23T11:48:24",
       "completed_at": 1789239339,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/i-am-groot-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "99339|https://thenkiri.com/i-am-groot-s02-complete-tv-series/|2023-09-07T09:11:26|2024-02-23T14:48:36|{'rendered': 'I Am Groot S02 (Complete) | TV Series'}",
+      "modified": "2024-02-23T14:48:36",
+      "completed_at": 1789239980,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2613,6 +2620,9 @@
     "https://downloadwella.com/s59a2mj9gdb6/Krapopolis.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/3Un9iCZJx-Mg3t2wYiP6u7mSSnj414eP",
     "https://downloadwella.com/b3tbexruamf8/Krapopolis.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1Et-GqZSM0j7jcucspOTo_IhOXfKDmgG",
     "https://downloadwella.com/pu7a9ynxcho7/Adventure.Time.Fionna.and.Cake.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tRRGcOHwYNfUuIa75iAT-iavZlhedDFJ",
-    "https://downloadwella.com/xiuf9n5j7bus/Adventure.Time.Fionna.and.Cake.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UOvTt4iqtKuVeCRsJsP20Lkc4XsJ7gpS"
+    "https://downloadwella.com/xiuf9n5j7bus/Adventure.Time.Fionna.and.Cake.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UOvTt4iqtKuVeCRsJsP20Lkc4XsJ7gpS",
+    "https://downloadwella.com/92be5us3i1rz/I.Am.Groot.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5P_CCQITqjra-fIBJtrAimEWdudvLFjC",
+    "https://downloadwella.com/3y1o9av7qhr3/I.Am.Groot.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DQv7OqbcYuplxzEDydrP5ZPZqRxWwVCl",
+    "https://downloadwella.com/rt8f3d8euwes/I.Am.Groot.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tK-oBI-nj-Eqmbq6PF9ETkZMXVkdICAJ"
   }
 }
