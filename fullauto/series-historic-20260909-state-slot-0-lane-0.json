@@ -1392,6 +1392,13 @@
       "modified": "2023-09-02T18:09:07",
       "skipped_at": 1789246713,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/icarly-complete-tv-series/": {
+      "status": "partial",
+      "signature": "90691|https://thenkiri.com/icarly-complete-tv-series/|2023-06-01T08:32:14|2023-09-02T18:02:42|{'rendered': 'iCarly S03 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T18:02:42",
+      "completed_at": 1789249213,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2687,6 +2694,14 @@
     "https://downloadwella.com/3emkz8wwjpua/Glamorous.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z4PiiFcybRQIVwlQsVPr69VgnJXo891v",
     "https://downloadwella.com/s5j5b336vdzr/Glamorous.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/J-Gr3Dr2-8IW7MXQPva1TrX5XvdxDIL-",
     "https://downloadwella.com/1h8nkjmg525v/Glamorous.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wf-8kPIp4yhI9mQobX-9aWGquOEBE01c",
-    "https://downloadwella.com/ub2vd7sob1qp/Glamorous.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DjhIm0ntPvPTssSNwwwqqItD2352uCuc"
+    "https://downloadwella.com/ub2vd7sob1qp/Glamorous.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DjhIm0ntPvPTssSNwwwqqItD2352uCuc",
+    "https://downloadwella.com/2m56kx6asivx/iCarly.2021.S03E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JggBfjmioADlNfFWWuhmSuVa2cAR-VtW",
+    "https://downloadwella.com/tmnyg5hltpwq/iCarly.2021.S03E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g9LyT8OnXbI4Zn11GtfW26MmlFaqKvF3",
+    "https://downloadwella.com/3urfv0wkf85m/iCarly.2021.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y4KLg4jtgMQ9p6SAZHsEG33WkQ2q9owP",
+    "https://downloadwella.com/vp7hmerxl1c4/iCarly.2021.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sy4p8boZNXwPtJsWkRICndmks5wBFdEB",
+    "https://downloadwella.com/ejgxk25rj8ix/iCarly.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z3dQqjeBcAarBLgjrxF_tBoGMC4xw4Ze",
+    "https://downloadwella.com/v7q0ciga7m98/iCarly.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CO8hgWtS6RYS-JoqEHjM6NJ2GmOfwSeY",
+    "https://downloadwella.com/ooq1wr3amb32/iCarly.2021.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OFutRox3_XG78tt7MRnIdTz22njD0utO",
+    "https://downloadwella.com/3a9d2j6paeig/iCarly.2021.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Gn9adR42ExpDkcDtwm8wFE9tPUpXbT9w"
   }
 }
