@@ -1331,6 +1331,13 @@
       "modified": "2024-02-25T00:26:00",
       "completed_at": 1789224597,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-kardashians-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "100343|https://thenkiri.com/the-kardashians-s04-complete-tv-series/|2023-09-28T08:02:01|2024-06-07T08:02:21|{'rendered': 'The Kardashians S04 (Complete) | TV Series'}",
+      "modified": "2024-06-07T08:02:21",
+      "completed_at": 1789225785,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2540,6 +2547,11 @@
     "https://downloadwella.com/1jtte43984av/Quantum.Leap.2022.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oN8A0zHL9BmakUTdjFBy1nTraCgCNTWl",
     "https://downloadwella.com/7wgs7tvidrqm/Quantum.Leap.2022.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hCzO9GARka3eEfkAv8PF_ugARIuF35l-",
     "https://downloadwella.com/i0spbeutmilm/Quantum.Leap.2022.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qni_VlxNS424txP8IkxLOt0A6FQ4FRPh",
-    "https://downloadwella.com/5bq1q02zsywn/Quantum.Leap.2022.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D-WqdvtuaOmK3rzdfwCkv-sznjyE1Jer"
+    "https://downloadwella.com/5bq1q02zsywn/Quantum.Leap.2022.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D-WqdvtuaOmK3rzdfwCkv-sznjyE1Jer",
+    "https://downloadwella.com/yiu4yiwpk1l3/The.Kardashians.S04E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eVZ3Hc-5CmqUJg1OXAIEhGBK7ZWSEeQR",
+    "https://downloadwella.com/73scb9i1x9dr/The.Kardashians.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sz2JN54Ha7ZXOFruSdkSdsStIOYfbDCP",
+    "https://downloadwella.com/dxmf8wn8dew7/The.Kardashians.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cSYEFLWCVuppyHVPL7T2iMz3YlJNeetp",
+    "https://downloadwella.com/990xntt0f436/The.Kardashians.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fjPNimmzHUmF9E8kcwi8aOdJ6NlB1gAC",
+    "https://downloadwella.com/2p6atcv7eknp/The.Kardashians.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KV7Zg0TvFNUsdSJyapZlVwfrT2eTIoBY"
   }
 }
