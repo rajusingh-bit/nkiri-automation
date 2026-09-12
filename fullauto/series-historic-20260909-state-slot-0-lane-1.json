@@ -1400,6 +1400,13 @@
       "modified": "2024-02-26T19:24:09",
       "skipped_at": 1789241284,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/never-have-i-ever-s04-complete-tv-series/": {
+      "status": "partial",
+      "signature": "91112|https://thenkiri.com/never-have-i-ever-s04-complete-tv-series/|2023-06-08T15:40:27|2023-09-02T18:05:39|{'rendered': 'Never Have I Ever S04 (Complete) | TV Series'}",
+      "modified": "2023-09-02T18:05:39",
+      "completed_at": 1789247510,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2662,6 +2669,13 @@
     "https://downloadwella.com/e4my3bvdnh09/Hijack.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4QMa_Lus98GB41DIxhi8M_IntmcQacvn",
     "https://downloadwella.com/y0rt71ozi3k6/Hijack.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o0xP8oJYORtqtoOmJe_YJYXaV9yEd9eD",
     "https://downloadwella.com/xejfd6yyeyne/Hijack.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8gVW4fbD3VQKQBqAHCmH5NxtctmkjAw9",
-    "https://downloadwella.com/vlf16asux428/Hijack.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ohWIj9DBG93nh_hTV38QXMrx2ESXf1oH"
+    "https://downloadwella.com/vlf16asux428/Hijack.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ohWIj9DBG93nh_hTV38QXMrx2ESXf1oH",
+    "https://downloadwella.com/nxjp7o5xoapw/Never.Have.I.Ever.S04E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yc3sVSqyOEif4PNyskjvKkLTpGnGEcql",
+    "https://downloadwella.com/ujvj973zcaca/Never.Have.I.Ever.S04E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oC1bgypBJmYyy6gJk6uoqNj3DTAindcH",
+    "https://downloadwella.com/dd3ks76a3038/Never.Have.I.Ever.S04E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DAhqQdRgers9tU9BvCbwvhNXWnkGNmR3",
+    "https://downloadwella.com/px3dy18goglf/Never.Have.I.Ever.S04E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i2rRILIYhsZmQd-uOtfBpAVV6XJ87XPN",
+    "https://downloadwella.com/h6qy2bu32j5w/Never.Have.I.Ever.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/05X3jnPGB6XZMq0kpelDWB5t1v1qvyod",
+    "https://downloadwella.com/0y3wfe243gea/Never.Have.I.Ever.S04E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kvrm7FQ4bm6m2RYvL7oaPk249vrJCKrz",
+    "https://downloadwella.com/9pry7v7lu0tq/Never.Have.I.Ever.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LKGxKTcHJze-SnJVPIqPQy8V6bjDYLZ1"
   }
 }
