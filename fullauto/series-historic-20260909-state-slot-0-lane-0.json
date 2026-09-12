@@ -1373,11 +1373,11 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/swagger-s01-complete-tv-series/": {
-      "status": "skipped_unavailable",
+      "status": "partial",
       "signature": "92591|https://thenkiri.com/swagger-s01-complete-tv-series/|2023-07-01T09:18:41|2024-07-19T05:16:43|{'rendered': 'Swagger S01 (Complete) | TV Series'}",
       "modified": "2024-07-19T05:16:43",
-      "skipped_at": 1789245520,
-      "reason": "no usable downloadable source link"
+      "completed_at": 1789245865,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2667,6 +2667,7 @@
     "https://downloadwella.com/yjpyjln5pqig/Sweet.Magnolias.S03E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gb-Hv7MnSroYdtO69DdHqgHuz2RBvWWy",
     "https://downloadwella.com/cwtkwtb7qlii/Sweet.Magnolias.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0Ucir5YbngE4Zr_hFtAw1BDabR0o3SfP",
     "https://downloadwella.com/dmhk3yfmwqnf/Kizazi.Moto.Generation.Fire.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yCavSC41LVJvJovpGYCr2C1JJoCSgID-",
-    "https://downloadwella.com/w0czehinamqc/Kizazi.Moto.Generation.Fire.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yFOuOWsuGFWZw4PKaUWIx93wztlOW1n0"
+    "https://downloadwella.com/w0czehinamqc/Kizazi.Moto.Generation.Fire.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yFOuOWsuGFWZw4PKaUWIx93wztlOW1n0",
+    "https://downloadwella.com/owf3c993uojf/Swagger.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uNKpMgfnY_2pdupSV-pASFk2-PEGFfio"
   }
 }
