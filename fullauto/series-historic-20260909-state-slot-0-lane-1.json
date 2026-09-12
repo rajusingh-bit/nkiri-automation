@@ -1338,6 +1338,12 @@
       "modified": "2024-06-07T08:02:21",
       "completed_at": 1789225785,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-continental-from-the-world-of-john-wick-s01-episode-1-added-tv-series/": {
+      "status": "done",
+      "signature": "100040|https://thenkiri.com/the-continental-from-the-world-of-john-wick-s01-episode-1-added-tv-series/|2023-09-22T12:26:41|2023-10-06T14:38:13|{'rendered': 'The Continental: From the World of John Wick S01 (Complete) | TV Series'}",
+      "modified": "2023-10-06T14:38:13",
+      "completed_at": 1789226479
     }
   },
   "series_links": {
@@ -2552,6 +2558,9 @@
     "https://downloadwella.com/73scb9i1x9dr/The.Kardashians.S04E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Sz2JN54Ha7ZXOFruSdkSdsStIOYfbDCP",
     "https://downloadwella.com/dxmf8wn8dew7/The.Kardashians.S04E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/cSYEFLWCVuppyHVPL7T2iMz3YlJNeetp",
     "https://downloadwella.com/990xntt0f436/The.Kardashians.S04E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fjPNimmzHUmF9E8kcwi8aOdJ6NlB1gAC",
-    "https://downloadwella.com/2p6atcv7eknp/The.Kardashians.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KV7Zg0TvFNUsdSJyapZlVwfrT2eTIoBY"
+    "https://downloadwella.com/2p6atcv7eknp/The.Kardashians.S04E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KV7Zg0TvFNUsdSJyapZlVwfrT2eTIoBY",
+    "https://downloadwella.com/evc9kgd84vgb/The.Continental.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UrGl2mmKPEsHBpIL27ZTULs8bjboOPum",
+    "https://downloadwella.com/mu5hkqj0i66v/The.Continental.From.the.World.of.John.Wick.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I4EVKlfeyeGyziHQ6jX0_dJwkabXTbxE",
+    "https://downloadwella.com/vuoex2lkm98r/The.Continental.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YTuKrlWOi_IbUl4YG7ZWRGTU9thbm-7G"
   }
 }
