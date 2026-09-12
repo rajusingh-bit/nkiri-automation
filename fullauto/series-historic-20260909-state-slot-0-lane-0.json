@@ -1179,7 +1179,14 @@
       "completed_at": 1789190330,
       "reason": "one or more source links were unavailable"
     },
-    "https://thenkiri.com/wwe-backlash-france-2024-wrestling-special/": "skipped (wwe)"
+    "https://thenkiri.com/wwe-backlash-france-2024-wrestling-special/": "skipped (wwe)",
+    "https://thenkiri.com/knuckles-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114468|https://thenkiri.com/knuckles-s01-complete-tv-series/|2024-04-26T17:47:53|2024-04-26T17:47:53|{'rendered': 'Knuckles S01 (Complete) | TV Series'}",
+      "modified": "2024-04-26T17:47:53",
+      "completed_at": 1789191695,
+      "reason": "one or more source links were unavailable"
+    }
   },
   "series_links": {
     "https://downloadwella.com/te81x1qd9nt7/Madfabulous.(THENKIRI.COM).2026.WEBRip.DOWNLOADED.FROM.THENKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/K3v4aHpPg1cKHEmUnhxwkVYwpoU_4YH9",
@@ -2300,6 +2307,10 @@
     "https://downloadwella.com/4nuu6hxavaee/Ninja.Kamui.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/twk1adhdmKmcQndq_tjG5YY7_NgVV08H",
     "https://downloadwella.com/gnnvndvcocrt/Ninja.Kamui.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6vTtn0aFIPKcYwnKdfvWvC1bPXKS0cVW",
     "https://downloadwella.com/7z4o9bfkxomy/Ninja.Kamui.S01E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/D0ibjEpAvLAFsJUJkMtTxZGJHNYMJG3x",
-    "https://downloadwella.com/vf2ugdjpkilt/Ninja.Kamui.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sd2T5qmnqtczD1mbFcRs910V8gW-Fhut"
+    "https://downloadwella.com/vf2ugdjpkilt/Ninja.Kamui.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/sd2T5qmnqtczD1mbFcRs910V8gW-Fhut",
+    "https://downloadwella.com/cp3eci5f600u/Knuckles.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pr6LSEeBoAFyxjBpFLU7OiGHTKr3Z7kZ",
+    "https://downloadwella.com/97bs56ot5q3x/Knuckles.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9nXjg34PjrybCeBgvOnY0f-8WepsHRYx",
+    "https://downloadwella.com/c50c4s5k0o72/Knuckles.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EAQi43ZGPccBNhaoc1JjA6GxVokl1KMP",
+    "https://downloadwella.com/h4ry6lulv2w5/Knuckles.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7rIzwnn6qmJ2VY1UJidYskWIX53mxNLe"
   }
 }
