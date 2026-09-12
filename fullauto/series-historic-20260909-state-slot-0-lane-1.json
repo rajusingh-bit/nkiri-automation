@@ -1179,6 +1179,13 @@
       "modified": "2024-07-12T05:28:20",
       "completed_at": 1789178527,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/shardlake-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "114701|https://thenkiri.com/shardlake-s01-complete-tv-series/|2024-05-01T10:34:05|2024-05-01T10:34:05|{'rendered': 'Shardlake S01 (Complete) | TV Series'}",
+      "modified": "2024-05-01T10:34:05",
+      "completed_at": 1789179315,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2272,6 +2279,8 @@
     "https://downloadwella.com/7nfoooohfnje/Reginald.the.Vampire.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zVFRTKo_syBCotWjSGwiZGzPKTxxoS74",
     "https://downloadwella.com/h6rihve4fnaz/Reginald.the.Vampire.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N0FrIoeD-4bUryQPRoGPkCt_CSHtgvI8",
     "https://downloadwella.com/n9cjs95qlv1f/Reginald.the.Vampire.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZQPqG64-jvOUsd9s40SyCjzn_tN3-ofg",
-    "https://downloadwella.com/whifopa7ua9v/Reginald.the.Vampire.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CTAzjHuD4Ac7ooroqkjB9mwyH52EZ_O7"
+    "https://downloadwella.com/whifopa7ua9v/Reginald.the.Vampire.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CTAzjHuD4Ac7ooroqkjB9mwyH52EZ_O7",
+    "https://downloadwella.com/jyyji8p7mnn2/Shardlake.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RJ7YNJBOWq55jUh0U0Xkrmzs92Edvsp7",
+    "https://downloadwella.com/nqux1yl83pq7/Shardlake.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/F9m1knaMdFY8i2w6rCNmMKeLwxlcEbO_"
   }
 }
