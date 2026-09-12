@@ -1234,6 +1234,13 @@
       "modified": "2026-06-25T09:11:05",
       "completed_at": 1789196409,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/ghosts-s01-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "108413|https://thenkiri.com/ghosts-s01-episode-1-added-tv-series/|2024-02-16T08:58:31|2024-05-15T07:37:07|{'rendered': 'Ghosts S03 (Complete) | TV Series'}",
+      "modified": "2024-05-15T07:37:07",
+      "completed_at": 1789197601,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2361,6 +2368,10 @@
     "https://downloadwella.com/z9v7lfxo0ipx/BMF.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y6vfktfDT_pQlvJmf4nCEf8hmk64-fbD",
     "https://downloadwella.com/qpwdmjgqgblc/BMF.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WtKVA-Dt5Wy33ucHyFF_drC_W2OIZO5a",
     "https://downloadwella.com/om0webg6kgwm/Avatar.The.Last.Airbender.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VaRYyF4UsH5qO4cClt7VPit87vMrcdXv",
-    "https://downloadwella.com/r4qk3v1mwkmt/Avatar.The.Last.Airbender.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X7U2oraFizL5P2XfRN0xPEhvJlzPQAYi"
+    "https://downloadwella.com/r4qk3v1mwkmt/Avatar.The.Last.Airbender.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/X7U2oraFizL5P2XfRN0xPEhvJlzPQAYi",
+    "https://downloadwella.com/axy67y6whrep/Ghosts.2021.S03E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IENbUH-Z-pKAg3532uo4jciQiOKwvfMm",
+    "https://downloadwella.com/scuyyujgvxg3/Ghosts.2021.S03E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gyvxFrrnVW0NS7V7_Ex-J_K7fnIya8jn",
+    "https://downloadwella.com/6yectnzxp6cm/Ghosts.2021.S03E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n3cFrvh_b_iRFlb4zaORevwvxaQLl4E9",
+    "https://downloadwella.com/isn5eklscege/Ghosts.2021.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xYSqHueH4pp3m3PUVYcFNUjdzL-29Bg9"
   }
 }
