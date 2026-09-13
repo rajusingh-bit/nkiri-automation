@@ -1469,6 +1469,12 @@
       "modified": "2023-12-22T07:31:17",
       "completed_at": 1789277300,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dam-s02-complete-tv-series/": {
+      "status": "done",
+      "signature": "82600|https://thenkiri.com/dam-s02-complete-tv-series/|2023-02-18T11:28:54|2023-12-17T06:59:31|{'rendered': 'Dam S02 (Episode 4 & 5 Added) | TV Series'}",
+      "modified": "2023-12-17T06:59:31",
+      "completed_at": 1789281028
     }
   },
   "series_links": {
@@ -2848,6 +2854,11 @@
     "https://downloadwella.com/oy7kl4ib11sr/Django.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g-hg9jgBwkXOxVTzjZSiwBB6rFGQXrCQ",
     "https://downloadwella.com/io4niwxe44nz/Django.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2WIAqfH2y3ccXoDKZJhiBZ23Wi7O6wbs",
     "https://downloadwella.com/pprkgbxwv3f1/Django.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FVaV2C5DPH9XSEKacp1loPMr24KYfd2O",
-    "https://downloadwella.com/gcg7cycg7bmz/Django.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dI-TFTVDAgcXIoDlBLCVhZ0EsJB2W82x"
+    "https://downloadwella.com/gcg7cycg7bmz/Django.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dI-TFTVDAgcXIoDlBLCVhZ0EsJB2W82x",
+    "https://downloadwella.com/m4o3w4kzf5ly/DAM.S02E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/KOessm7lK1pHsA99bJf70IPsBcUIlbCG",
+    "https://downloadwella.com/z7rybs3s1bia/DAM.S02E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q9KmT7BndZteOF-dQ5vUBbaBgemUvibM",
+    "https://downloadwella.com/544r30b98dgk/DAM.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-pqZXJ1Y2vfyIDFspTiz71qKPyIzQI78",
+    "https://downloadwella.com/a4xydg0dzpx6/DAM.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/T-TI8rMKTSbJ-RtglkBmTDEZ5YgZj847",
+    "https://downloadwella.com/vau4k495mb9c/DAM.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SlGBWhcoP0U_fNZoEp4IS0rsXFSKlsGX"
   }
 }
