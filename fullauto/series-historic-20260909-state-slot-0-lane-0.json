@@ -1496,6 +1496,13 @@
       "modified": "2023-09-02T16:54:33",
       "completed_at": 1789286676,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-vampire-diaries-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "80437|https://thenkiri.com/the-vampire-diaries-s03-complete-tv-series/|2023-01-26T11:39:59|2023-09-02T16:56:10|{'rendered': 'The Vampire Diaries S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T16:56:10",
+      "completed_at": 1789290622,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2901,6 +2908,25 @@
     "https://downloadwella.com/l35hz1p8hcai/Daniel.Spellbound.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FOUBb9gwz_qOdhRLW6_2yweyo1AWR3GC",
     "https://downloadwella.com/l1s8heqfg5g7/Daniel.Spellbound.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/f4BwMoFeVu2YJTCi9tBznLQzAw7q-fd8",
     "https://downloadwella.com/lwxx91kvi6hj/Daniel.Spellbound.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PXpZVVV9I_0ZqVDzLdGXuygBBLsputo3",
-    "https://downloadwella.com/7hvoelmhfpcc/Daniel.Spellbound.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GPideZBSwksWjOtPNTp-AecXGVWJD1O-"
+    "https://downloadwella.com/7hvoelmhfpcc/Daniel.Spellbound.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GPideZBSwksWjOtPNTp-AecXGVWJD1O-",
+    "https://downloadwella.com/c0llu2evqua0/tvd.s03e02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GLwP29pokCQ1LSvJwheEQIpSlz_bZKks",
+    "https://downloadwella.com/8ngl4vi5pc28/tvd.s03e03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xb4HuMfoCHEbmvRu8z7FbxJyc1i_HWa5",
+    "https://downloadwella.com/y9p05pqoc1xa/tvd.s03e04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_v9PnNOAFaJXvSicWm4QqS2cJ6FOxSbc",
+    "https://downloadwella.com/rrieyh1od5t8/tvd.s03e05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/t14wqBkb-2vhnbBHq_8ddjIdUb6imnAd",
+    "https://downloadwella.com/0srhikxcfy4x/tvd.s03e06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-KDzFdBtYaSA1lHpvZ_IOd1XOd9Fom4t",
+    "https://downloadwella.com/xrnjx8yca5sz/tvd.s03e09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OMxQq2SE80Nc2-6OtEiGQVhEJBmAWkDp",
+    "https://downloadwella.com/iyoy5cdob7ht/tvd.s03e10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ke-0mCSn2yF7uHrURCj3PW2FaeoksTYt",
+    "https://downloadwella.com/cazr4uj76t7z/tvd.s03e11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hfqR8J0uopVtY20nR4p03JT2Qub2eC3m",
+    "https://downloadwella.com/7n7r6zwygx1h/tvd.s03e12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/i29rnDvKakv3G4IIB81Ic82Q3nfqIRdK",
+    "https://downloadwella.com/qrzk3mrvnikb/tvd.s03e13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YOc53oCjGwqqBMZUpQid4NSeJoxH_UDa",
+    "https://downloadwella.com/6mumtq8p7do8/tvd.s03e14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4WRpr6wyC9JlbVlo28pWB06w__nQ3Yqv",
+    "https://downloadwella.com/gi6qbznbbqhj/tvd.s03e15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P4kEohd8KDAZyL_8YWv_oh-t8fMXWs4z",
+    "https://downloadwella.com/p3mhvi3u2xdn/tvd.s03e16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kprCTxC4A9UQL433kTDTnXbOzxvma2s6",
+    "https://downloadwella.com/bnsxq0hoindv/tvd.s03e17.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yNXMQpQgG0Qudulyk_e4swzeovuxH8RO",
+    "https://downloadwella.com/xq20daf7ymd8/tvd.s03e18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/VEq9EhyEqrQOE5OlzPUm_4bZfH-U2P6y",
+    "https://downloadwella.com/5vy2fn1euejc/tvd.s03e19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pVnLGRnDUd0RfI8I_YvAczN9J_vglMwv",
+    "https://downloadwella.com/4woyrfu2hfi6/tvd.s03e20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5FDLMOOMlSfdoZIVQgUPDqaSj5ozg536",
+    "https://downloadwella.com/8sjx2oxz6wpq/tvd.s03e21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/gzbuaVVLfS079gkJ7oxKFsHjknicGqNG",
+    "https://downloadwella.com/7noca4ymadde/tvd.s03e22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qmKPOS_porcArajbLvhw3SQustqXGNDD"
   }
 }
