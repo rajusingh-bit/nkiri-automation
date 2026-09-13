@@ -1423,10 +1423,16 @@
       "reason": "one or more source links were unavailable"
     },
     "https://thenkiri.com/queen-charlotte-a-bridgerton-story-complete-tv-series/": {
-      "status": "partial",
+      "status": "done",
       "signature": "88696|https://thenkiri.com/queen-charlotte-a-bridgerton-story-complete-tv-series/|2023-05-04T14:49:07|2023-09-02T17:49:44|{'rendered': 'Queen Charlotte: A Bridgerton Story (Complete) | TV Series'}",
       "modified": "2023-09-02T17:49:44",
-      "completed_at": 1789258003,
+      "completed_at": 1789256272
+    },
+    "https://thenkiri.com/sweet-tooth-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "88098|https://thenkiri.com/sweet-tooth-s02-complete-tv-series/|2023-04-27T12:19:06|2023-09-02T17:48:01|{'rendered': 'Sweet Tooth S02 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T17:48:01",
+      "completed_at": 1789264393,
       "reason": "one or more source links were unavailable"
     }
   },
@@ -2712,11 +2718,17 @@
     "https://downloadwella.com/qilnudk6i7nc/The.Family.Stallone.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Z12fMjJcEV8HOQAtMN8nCHWAvPBN0NVk",
     "https://downloadwella.com/comi0iwwuy2d/The.Family.Stallone.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/B77S37u4ExUcy0Q63JP7iV44aams5Jgh",
     "https://downloadwella.com/4huy85uomfrz/The.Family.Stallone.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eUmA3ZHmS2hRgYWhvhIMSWzKf4hpo_px",
-    "https://downloadwella.com/pmrgfbe59r9w/Queen.Charlotte.A.Bridgerton.Story.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/0ZQXmf5g9Pj9qLmos2_pcty_NS7kQzmy",
-    "https://downloadwella.com/u5fxz6unbslh/Queen.Charlotte.A.Bridgerton.Story.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7sks9Fmdwt7zlERS9KYl6zRW3mJO1_h4",
-    "https://downloadwella.com/x2xafnlp9rqq/Queen.Charlotte.A.Bridgerton.Story.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_1hS7VNPes1VbbK0dRpNuLycfhNgQBvO",
-    "https://downloadwella.com/s9h0jxpsya4x/Queen.Charlotte.A.Bridgerton.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j2dqJH2aeLz-fJ40ZwHE5I0FCODARZcE",
+    "https://downloadwella.com/pmrgfbe59r9w/Queen.Charlotte.A.Bridgerton.Story.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hRjCj2ZM8NE2bO4gIEakXVB0cW3OtSXl",
+    "https://downloadwella.com/u5fxz6unbslh/Queen.Charlotte.A.Bridgerton.Story.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GbPofSvhw-ha-kajZLi3Ac0WKJ3_DUxG",
+    "https://downloadwella.com/x2xafnlp9rqq/Queen.Charlotte.A.Bridgerton.Story.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hp_SyL1pHwAYJ50jk03WGPmTAVRB_iFW",
+    "https://downloadwella.com/s9h0jxpsya4x/Queen.Charlotte.A.Bridgerton.Story.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/waPDQ7C9Wg_J819_WRa_c13LJBNYO-9y",
     "https://downloadwella.com/ptwqa5mmvfq1/Queen.Charlotte.A.Bridgerton.Story.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Ayk-al5Zfzn7kImGAVjTLNaAiuhEwXH2",
-    "https://downloadwella.com/ynpbz5iunj1t/Queen.Charlotte.A.Bridgerton.Story.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vAnD0k3yLKIsvMwD6H7qU5Y1gTsViZRi"
+    "https://downloadwella.com/ynpbz5iunj1t/Queen.Charlotte.A.Bridgerton.Story.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wtA-DodPMFwpykerihnqpXjc4bfz-Pa6",
+    "https://downloadwella.com/x3lbwk8exkxn/Sweet.Tooth.S02E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/N_5Uss8TudqvYe3VAPG_d-t-i_RvHLYB",
+    "https://downloadwella.com/fx2r73pdijls/Sweet.Tooth.S02E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/w9oSOqn3n1BUHIbnEGLgqfGb0cwCX-_4",
+    "https://downloadwella.com/sjpb5bcm66e4/Sweet.Tooth.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mitICVzQBqfzmC4fw4kf76PP8pFWQvtQ",
+    "https://downloadwella.com/46biv7wkbtga/Sweet.Tooth.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NkxXP5NQOfkb6IfGwZsD5xakf2i4D7Se",
+    "https://downloadwella.com/f9kuvzdkfubc/Sweet.Tooth.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fljUQLYmUnJuw_t1QZC3hxeEvua4OzPS",
+    "https://downloadwella.com/1lcqe5eqan2f/Sweet.Tooth.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EUMgEByHjJd8TEswXrrCJ65NFX7CqM1h"
   }
 }
