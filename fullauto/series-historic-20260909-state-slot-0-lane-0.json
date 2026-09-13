@@ -1482,6 +1482,13 @@
       "modified": "2024-12-09T07:45:30",
       "completed_at": 1789284212,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dear-edward-complete-tv-series/": {
+      "status": "partial",
+      "signature": "81341|https://thenkiri.com/dear-edward-complete-tv-series/|2023-02-03T15:19:15|2023-09-02T17:02:55|{'rendered': 'Dear Edward (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T17:02:55",
+      "completed_at": 1789284778,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2877,6 +2884,8 @@
     "https://downloadwella.com/yhhr6jw4b6df/Marvels.Moon.Girl.and.Devil.Dinosaur.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/RB42Gf6aSHNOfgNDMI-RUSRLoo9z0U77",
     "https://downloadwella.com/b2fz5pl3nl4x/Marvels.Moon.Girl.and.Devil.Dinosaur.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UKAc2DWICMGY671r__ji7e-7aYHkc00C",
     "https://downloadwella.com/6pn14rfwwrun/Marvels.Moon.Girl.and.Devil.Dinosaur.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mm2mf1YMKlkumbV45Z-CUW_eU3DqH9_m",
-    "https://downloadwella.com/nqr5gdjhslg2/Marvels.Moon.Girl.and.Devil.Dinosaur.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tRXrjzFVRZtUFNTmJFeUFMQ9slYm5i_P"
+    "https://downloadwella.com/nqr5gdjhslg2/Marvels.Moon.Girl.and.Devil.Dinosaur.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tRXrjzFVRZtUFNTmJFeUFMQ9slYm5i_P",
+    "https://downloadwella.com/nm603cdaxy9e/Dear.Edward.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/qilrrjzWBzB715ZnmCDl_RUUK91vnTZk",
+    "https://downloadwella.com/x4kfeo48r178/Dear.Edward.(NKIRI.COM).S01E09.Downloaded.from.NKIRI.COM.mkv.html": "https://v1.vidfiles.com/d/jHBALwhGFD__AxuJocmyunm_ggiGyw3a"
   }
 }
