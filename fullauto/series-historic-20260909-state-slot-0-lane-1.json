@@ -1515,6 +1515,13 @@
       "modified": "2023-09-02T16:51:20",
       "completed_at": 1789292611,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/bling-empire-new-york-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "80072|https://thenkiri.com/bling-empire-new-york-s01-complete-tv-series/|2023-01-21T06:18:12|2023-09-02T16:52:41|{'rendered': 'Bling Empire: New York S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T16:52:41",
+      "skipped_at": 1789307192,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
