@@ -1509,6 +1509,13 @@
       "signature": "80292|https://thenkiri.com/extraordinary-complete-tv-series/|2023-01-25T14:37:32|2023-12-17T07:28:19|{'rendered': 'Extraordinary (Complete) | TV Series'}",
       "modified": "2023-12-17T07:28:19",
       "completed_at": 1789292612
+    },
+    "https://thenkiri.com/high-card-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "79875|https://thenkiri.com/high-card-s01-complete-tv-series/|2023-01-20T14:07:52|2024-02-24T16:11:03|{'rendered': 'High Card S01 (Episode 9 Added) | TV Series'}",
+      "modified": "2024-02-24T16:11:03",
+      "completed_at": 1789307172,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
