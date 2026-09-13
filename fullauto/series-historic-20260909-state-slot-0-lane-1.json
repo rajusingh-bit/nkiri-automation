@@ -1460,6 +1460,13 @@
       "signature": "85872|https://thenkiri.com/unseen-s01-complete-tv-series/|2023-04-02T17:43:32|2023-09-02T17:32:25|{'rendered': 'Unseen S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T17:32:25",
       "completed_at": 1789271664
+    },
+    "https://thenkiri.com/wellmania-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "85535|https://thenkiri.com/wellmania-s01-complete-tv-series/|2023-03-30T07:25:46|2023-09-02T17:29:10|{'rendered': 'Wellmania S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:29:10",
+      "completed_at": 1789276650,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2782,6 +2789,13 @@
     "https://downloadwella.com/i85lkntqaw75/Unseen.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y3eAipu3Qidi9ualVy6vErENbefPUghh",
     "https://downloadwella.com/7daxzjppob6o/Unseen.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AfSeMv_BfJJlLaXBxeklAWPF4n4uHNg3",
     "https://downloadwella.com/f9mycdtxlt11/Unseen.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ZcMwdq22N2lfR2oplvDzpW-jgmyfQJ9C",
-    "https://downloadwella.com/cbip3o1pf624/Unseen.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kWvjB00e8xrreLgIvuYwmXL2UXUvrFvZ"
+    "https://downloadwella.com/cbip3o1pf624/Unseen.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kWvjB00e8xrreLgIvuYwmXL2UXUvrFvZ",
+    "https://downloadwella.com/5rgtviootfi0/Wellmania.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/reWPhmoOTaLNMq0pv-q2-Tpq9Pufj7Mo",
+    "https://downloadwella.com/5kyvx2kjvcx7/Wellmania.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/DtAeuY0psDpNnRqoeVmz328ZQIM_soTb",
+    "https://downloadwella.com/p1acabie96by/Wellmania.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uwKYu_rV17we4tA_UXQiLVqM1tRcy0xW",
+    "https://downloadwella.com/3hltmdt2uw0d/Wellmania.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/n8XsKYjtTjWEXGceIFkqJNnzPnt6o3De",
+    "https://downloadwella.com/9sxjuuz7nxtz/Wellmania.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ybwI57Y3xLjVoq0Ws0SoKew8JMhI2VRc",
+    "https://downloadwella.com/323bnigis5xg/Wellmania.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jIo7AX2NpZuwO7bCtuEB8lCFh5xx7dlh",
+    "https://downloadwella.com/ite2jhc9b1gn/Wellmania.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/upJChkuwMfO4OPuTYZtoPZv0SHjzSp1s"
   }
 }
