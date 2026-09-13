@@ -1481,6 +1481,13 @@
       "modified": "2024-09-01T09:21:14",
       "completed_at": 1789283756,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/better-complete-tv-series/": {
+      "status": "partial",
+      "signature": "82415|https://thenkiri.com/better-complete-tv-series/|2023-02-16T10:25:42|2023-12-17T06:52:54|{'rendered': 'Better (Complete) | TV Series'}",
+      "modified": "2023-12-17T06:52:54",
+      "completed_at": 1789284854,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2828,6 +2835,10 @@
     "https://downloadwella.com/7ox3ocudjkxk/Bel-Air.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/18A4qhehtrr_LwdwL4mQZWeym89sbQx8",
     "https://downloadwella.com/gvcwk9ukmj67/Bel-Air.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/otazxYZTElESBWiyQ13gw_AkT4R5Cp6A",
     "https://downloadwella.com/boaldlsdkpbk/Bel-Air.S02E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UM4rByiZnaozTza2tCAV7q96EzoJbrEd",
-    "https://downloadwella.com/igus6seb93aq/Bel-Air.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7H1GeI4_D4_gqFsFfe4O7n5tKabSVrdz"
+    "https://downloadwella.com/igus6seb93aq/Bel-Air.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7H1GeI4_D4_gqFsFfe4O7n5tKabSVrdz",
+    "https://downloadwella.com/unjxgttehrey/Better.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/jdIfuDkvKYzu3JzwMyBGJDUfSyGwb0nK",
+    "https://downloadwella.com/cj4jqyv5ewi3/Better.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OHrseswbLI2H_yGsPrqJmdH7mUqqwpGI",
+    "https://downloadwella.com/hz2tw1f86xyn/Better.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Rlit_OgyAxsWukVBbVSNKgq-OPnQeFz",
+    "https://downloadwella.com/49nigen366aj/Better.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/SYmEhJGDUffCI8nniQKz-6_CsLcHZP9F"
   }
 }
