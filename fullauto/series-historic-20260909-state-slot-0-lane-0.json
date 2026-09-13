@@ -1462,6 +1462,13 @@
       "modified": "2023-12-28T21:48:56",
       "completed_at": 1789274371,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/django-complete-tv-series/": {
+      "status": "partial",
+      "signature": "83605|https://thenkiri.com/django-complete-tv-series/|2023-03-02T20:07:33|2023-12-22T07:31:17|{'rendered': 'Django S01 (Complete) | TV Series'}",
+      "modified": "2023-12-22T07:31:17",
+      "completed_at": 1789277300,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2834,6 +2841,13 @@
     "https://downloadwella.com/0o68lgekq3tp/The.Night.Agent.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/P_pfJLasbDRQ0NBzgrCkhlq_yVaNEoY2",
     "https://downloadwella.com/i75m4gdhqleq/The.Night.Agent.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uYqDfi8nHjNE9npj_uGFxmgSrAMV_siB",
     "https://downloadwella.com/d8hxv14eti2p/The.Night.Agent.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/r_3Vot0qrTWH_l2fr67ZyFeu_rWATR7k",
-    "https://downloadwella.com/csfzg1mvvfqx/The.Night.Agent.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ARG7G0xE2X2Sxo9hkFtPRVEOX16HjrLP"
+    "https://downloadwella.com/csfzg1mvvfqx/The.Night.Agent.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ARG7G0xE2X2Sxo9hkFtPRVEOX16HjrLP",
+    "https://downloadwella.com/tv1e5xa6yfir/Django.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Iw4bvuJJ3lddz6hcb-nxKqqN41uV6Jm5",
+    "https://downloadwella.com/jrhvu7hixqg5/Django.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/d3JV39rP_rxBHXLrjl7TfcSF4129Kq7O",
+    "https://downloadwella.com/1up6khhryg01/Django.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/19EpYJiHObY-yx1NhktSNRzmdrRru3cj",
+    "https://downloadwella.com/oy7kl4ib11sr/Django.2023.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/g-hg9jgBwkXOxVTzjZSiwBB6rFGQXrCQ",
+    "https://downloadwella.com/io4niwxe44nz/Django.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2WIAqfH2y3ccXoDKZJhiBZ23Wi7O6wbs",
+    "https://downloadwella.com/pprkgbxwv3f1/Django.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FVaV2C5DPH9XSEKacp1loPMr24KYfd2O",
+    "https://downloadwella.com/gcg7cycg7bmz/Django.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dI-TFTVDAgcXIoDlBLCVhZ0EsJB2W82x"
   }
 }
