@@ -1434,6 +1434,13 @@
       "modified": "2023-09-02T17:48:01",
       "completed_at": 1789264393,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/mrs-davis-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87634|https://thenkiri.com/mrs-davis-complete-tv-series/|2023-04-20T18:57:13|2023-12-22T07:34:17|{'rendered': 'Mrs. Davis (Episode 8 Added) | TV Series'}",
+      "modified": "2023-12-22T07:34:17",
+      "completed_at": 1789265553,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2729,6 +2736,10 @@
     "https://downloadwella.com/sjpb5bcm66e4/Sweet.Tooth.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/mitICVzQBqfzmC4fw4kf76PP8pFWQvtQ",
     "https://downloadwella.com/46biv7wkbtga/Sweet.Tooth.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NkxXP5NQOfkb6IfGwZsD5xakf2i4D7Se",
     "https://downloadwella.com/f9kuvzdkfubc/Sweet.Tooth.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/fljUQLYmUnJuw_t1QZC3hxeEvua4OzPS",
-    "https://downloadwella.com/1lcqe5eqan2f/Sweet.Tooth.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EUMgEByHjJd8TEswXrrCJ65NFX7CqM1h"
+    "https://downloadwella.com/1lcqe5eqan2f/Sweet.Tooth.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EUMgEByHjJd8TEswXrrCJ65NFX7CqM1h",
+    "https://downloadwella.com/tlyoe6aihj00/Mrs.Davis.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8QAQk2iPfgvQun-IDfM6c_pXQwR5eK1N",
+    "https://downloadwella.com/p8qmal1iib22/Mrs.Davis.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QpWqbD8bAWV3c87lPvK6tMrt8eia54XO",
+    "https://downloadwella.com/as4hyua2v5wb/Mrs.Davis.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aA9_FuBkPT9gWq_kJjvxjPp57YK00aKP",
+    "https://downloadwella.com/tx53iok3zyx7/Mrs.Davis.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pp6qclYheucjgnXQvl3dMe7B-ZjYlBBv"
   }
 }
