@@ -1448,6 +1448,13 @@
       "modified": "2023-09-02T17:31:56",
       "completed_at": 1789268455,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/unstable-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "85672|https://thenkiri.com/unstable-s01-complete-tv-series/|2023-03-31T14:06:49|2023-09-02T17:33:02|{'rendered': 'Unstable S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:33:02",
+      "completed_at": 1789269702,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2803,6 +2810,12 @@
     "https://downloadwella.com/g55occbikubp/Everybody.Hates.Chris.S01E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wnuIdLOWU6H1bV5b5reMuapwfB97YGeP",
     "https://downloadwella.com/yo0zmx1a91jc/Everybody.Hates.Chris.S01E20.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XD2P73CFBaPdk8z0qg2Lf0VOMs4n6hbz",
     "https://downloadwella.com/ccundufwiaf1/Everybody.Hates.Chris.S01E21.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/I9MGp6hbi2IG0fCtOLNr2mcol93gVsWW",
-    "https://downloadwella.com/3we6xow2vv92/Everybody.Hates.Chris.S01E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_StGlV1rzYNMS8jT5CWcVsXCaAQC21b1"
+    "https://downloadwella.com/3we6xow2vv92/Everybody.Hates.Chris.S01E22.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_StGlV1rzYNMS8jT5CWcVsXCaAQC21b1",
+    "https://downloadwella.com/91de19g6usjo/Unstable.US.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/8kfdwaRQZptO0k7UlCjLkCJbX35391W9",
+    "https://downloadwella.com/i5vv4tkh177d/Unstable.US.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OxphU1X5-ArqRrVzxWAODQb4VaKchvMt",
+    "https://downloadwella.com/lar07zaznhai/Unstable.US.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PeNUpRQ_xIbgT2bV-klCdGJAPyplIVFD",
+    "https://downloadwella.com/t663w3564mdu/Unstable.US.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/CSC5tvn1tAR3W8ajFZhSH4pnpvw131Gv",
+    "https://downloadwella.com/sfepctsy45u4/Unstable.US.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/XwdOU7euobs9AVVnZJRq1Nf5JQPgYG51",
+    "https://downloadwella.com/elu6xu59bfkj/Unstable.US.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/z6abtt5lVhNCr35L45_5V5vR-Juebfy-"
   }
 }
