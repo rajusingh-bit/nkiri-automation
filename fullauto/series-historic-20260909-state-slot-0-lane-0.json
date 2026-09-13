@@ -1427,6 +1427,13 @@
       "modified": "2023-09-02T17:44:19",
       "completed_at": 1789259924,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/jane-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "87135|https://thenkiri.com/jane-s01-complete-tv-series/|2023-04-16T06:36:51|2023-09-02T17:41:38|{'rendered': 'Jane S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T17:41:38",
+      "completed_at": 1789263240,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -2754,6 +2761,15 @@
     "https://downloadwella.com/wficynp75crv/Malpractice.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/6IXeRl-DALtw9lhDn6uTxaw9W3QJDJZm",
     "https://downloadwella.com/sdo8q1p6t00p/Malpractice.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JEJ9sohBlBXZPaqzkYmRKD2iUjHK1cT1",
     "https://downloadwella.com/2itpml9qlnl3/Malpractice.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/JUG3yNZNVbrJ0h3ZuLtWtgjK-pCKzwCN",
-    "https://downloadwella.com/k2v3o96bgrzv/Malpractice.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xfCAQXdrKupc-cf68d82kxQSltpLYPqr"
+    "https://downloadwella.com/k2v3o96bgrzv/Malpractice.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xfCAQXdrKupc-cf68d82kxQSltpLYPqr",
+    "https://downloadwella.com/rfe1eo5pou8c/Jane.2023.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hpFtvkuWJ74t1S5uJxqqrbSqnzc_7oxS",
+    "https://downloadwella.com/3qjanbz3kj1k/Jane.2023.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/UfBpmWHAL65h0RmbbA7k71he2-es3bJq",
+    "https://downloadwella.com/9ih5ul081eu1/Jane.2023.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/QBFC-THPj5LZ2SpDuBc2sRNFigTeNiHB",
+    "https://downloadwella.com/ckiu5a2o7ppy/Jane.2023.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tBrVr7lE8CJfsVdwnxIwMWSedKKPaFlJ",
+    "https://downloadwella.com/dx5x0t3uvr25/Jane.2023.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/yfiRxQQ_5R7ngBMT-mIjgg8xkes0JQJP",
+    "https://downloadwella.com/myit1s7jy2c8/Jane.2023.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EifrKAsDANNUcgwDHcQJsezahsSoPSfK",
+    "https://downloadwella.com/o3awc0fwje3p/Jane.2023.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/IW54srcgf627bfE3A20yN9XYJLiYHXKV",
+    "https://downloadwella.com/851f3hobi575/Jane.2023.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ymYXZlAZbRnrmilEhkBiY4SWliplpULa",
+    "https://downloadwella.com/22brox6llos1/Jane.2023.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/vNSEA5tW-5aukbjxvOYNJ3aN4MRPUUvr"
   }
 }
