@@ -1868,6 +1868,13 @@
       "modified": "2023-09-02T09:25:47",
       "skipped_at": 1789471128,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/solos-s01-complete-tv-series__trashed/": {
+      "status": "skipped_unavailable",
+      "signature": "16443|https://thenkiri.com/solos-s01-complete-tv-series__trashed/|2021-05-22T09:28:12|2023-09-02T09:11:38|{'rendered': 'Solos S01 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:11:38",
+      "skipped_at": 1789471182,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
