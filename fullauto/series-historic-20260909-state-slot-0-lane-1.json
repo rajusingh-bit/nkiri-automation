@@ -1643,6 +1643,13 @@
       "signature": "65192|https://thenkiri.com/rick-and-morty-s06-complete-tv-series/|2022-09-12T13:29:55|2023-12-17T11:36:27|{'rendered': 'Rick and Morty S06 (Episode 10 Added) | TV Series'}",
       "modified": "2023-12-17T11:36:27",
       "completed_at": 1789459765
+    },
+    "https://thenkiri.com/samurai-rabbit-the-usagi-chronicles-s01-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "64166|https://thenkiri.com/samurai-rabbit-the-usagi-chronicles-s01-s02-complete-tv-series/|2022-09-02T08:15:59|2023-09-02T15:19:57|{'rendered': 'Samurai Rabbit: The Usagi Chronicles S01 & S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:19:57",
+      "completed_at": 1789461145,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3221,6 +3228,25 @@
     "https://downloadwella.com/wvyfq1ppdq45/Rick.and.Morty.S06E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NLusAGY73AeCHD7jaw9N3HNuFw1ojHSe",
     "https://downloadwella.com/vj54tn65jcuv/Rick.and.Morty.S06E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/10kc9mAdo9dJAg1iSzaVkLZyaAsUa-vV",
     "https://downloadwella.com/pv8htvkite0x/Rick.and.Morty.S06E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xx8NxQz2JRyjwWFKXxcC4SMq4uQUmizt",
-    "https://downloadwella.com/5pj4cto1xwvi/Rick.and.Morty.S06E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4nul2MhjQIHiLg_22a4_SaOYiFe8rIRF"
+    "https://downloadwella.com/5pj4cto1xwvi/Rick.and.Morty.S06E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4nul2MhjQIHiLg_22a4_SaOYiFe8rIRF",
+    "https://downloadwella.com/b68lsl9a8fzg/Samurai.Rabbit.The.Usagi.Chronicles.S01E01.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/tKk9X6cBz0ZjAcMQimUGxKmu5qfjxeSd",
+    "https://downloadwella.com/mgnya07h4oa8/Samurai.Rabbit.The.Usagi.Chronicles.S01E03.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/m8sdSLFNYi5Nez5QvzBgT4RUhKxEufQJ",
+    "https://downloadwella.com/voh84y4e6jrd/Samurai.Rabbit.The.Usagi.Chronicles.S01E04.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/tKrj-ZOQcJtHyrU0-qwA4MioPtu_OUuj",
+    "https://downloadwella.com/qamungk5j6si/Samurai.Rabbit.The.Usagi.Chronicles.S01E05.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/8_Ox7PkHbH8uyz0g_UOD0u2ATvdW75gK",
+    "https://downloadwella.com/vk4yujf7kz3k/Samurai.Rabbit.The.Usagi.Chronicles.S01E06.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/7CzotHOJKmKbeTxrgWIIxn02OFrAnIFi",
+    "https://downloadwella.com/i3wjbdy0nc7a/Samurai.Rabbit.The.Usagi.Chronicles.S01E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Cg9g_19FxknwrCQNVNzxE0fu7S_lygOf",
+    "https://downloadwella.com/zw7tw1rcwad1/Samurai.Rabbit.The.Usagi.Chronicles.S01E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/NaIjI0NhuIg3fwLkU3ck46xhdRPJSCPI",
+    "https://downloadwella.com/nw8lgqdu4jc5/Samurai.Rabbit.The.Usagi.Chronicles.S01E09.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/G9efE25XYs1ijM6dEUB1HfBjZMiVQE4F",
+    "https://downloadwella.com/emmnyb7hva5r/Samurai.Rabbit.The.Usagi.Chronicles.S01E10.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/qXOxtY9Uh5O44BeR5Fe91AxutUKYE3pS",
+    "https://downloadwella.com/538tck7d55tn/Samurai.Rabbit.The.Usagi.Chronicles.S02E01.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/QMn6XXTjU3-kPonUu9p1FfiEwjnxcEk8",
+    "https://downloadwella.com/qcguv2k2zx5h/Samurai.Rabbit.The.Usagi.Chronicles.S02E02.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/qDecTRrIvbl8whqreMATn-a8ckYZyXvj",
+    "https://downloadwella.com/354g9vrdpi5u/Samurai.Rabbit.The.Usagi.Chronicles.S02E03.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/9f4c8oOgyuETwG8XT_3eFvN3j5hjhUEM",
+    "https://downloadwella.com/nwuommltx797/Samurai.Rabbit.The.Usagi.Chronicles.S02E04.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/uOfPe97-ADJTtzS3fXlhd07PpVjAzEY1",
+    "https://downloadwella.com/bm39ktcfgzwp/Samurai.Rabbit.The.Usagi.Chronicles.S02E05.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/2y3dUblczs_iKfgwFiZHkvxLe_Rq0N-K",
+    "https://downloadwella.com/nyqwrijxtlwt/Samurai.Rabbit.The.Usagi.Chronicles.S02E06.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Y_n1jEz-NHnl2gUGJVyAtb8l3aau5EpW",
+    "https://downloadwella.com/rir294t6h23j/Samurai.Rabbit.The.Usagi.Chronicles.S02E07.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/4gYjRo72wQeMWWJixYpYvooC0opdUxE0",
+    "https://downloadwella.com/wd7xu8mywfgl/Samurai.Rabbit.The.Usagi.Chronicles.S02E08.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/TZI-44GgubQ5R6jCHyYbWHvF_tIy9iWk",
+    "https://downloadwella.com/zlkb9qzntluy/Samurai.Rabbit.The.Usagi.Chronicles.S02E09.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/3GBqfzV8t0m6YA4iUi-O-vwsHHE_dSw7",
+    "https://downloadwella.com/vql7y5wq3luc/Samurai.Rabbit.The.Usagi.Chronicles.S02E10.(NKIRI.COM).mp4.html": "https://v1.vidfiles.com/d/Hl0fdG_CIz6hvnJDeHnADo0v3C-pBoo4"
   }
 }
