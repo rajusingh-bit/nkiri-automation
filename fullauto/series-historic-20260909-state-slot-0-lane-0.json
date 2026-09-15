@@ -1861,6 +1861,13 @@
       "signature": "18874|https://thenkiri.com/the-witcher-s01-complete-tv-series/|2021-07-15T11:09:21|2023-09-02T09:33:32|{'rendered': 'The Witcher S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T09:33:32",
       "completed_at": 1789471066
+    },
+    "https://thenkiri.com/elite-s01-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "18000|https://thenkiri.com/elite-s01-s02-complete-tv-series/|2021-06-24T07:47:14|2023-09-02T09:25:47|{'rendered': 'Elite S01 & S02 ( Complete )  | TV Series'}",
+      "modified": "2023-09-02T09:25:47",
+      "skipped_at": 1789471128,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
