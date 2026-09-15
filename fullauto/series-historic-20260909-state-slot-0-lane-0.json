@@ -1882,6 +1882,13 @@
       "modified": "2023-09-02T09:03:53",
       "skipped_at": 1789471239,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/attack-on-titan-s02-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "15060|https://thenkiri.com/attack-on-titan-s02-s03-complete-tv-series/|2021-04-08T13:19:31|2023-09-02T08:58:05|{'rendered': 'Attack On Titan S02 & S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:58:05",
+      "skipped_at": 1789471313,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
