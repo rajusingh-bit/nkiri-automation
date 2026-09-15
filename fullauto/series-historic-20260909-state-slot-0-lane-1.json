@@ -1800,6 +1800,13 @@
       "modified": "2023-09-02T13:25:21",
       "skipped_at": 1789467369,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-cleaning-lady-s01-episode-1-added-tv-series/": {
+      "status": "partial",
+      "signature": "34507|https://thenkiri.com/the-cleaning-lady-s01-episode-1-added-tv-series/|2022-01-04T08:47:07|2023-09-02T13:21:43|{'rendered': 'The Cleaning Lady S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:21:43",
+      "completed_at": 1789467679,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3480,6 +3487,10 @@
     "https://downloadwella.com/ec0f6arq9xb5/BrBa.S02E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pZvyaNZsUrSvl8hch7PqgML3Qrv0c__V",
     "https://downloadwella.com/i9420pnd3160/BrBa.S02E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/S7DnGu7niqwMrv4TdH-CPU5XoP3UqR9y",
     "https://downloadwella.com/w84qldsiccwx/BrBa.S02E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Y9hHNm2yUiN3RsP0SVAf_RlVk7UzFyV8",
-    "https://downloadwella.com/jklnkyum9b9u/BrBa.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xyDstJIvwSNqgx-mCyG7d9MiuGu18z8y"
+    "https://downloadwella.com/jklnkyum9b9u/BrBa.S02E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xyDstJIvwSNqgx-mCyG7d9MiuGu18z8y",
+    "https://downloadwella.com/00htyx846m7r/The.Cleaning.Lady.US.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7Qij1Enx_fOcPZSdmwwi6uy735tkRVkP",
+    "https://downloadwella.com/s2f7t0zoriqq/The.Cleaning.Lady.US.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_s2YKP5r-hl39Bf08Zz4UXQ0kA7z58YZ",
+    "https://downloadwella.com/aqgjgqun3i0i/The.Cleaning.Lady.US.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/hjJjfJeZI6dmuvgNrSfLjXg9yaVIxLLX",
+    "https://downloadwella.com/x07l69niwwbs/The.Cleaning.Lady.US.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/oCcqAbDOI9BbEcQxIFdg7wrPnhtp175T"
   }
 }
