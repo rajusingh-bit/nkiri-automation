@@ -1698,6 +1698,13 @@
       "modified": "2023-09-02T14:09:22",
       "skipped_at": 1789465131,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/love-me-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43816|https://thenkiri.com/love-me-s01-complete-tv-series/|2022-06-10T07:38:27|2023-09-02T14:07:05|{'rendered': 'Love Me S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:07:05",
+      "skipped_at": 1789465171,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
