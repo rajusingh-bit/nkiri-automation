@@ -1705,6 +1705,13 @@
       "modified": "2023-09-02T14:11:43",
       "skipped_at": 1789463421,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/icarly-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43905|https://thenkiri.com/icarly-s02-complete-tv-series/|2022-06-11T13:16:46|2023-09-02T14:06:32|{'rendered': 'iCarly S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:06:32",
+      "skipped_at": 1789463527,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
