@@ -1739,6 +1739,13 @@
       "modified": "2023-09-02T13:43:05",
       "completed_at": 1789466424,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/tokyo-vice-s01-episode-1-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39451|https://thenkiri.com/tokyo-vice-s01-episode-1-2-added-tv-series/|2022-04-11T07:13:57|2023-09-02T13:38:55|{'rendered': 'Tokyo Vice S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:38:55",
+      "skipped_at": 1789466523,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
