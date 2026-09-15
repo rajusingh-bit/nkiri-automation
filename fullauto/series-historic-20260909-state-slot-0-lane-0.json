@@ -1588,6 +1588,12 @@
       "signature": "70562|https://thenkiri.com/blockbuster-s01-complete-tv-series/|2022-11-05T12:54:31|2023-09-02T16:37:15|{'rendered': 'Blockbuster S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T16:37:15",
       "completed_at": 1789456321
+    },
+    "https://thenkiri.com/the-elon-musk-show-complete-tv-series/": {
+      "status": "done",
+      "signature": "69652|https://thenkiri.com/the-elon-musk-show-complete-tv-series/|2022-10-27T16:52:41|2023-09-02T16:31:28|{'rendered': 'The Elon Musk Show (Episode 1-3 Added) | TV Series'}",
+      "modified": "2023-09-02T16:31:28",
+      "completed_at": 1789456507
     }
   },
   "series_links": {
@@ -3150,6 +3156,9 @@
     "https://downloadwella.com/cezmk3p3itxh/BLOCKBUSTER.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/aWlh9qtObsPqDOtczbaXYpEMyV_B9Iyh",
     "https://downloadwella.com/29r90x1e0wq1/BLOCKBUSTER.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dx9TSlX0NBqOIVZEFmIXvHYDiojdfTwW",
     "https://downloadwella.com/4thsltsb8loi/BLOCKBUSTER.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/FUh2YRZmb5QREGmak37CWw58bvYVGier",
-    "https://downloadwella.com/o1jpk71zqmz5/BLOCKBUSTER.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o2VxUrasfGAO_IEhPFOB4lzG3at_MDZM"
+    "https://downloadwella.com/o1jpk71zqmz5/BLOCKBUSTER.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o2VxUrasfGAO_IEhPFOB4lzG3at_MDZM",
+    "https://downloadwella.com/225oj6n7htmk/The.Elon.Musk.Show.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pfgCzaeoJdaHP8lavEch85uLJSOITdKJ",
+    "https://downloadwella.com/zn9lxdsv0tug/The.elon.musk.show.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2YP5wJrQBp8bHKsdjfmF1k8mq9Q1KI8P",
+    "https://downloadwella.com/ihcc0y233thr/The.Elon.Musk.Show.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4GJlw7tRFui75gavZglSPI_JryulDtr4"
   }
 }
