@@ -1684,6 +1684,13 @@
       "modified": "2023-09-02T14:28:12",
       "skipped_at": 1789465046,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-umbrella-academy-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "44737|https://thenkiri.com/the-umbrella-academy-s03-complete-tv-series/|2022-06-22T12:27:44|2023-09-02T14:10:44|{'rendered': 'The Umbrella Academy S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:10:44",
+      "skipped_at": 1789465093,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
