@@ -1821,6 +1821,13 @@
       "modified": "2023-09-02T10:58:22",
       "skipped_at": 1789469267,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/bob-hearts-abishola-s03-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30861|https://thenkiri.com/bob-hearts-abishola-s03-tv-series/|2021-10-20T12:35:43|2023-09-02T10:14:48|{'rendered': 'Bob Hearts Abishola S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T10:14:48",
+      "skipped_at": 1789469308,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
