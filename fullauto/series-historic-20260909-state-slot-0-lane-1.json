@@ -1891,6 +1891,13 @@
       "signature": "15661|https://thenkiri.com/shadow-and-bone-complete-tv-series/|2021-04-29T11:39:14|2023-09-02T09:04:38|{'rendered': 'Shadow and Bone S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T09:04:38",
       "completed_at": 1789472801
+    },
+    "https://thenkiri.com/grown-ish-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14580|https://thenkiri.com/grown-ish-s02-complete-tv-series/|2021-04-03T08:28:19|2023-09-02T08:54:28|{'rendered': 'Grown – ish  S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:54:28",
+      "skipped_at": 1789472931,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
