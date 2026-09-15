@@ -1691,6 +1691,13 @@
       "modified": "2023-09-02T14:10:44",
       "skipped_at": 1789465093,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/gods-favorite-idiot-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "44115|https://thenkiri.com/gods-favorite-idiot-s01-complete-tv-series/|2022-06-15T13:08:05|2023-09-02T14:09:22|{'rendered': 'God’s Favorite Idiot S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:09:22",
+      "skipped_at": 1789465131,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
