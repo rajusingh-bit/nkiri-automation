@@ -1726,6 +1726,13 @@
       "modified": "2023-09-02T13:59:40",
       "skipped_at": 1789463649,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/barry-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "41733|https://thenkiri.com/barry-s03-complete-tv-series/|2022-05-10T10:30:47|2025-06-27T06:25:01|{'rendered': 'Barry S03 (Complete) | TV Series'}",
+      "modified": "2025-06-27T06:25:01",
+      "skipped_at": 1789463693,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
