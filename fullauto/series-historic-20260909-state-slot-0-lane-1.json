@@ -1657,6 +1657,13 @@
       "modified": "2024-02-24T14:25:25",
       "completed_at": 1789461890,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/dota-dragons-blood-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "59342|https://thenkiri.com/dota-dragons-blood-s03-complete-tv-series/|2022-08-17T17:55:25|2023-09-02T15:09:48|{'rendered': 'DOTA: Dragon’s Blood S03 (Complete) | TV Series'}",
+      "modified": "2023-09-02T15:09:48",
+      "skipped_at": 1789461976,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
