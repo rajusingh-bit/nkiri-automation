@@ -1752,6 +1752,13 @@
       "signature": "38822|https://thenkiri.com/moon-knight-s01-episode-1-added-tv-series/|2022-03-30T14:46:13|2023-09-02T13:24:23|{'rendered': 'Moon Knight S01 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:24:23",
       "completed_at": 1789466883
+    },
+    "https://thenkiri.com/the-last-days-of-ptolemy-grey-s01-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "37804|https://thenkiri.com/the-last-days-of-ptolemy-grey-s01-episode-1-added-tv-series/|2022-03-11T10:24:32|2023-09-02T13:12:29|{'rendered': 'The Last Days of Ptolemy Grey S01 (Episode 6 Added) | TV Series'}",
+      "modified": "2023-09-02T13:12:29",
+      "skipped_at": 1789466947,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
