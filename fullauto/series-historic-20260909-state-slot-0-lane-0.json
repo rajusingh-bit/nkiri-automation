@@ -1787,6 +1787,13 @@
       "modified": "2023-09-02T13:28:28",
       "skipped_at": 1789467931,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/attack-on-titan-s04-part-2-episode-1-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "34872|https://thenkiri.com/attack-on-titan-s04-part-2-episode-1-added-tv-series/|2022-01-09T20:28:18|2023-09-02T13:23:28|{'rendered': 'Attack On Titan S04 Part 2 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:23:28",
+      "skipped_at": 1789468058,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
