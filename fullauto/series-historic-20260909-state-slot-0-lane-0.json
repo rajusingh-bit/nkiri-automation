@@ -1663,6 +1663,13 @@
       "modified": "2023-09-02T14:44:36",
       "skipped_at": 1789464851,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/country-queen-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46550|https://thenkiri.com/country-queen-s01-complete-tv-series/|2022-07-16T12:39:54|2023-09-02T14:47:31|{'rendered': 'Country Queen S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:47:31",
+      "skipped_at": 1789464890,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
