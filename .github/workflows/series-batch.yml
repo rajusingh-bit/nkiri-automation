@@ -130,6 +130,8 @@ jobs:
                   'done', 'partial', 'blocked', 'skipped_unavailable', 'skipped_error'
               }
 
+          # A partial season is already represented on the site; do not
+          # select it again as a fresh historical season.
           rows = []
           with Path('queue/missing-series.csv').open(encoding='utf-8-sig', newline='') as fh:
               for position, row in enumerate(csv.DictReader(fh)):
