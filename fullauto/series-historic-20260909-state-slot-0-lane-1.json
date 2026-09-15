@@ -1912,6 +1912,13 @@
       "modified": "2023-09-02T08:50:33",
       "skipped_at": 1789473108,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/warrior-s01-and-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14190|https://thenkiri.com/warrior-s01-and-s02-complete-tv-series/|2021-03-28T20:46:32|2023-10-03T15:27:18|{'rendered': 'Warrior S01 and S02 (Complete) | TV Series'}",
+      "modified": "2023-10-03T15:27:18",
+      "skipped_at": 1789473147,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
