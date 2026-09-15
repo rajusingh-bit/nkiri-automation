@@ -1649,6 +1649,13 @@
       "signature": "59631|https://thenkiri.com/she-hulk-attorney-at-law-s01-complete-tv-series/|2022-08-18T15:11:58|2024-02-25T06:51:57|{'rendered': 'She-Hulk: Attorney at Law S01 (Episode 9 Added) | TV Series'}",
       "modified": "2024-02-25T06:51:57",
       "completed_at": 1789464766
+    },
+    "https://thenkiri.com/rebel-cheer-squad-a-get-even-series-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "47448|https://thenkiri.com/rebel-cheer-squad-a-get-even-series-complete-tv-series/|2022-07-31T16:41:40|2023-09-02T14:58:17|{'rendered': 'Rebel Cheer Squad: A Get Even Series S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:58:17",
+      "skipped_at": 1789464813,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
