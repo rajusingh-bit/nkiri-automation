@@ -1898,6 +1898,13 @@
       "modified": "2023-09-02T08:54:28",
       "skipped_at": 1789472931,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/all-american-s01-and-s02-complete-tv-series/": {
+      "status": "partial",
+      "signature": "14334|https://thenkiri.com/all-american-s01-and-s02-complete-tv-series/|2021-03-29T13:23:13|2024-01-08T11:39:18|{'rendered': 'All American S01 and S02 ( Complete )  | TV Series'}",
+      "modified": "2024-01-08T11:39:18",
+      "completed_at": 1789473038,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3656,6 +3663,7 @@
     "https://downloadwella.com/wdoljlas2kwf/Shadow.and.Bone.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/-Hn0WIF4P7cadWd_RigOQCnhODoALjLg",
     "https://downloadwella.com/2iap90zsc02s/Shadow.and.Bone.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_SCtAuJe241gTzp72QWbNnaZdBUMnZBJ",
     "https://downloadwella.com/0yd72xv7ordw/Shadow.and.Bone.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/zK7ONOzBsg0xB4jRaaZaT-sISpxQ9pnZ",
-    "https://downloadwella.com/t9w23abc4w56/Shadow.and.Bone.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2mdwPeNX19eN9m0xF8CpKS1g7FSNDfmt"
+    "https://downloadwella.com/t9w23abc4w56/Shadow.and.Bone.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/2mdwPeNX19eN9m0xF8CpKS1g7FSNDfmt",
+    "https://downloadwella.com/phubihyd5lnn/All.American.2018.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Vb6RyHXcU3CZ4xf-KRwdQl_xaet-FpEm"
   }
 }
