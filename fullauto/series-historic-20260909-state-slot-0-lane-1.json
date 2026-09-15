@@ -1814,6 +1814,13 @@
       "modified": "2023-09-02T13:15:07",
       "skipped_at": 1789467736,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hanna-s03-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32657|https://thenkiri.com/hanna-s03-complete-tv-series/|2021-11-26T07:59:41|2023-09-02T13:05:35|{'rendered': 'Hanna S03 ( Complete ) | TV Series'}",
+      "modified": "2023-09-02T13:05:35",
+      "skipped_at": 1789467832,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
