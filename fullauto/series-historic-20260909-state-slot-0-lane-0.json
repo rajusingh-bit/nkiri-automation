@@ -1656,6 +1656,13 @@
       "modified": "2023-09-02T14:58:17",
       "skipped_at": 1789464813,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/primal-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46893|https://thenkiri.com/primal-s01-complete-tv-series/|2022-07-22T15:34:05|2023-09-02T14:44:36|{'rendered': 'Primal S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:44:36",
+      "skipped_at": 1789464851,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
