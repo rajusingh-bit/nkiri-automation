@@ -1671,6 +1671,13 @@
       "modified": "2023-09-02T15:06:25",
       "completed_at": 1789462446,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/la-jauria-s01-complete-spanish-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46738|https://thenkiri.com/la-jauria-s01-complete-spanish-tv-series/|2022-07-20T10:57:44|2023-09-02T14:46:48|{'rendered': 'La Jauria S01 (Complete) | Spanish TV Series'}",
+      "modified": "2023-09-02T14:46:48",
+      "skipped_at": 1789462482,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
