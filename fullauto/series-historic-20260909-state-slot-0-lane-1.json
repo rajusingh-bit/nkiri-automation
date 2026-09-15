@@ -1905,6 +1905,13 @@
       "modified": "2024-01-08T11:39:18",
       "completed_at": 1789473038,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/the-falcon-and-the-winter-solider-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14268|https://thenkiri.com/the-falcon-and-the-winter-solider-tv-series/|2021-03-29T13:16:38|2023-09-02T08:50:33|{'rendered': 'The Falcon and the Winter Solider S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:33",
+      "skipped_at": 1789473108,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
