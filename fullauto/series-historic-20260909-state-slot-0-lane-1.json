@@ -1772,6 +1772,13 @@
       "signature": "37409|https://thenkiri.com/breaking-bad-s01-and-s02-complete-tv-series/|2022-03-03T13:22:07|2023-09-02T13:10:31|{'rendered': 'Breaking Bad S01 and S02 (Complete) | TV Series'}",
       "modified": "2023-09-02T13:10:31",
       "completed_at": 1789466919
+    },
+    "https://thenkiri.com/bel-air-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "36583|https://thenkiri.com/bel-air-s01-complete-tv-series/|2022-02-14T07:52:50|2023-09-02T13:42:46|{'rendered': 'Bel-Air S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:42:46",
+      "skipped_at": 1789467094,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
