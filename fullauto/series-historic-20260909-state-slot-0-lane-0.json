@@ -1670,6 +1670,13 @@
       "modified": "2023-09-02T14:47:31",
       "skipped_at": 1789464890,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/maggie-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46104|https://thenkiri.com/maggie-s01-complete-tv-series/|2022-07-10T06:11:29|2023-09-02T14:42:05|{'rendered': 'Maggie S01 (Complete)  | TV Series'}",
+      "modified": "2023-09-02T14:42:05",
+      "skipped_at": 1789464976,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
