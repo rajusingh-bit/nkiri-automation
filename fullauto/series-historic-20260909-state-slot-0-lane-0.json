@@ -1903,6 +1903,13 @@
       "modified": "2023-09-02T08:50:17",
       "skipped_at": 1789471475,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/snowpiercer-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14241|https://thenkiri.com/snowpiercer-s01-complete-tv-series/|2021-03-29T13:12:51|2023-09-02T08:50:46|{'rendered': 'Snowpiercer S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:46",
+      "skipped_at": 1789471580,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
