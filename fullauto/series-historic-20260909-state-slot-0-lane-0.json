@@ -1759,6 +1759,13 @@
       "modified": "2023-09-02T13:12:29",
       "skipped_at": 1789466947,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/peaky-blinders-s06-complete-tv-series/": {
+      "status": "partial",
+      "signature": "37252|https://thenkiri.com/peaky-blinders-s06-complete-tv-series/|2022-02-28T06:40:49|2024-02-26T19:29:54|{'rendered': 'Peaky Blinders S06 (Complete) | TV Series'}",
+      "modified": "2024-02-26T19:29:54",
+      "completed_at": 1789467196,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3493,6 +3500,7 @@
     "https://downloadwella.com/k03ro7fyqjvu/Moon.Knight.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/4NbBvL9c0uqXjdpgM4PPA0pVkCteTqWG",
     "https://downloadwella.com/61qhx9jgkdmd/Moon.Knight.S01E04.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/do_4IDt31lAtfipMvgHPGfFOyPziqucp",
     "https://downloadwella.com/z4hl9bq6h1yg/Moon.Knight.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/h8HJ2eQM-eAFm1NVUZGibuSYc7vldKLA",
-    "https://downloadwella.com/wgip2msr3cf0/Moon.Knight.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q_GX0oMnQOnMvdl416g01Vc2yhzNc4DS"
+    "https://downloadwella.com/wgip2msr3cf0/Moon.Knight.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Q_GX0oMnQOnMvdl416g01Vc2yhzNc4DS",
+    "https://downloadwella.com/avc5bhq4us6z/Peaky.Blinders.S06E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tkxQhcO_c51RXFo7sDKiK5BhOSh1GECn"
   }
 }
