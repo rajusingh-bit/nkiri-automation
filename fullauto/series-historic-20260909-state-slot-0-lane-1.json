@@ -1678,6 +1678,13 @@
       "modified": "2023-09-02T14:46:48",
       "skipped_at": 1789462482,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/victorious-s01-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "46298|https://thenkiri.com/victorious-s01-s02-complete-tv-series/|2022-07-13T16:45:09|2023-09-02T14:40:51|{'rendered': 'Victorious S01 & S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:40:51",
+      "skipped_at": 1789462530,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
