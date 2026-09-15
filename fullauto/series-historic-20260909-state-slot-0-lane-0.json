@@ -1835,6 +1835,13 @@
       "modified": "2023-09-02T10:12:59",
       "skipped_at": 1789469429,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/alice-in-borderland-s01-complete-japanese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30375|https://thenkiri.com/alice-in-borderland-s01-complete-japanese-drama/|2021-10-11T18:41:46|2023-09-02T10:05:23|{'rendered': 'Alice in Borderland S01 (Complete) | Japanese Drama'}",
+      "modified": "2023-09-02T10:05:23",
+      "skipped_at": 1789469544,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
