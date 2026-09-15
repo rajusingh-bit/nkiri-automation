@@ -1889,6 +1889,13 @@
       "modified": "2023-09-02T08:58:05",
       "skipped_at": 1789471313,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-mandalorian-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14197|https://thenkiri.com/the-mandalorian-s01-complete-tv-series/|2021-03-29T13:58:03|2023-09-02T08:49:57|{'rendered': 'The Mandalorian S01 and S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:49:57",
+      "skipped_at": 1789471436,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
