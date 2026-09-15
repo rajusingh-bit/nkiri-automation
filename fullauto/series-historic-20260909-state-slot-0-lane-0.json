@@ -1807,6 +1807,13 @@
       "modified": "2023-09-02T13:13:35",
       "skipped_at": 1789468993,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/yellowjackets-s01-episode-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "32402|https://thenkiri.com/yellowjackets-s01-episode-2-added-tv-series/|2021-11-22T10:47:02|2023-09-02T13:06:33|{'rendered': 'Yellowjackets S01 (Episode 10 Added) | TV Series'}",
+      "modified": "2023-09-02T13:06:33",
+      "skipped_at": 1789469128,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
