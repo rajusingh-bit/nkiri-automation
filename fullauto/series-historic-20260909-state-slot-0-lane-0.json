@@ -1677,6 +1677,13 @@
       "modified": "2023-09-02T14:42:05",
       "skipped_at": 1789464976,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/baymax-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "45300|https://thenkiri.com/baymax-s01-complete-tv-series/|2022-06-29T18:37:59|2023-09-02T14:28:12|{'rendered': 'Baymax! S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:28:12",
+      "skipped_at": 1789465046,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
