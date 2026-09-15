@@ -1712,6 +1712,13 @@
       "modified": "2023-09-02T14:06:32",
       "skipped_at": 1789463527,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/kaguya-sama-wa-kokurasetai-love-is-war-complete-anime-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "43628|https://thenkiri.com/kaguya-sama-wa-kokurasetai-love-is-war-complete-anime-tv-series/|2022-06-07T08:52:07|2023-09-02T14:04:20|{'rendered': 'Kaguya sama wa Kokurasetai Love is War S01 (Complete) | Anime TV Series'}",
+      "modified": "2023-09-02T14:04:20",
+      "skipped_at": 1789463586,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
