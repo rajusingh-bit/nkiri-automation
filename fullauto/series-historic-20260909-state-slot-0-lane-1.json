@@ -1607,6 +1607,12 @@
       "signature": "68599|https://thenkiri.com/the-peripheral-complete-tv-series/|2022-10-21T09:40:32|2024-02-24T11:53:39|{'rendered': 'The Peripheral (Episode 8 Added) | TV Series'}",
       "modified": "2024-02-24T11:53:39",
       "completed_at": 1789457192
+    },
+    "https://thenkiri.com/belascoaran-complete-tv-series/": {
+      "status": "done",
+      "signature": "67810|https://thenkiri.com/belascoaran-complete-tv-series/|2022-10-13T09:55:34|2024-02-23T09:55:52|{'rendered': 'Belascoaran, PI (Complete) | TV Series'}",
+      "modified": "2024-02-23T09:55:52",
+      "completed_at": 1789457374
     }
   },
   "series_links": {
@@ -3135,6 +3141,9 @@
     "https://downloadwella.com/3gq156shyuks/The.Peripheral.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/j6qtdBN03Jt0B1UO8GgGG8Lcz7owNcb4",
     "https://downloadwella.com/8ceyupi6wik3/The.Peripheral.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HUY5CzOy_bzEAwUro4MAmpYATyitgirq",
     "https://downloadwella.com/kjnbasp47bo6/The.Peripheral.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/9lmFnbLP_RN8RX0mvLkASF66-5TR18ep",
-    "https://downloadwella.com/hmsg4k4bv7z3/The.Peripheral.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C9ZXitl-_vGG6gJMYuRMh2hZVCHpGGRi"
+    "https://downloadwella.com/hmsg4k4bv7z3/The.Peripheral.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/C9ZXitl-_vGG6gJMYuRMh2hZVCHpGGRi",
+    "https://downloadwella.com/hiyjb23qgy9v/Belascoaran.PI.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WTiZsaXhIaJePhZBfeXFxgFWFWj_LCLF",
+    "https://downloadwella.com/03f3h5e9znk9/Belascoaran.PI.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kH85flpfQ1_LZnW7Kd2KDlVH-QAo5Fup",
+    "https://downloadwella.com/bfh9v40ji17a/Belascoaran.PI.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/dv7Od9ejtCOyIvF6QFiiZy2LwBJ60p62"
   }
 }
