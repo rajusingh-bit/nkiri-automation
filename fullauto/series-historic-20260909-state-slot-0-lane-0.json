@@ -1780,6 +1780,13 @@
       "modified": "2024-02-22T15:13:45",
       "completed_at": 1789467862,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/naomi-s01-episode-1-2-added-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "35309|https://thenkiri.com/naomi-s01-episode-1-2-added-tv-series/|2022-01-19T09:58:17|2023-09-02T13:28:28|{'rendered': 'Naomi S01 (Episode 12 & 13 Added) | TV Series'}",
+      "modified": "2023-09-02T13:28:28",
+      "skipped_at": 1789467931,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
