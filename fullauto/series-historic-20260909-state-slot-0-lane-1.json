@@ -1842,6 +1842,13 @@
       "modified": "2023-09-02T10:15:10",
       "skipped_at": 1789468485,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-good-doctor-s03-complete-tv-series/": {
+      "status": "partial",
+      "signature": "30496|https://thenkiri.com/the-good-doctor-s03-complete-tv-series/|2021-10-13T12:18:47|2024-02-25T00:17:20|{'rendered': 'The Good Doctor S03 (Complete) | TV Series'}",
+      "modified": "2024-02-25T00:17:20",
+      "completed_at": 1789468915,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3530,6 +3537,11 @@
     "https://downloadwella.com/1rb170vdbl3p/Mayor.of.Kingstown.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/5htvAoIhz_ycWsvEEMlKRmnvj2cTvopW",
     "https://downloadwella.com/rnocd6aq2enl/Mayor.of.Kingstown.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MPLZ1PTWWlCSXFsfILCXUHPwD5G_r-Dv",
     "https://downloadwella.com/3vaqrpbhlshf/Mayor.of.Kingstown.S01E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/ezr-qk1-w-w6p3-NieccWoTrIHFcEDyu",
-    "https://downloadwella.com/fwxug6gueljz/Mayor.of.Kingstown.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7O_i1FyNBNxTnoasCPaEOTRYmzuqYUUS"
+    "https://downloadwella.com/fwxug6gueljz/Mayor.of.Kingstown.S01E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/7O_i1FyNBNxTnoasCPaEOTRYmzuqYUUS",
+    "https://downloadwella.com/xrnfd91t4vtr/The.Good.Doctor.S03E09.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/abWqmex70aIvSFjUnrgXfkhZuZPAzkmK",
+    "https://downloadwella.com/k68zcw4p1g3p/The.Good.Doctor.S03E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_8ooYMcEueEPgrsCtiGNwzPRrbXKk6Vu",
+    "https://downloadwella.com/nkypa2ntqza4/The.Good.Doctor.S03E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/HkCkRbB3ufqsX-PEtVSH81xicc23yAtX",
+    "https://downloadwella.com/bhx83vw4qkyv/The.Good.Doctor.S03E18.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_9z990Ze1VJ9maHRft6CxzeJNGGDxJwg",
+    "https://downloadwella.com/dcy4d13aa75t/The.Good.Doctor.S03E19.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LFK6a1ardV3ULpjB2W4toX85TmXg0EKW"
   }
 }
