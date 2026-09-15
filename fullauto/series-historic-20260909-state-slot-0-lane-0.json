@@ -1896,6 +1896,13 @@
       "modified": "2023-09-02T08:49:57",
       "skipped_at": 1789471436,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-boys-s02-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "14309|https://thenkiri.com/the-boys-s02-complete-tv-series/|2021-03-29T13:20:38|2023-09-02T08:50:17|{'rendered': 'The Boys S02 (Complete) | TV Series'}",
+      "modified": "2023-09-02T08:50:17",
+      "skipped_at": 1789471475,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
