@@ -1835,6 +1835,13 @@
       "modified": "2023-09-02T10:50:15",
       "skipped_at": 1789468302,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/game-of-thrones-s07-and-s08-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "30818|https://thenkiri.com/game-of-thrones-s07-and-s08-complete-tv-series/|2021-10-19T14:29:21|2023-09-02T10:15:10|{'rendered': 'Game of Thrones S07 and S08 (Complete ) | TV Series'}",
+      "modified": "2023-09-02T10:15:10",
+      "skipped_at": 1789468485,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
