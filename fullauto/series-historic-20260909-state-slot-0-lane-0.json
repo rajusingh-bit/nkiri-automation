@@ -1732,6 +1732,13 @@
       "modified": "2023-09-02T13:47:40",
       "skipped_at": 1789466043,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/russian-doll-s01-complete-tv-series/": {
+      "status": "partial",
+      "signature": "40097|https://thenkiri.com/russian-doll-s01-complete-tv-series/|2022-04-20T21:20:15|2023-09-02T13:43:05|{'rendered': 'Russian Doll S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:43:05",
+      "completed_at": 1789466424,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -3453,6 +3460,13 @@
     "https://downloadwella.com/iyxlngnj0qpv/The.Last.Kingdom.S02E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/PD6kuW9hnIGdE1FnSa0YnN-Wpi2RaGAS",
     "https://downloadwella.com/ehs42y3g9qvb/The.Last.Kingdom.S02E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/YiA_SN26c8-SiUXZr-01kTE2Vcb3D-xs",
     "https://downloadwella.com/6lzx9gv5z8gn/The.Last.Kingdom.S02E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/xUcCeul_8H0IxzAKkNySQnG7w65JERGh",
-    "https://downloadwella.com/7hug32l8e46n/The.Last.Kingdom.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tvFpxaIVLL4nq1FlvKlmP9aPIx3MJ7BV"
+    "https://downloadwella.com/7hug32l8e46n/The.Last.Kingdom.S02E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/tvFpxaIVLL4nq1FlvKlmP9aPIx3MJ7BV",
+    "https://downloadwella.com/sferyo9585yj/Russian.Doll.S01E01.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/b7IaHFwgxcL-SDyd9Tdr_OkDRkZ3cdJu",
+    "https://downloadwella.com/b585o8jbm628/Russian.Doll.S01E02.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/EpJafmJ0ftf9bT1otdaldIE2ivEkel1R",
+    "https://downloadwella.com/cqa1vvckinse/Russian.Doll.S01E03.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/NiZgWiVqXfv0m-BN_24JTV2e6AmYReNq",
+    "https://downloadwella.com/74u9xgjw37z1/Russian.Doll.S01E05.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lJyozSS6cId-rKMHYEpNzyCBX1gISlSp",
+    "https://downloadwella.com/ncg0ixb8k4sp/Russian.Doll.S01E06.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/GaGfTEnhiBx39xdqeEjHxzWAJS0H6OBU",
+    "https://downloadwella.com/1bfphiegsv35/Russian.Doll.S01E07.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/kBciUNyMmYb1gG6SBJCr-7u8WTQVRYzF",
+    "https://downloadwella.com/2t27j4onqakw/Russian.Doll.S01E08.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/a1dNYgeiPwuMBUiYFyxI_WAFBn32WC7s"
   }
 }
