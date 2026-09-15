@@ -1745,6 +1745,13 @@
       "signature": "40331|https://thenkiri.com/icarly-s01-complete-tv-series/|2022-04-22T21:16:51|2024-01-08T11:35:14|{'rendered': 'iCarly S01 (Complete) | TV Series'}",
       "modified": "2024-01-08T11:35:14",
       "completed_at": 1789465313
+    },
+    "https://thenkiri.com/swimming-with-sharks-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "39748|https://thenkiri.com/swimming-with-sharks-s01-complete-tv-series/|2022-04-16T07:54:37|2023-09-02T13:40:54|{'rendered': 'Swimming With Sharks S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T13:40:54",
+      "skipped_at": 1789465419,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
