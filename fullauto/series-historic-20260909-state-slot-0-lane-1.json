@@ -1793,6 +1793,13 @@
       "modified": "2023-09-02T13:27:29",
       "skipped_at": 1789467280,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-journalist-s01-complete-japanese-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "35169|https://thenkiri.com/the-journalist-s01-complete-japanese-drama/|2022-01-16T12:46:54|2023-09-02T13:25:21|{'rendered': 'The Journalist S01 (Complete) | Japanese Drama'}",
+      "modified": "2023-09-02T13:25:21",
+      "skipped_at": 1789467369,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
