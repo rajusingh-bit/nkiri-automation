@@ -1698,6 +1698,13 @@
       "signature": "45163|https://thenkiri.com/the-end-of-the-fucking-world-complete-tv-series/|2022-06-28T09:36:41|2023-09-02T14:20:12|{'rendered': 'The End of the Fucking World S01 & S02 (Complete) | TV Series'}",
       "modified": "2023-09-02T14:20:12",
       "completed_at": 1789463363
+    },
+    "https://thenkiri.com/the-summer-i-turned-pretty-s01-complete-tv-series/": {
+      "status": "skipped_unavailable",
+      "signature": "44302|https://thenkiri.com/the-summer-i-turned-pretty-s01-complete-tv-series/|2022-06-17T15:23:31|2023-09-02T14:11:43|{'rendered': 'The Summer I Turned Pretty S01 (Complete) | TV Series'}",
+      "modified": "2023-09-02T14:11:43",
+      "skipped_at": 1789463421,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
