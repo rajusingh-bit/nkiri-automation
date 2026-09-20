@@ -868,6 +868,13 @@
       "modified": "2024-02-24T09:38:35",
       "skipped_at": 1789940713,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/love-and-wish-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "34117|https://thenkiri.com/love-and-wish-complete-korean-drama/|2021-12-28T08:25:18|2023-09-02T13:15:20|{'rendered': 'Love and Wish (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:15:20",
+      "skipped_at": 1789940767,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
