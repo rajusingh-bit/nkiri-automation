@@ -743,6 +743,13 @@
       "signature": "64929|https://thenkiri.com/narcos-saints-s01-english-audio-complete-korean-drama/|2022-09-09T17:32:45|2023-12-15T05:41:07|{'rendered': 'Narcos Saints S01 ENGLISH AUDIO (Complete) | Korean Drama'}",
       "modified": "2023-12-15T05:41:07",
       "completed_at": 1789935395
+    },
+    "https://thenkiri.com/a-model-family-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "57797|https://thenkiri.com/a-model-family-s01-complete-korean-drama/|2022-08-17T20:46:06|2023-09-02T15:09:20|{'rendered': 'A Model Family S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T15:09:20",
+      "skipped_at": 1789935476,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
