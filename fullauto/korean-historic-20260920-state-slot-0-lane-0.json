@@ -997,6 +997,13 @@
       "modified": "2023-09-02T08:37:12",
       "skipped_at": 1789948741,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-uncanny-counter-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9987|https://thenkiri.com/the-uncanny-counter-korean-drama/|2021-01-04T13:31:46|2023-09-02T08:28:07|{'rendered': 'The Uncanny Counter | Korean Drama'}",
+      "modified": "2023-09-02T08:28:07",
+      "skipped_at": 1789948787,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
