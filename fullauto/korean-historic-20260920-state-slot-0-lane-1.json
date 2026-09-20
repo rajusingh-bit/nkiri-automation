@@ -819,6 +819,13 @@
       "modified": "2023-09-02T13:36:11",
       "skipped_at": 1789939274,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/the-king-of-pigs-episode-1-2-added-korean-drama/": {
+      "status": "partial",
+      "signature": "38614|https://thenkiri.com/the-king-of-pigs-episode-1-2-added-korean-drama/|2022-03-26T07:29:32|2023-09-02T13:24:42|{'rendered': 'The King of Pigs (Episode 11 & 12 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:24:42",
+      "completed_at": 1789939454,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1044,6 +1051,8 @@
     "https://downloadwella.com/cg1es8avp55u/The.Liar.and.His.Lover.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/AyM8SeVRMAJyvV0PqEZ0lZp2KNYYjdYy",
     "https://downloadwella.com/d3mri3kbvytf/The.Liar.and.His.Lover.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/iCMQoBKXNBJQmWV_i6k062ekUnhrQHd4",
     "https://downloadwella.com/ytv8mvpvrm4x/The.Liar.and.His.Lover.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1TN6HGwHMU-tY6a-SkIYTIu64loLGG42",
-    "https://downloadwella.com/x94yaprghman/The.Liar.and.His.Lover.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wyGe689PAh6LXqM2ICaU2yveCt_GUcZW"
+    "https://downloadwella.com/x94yaprghman/The.Liar.and.His.Lover.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wyGe689PAh6LXqM2ICaU2yveCt_GUcZW",
+    "https://downloadwella.com/9eqhsp3dxdav/The.King.of.Pigs.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lqd7akZZh094i3Ien-gthBfewDV6xhdm",
+    "https://downloadwella.com/a52fav2volv4/The.King.of.Pigs.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pM7WJfeyMoj4gERsT2fSjdwA0-UJBXbp"
   }
 }
