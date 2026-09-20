@@ -698,6 +698,13 @@
       "signature": "95285|https://thenkiri.com/nineteen-to-twenty-s01-complete-korean-variety-show/|2023-07-12T07:25:47|2024-09-09T07:50:31|{'rendered': 'Nineteen to Twenty S01 (Episodes 11-13 Added) | Korean Variety Show'}",
       "modified": "2024-09-09T07:50:31",
       "completed_at": 1789933547
+    },
+    "https://thenkiri.com/meant-to-be-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "88995|https://thenkiri.com/meant-to-be-complete-korean-drama/|2023-05-09T14:53:10|2023-11-01T06:00:22|{'rendered': 'Meant To Be (Complete) | Korean Drama'}",
+      "modified": "2023-11-01T06:00:22",
+      "completed_at": 1789933728,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -786,6 +793,9 @@
     "https://downloadwella.com/rb099lcrvabs/Nineteen.to.Twenty.E10.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p9USaGLernH1dfN5-Ml_Z7M-wwVgrdMb",
     "https://downloadwella.com/pxpewav1o8rb/Nineteen.to.Twenty.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/owtCM4FtuEQlMM2Ogxij9HAnXAPFC10O",
     "https://downloadwella.com/6kqpgs6moh4n/Nineteen.to.Twenty.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/eQRVuhFZoYQ4-mwkxg-1pv5y1kZTtj69",
-    "https://downloadwella.com/l6img8pyjel7/Nineteen.to.Twenty.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Htm8tThFVO-TemZijTWOXyIDh8in6Z6S"
+    "https://downloadwella.com/l6img8pyjel7/Nineteen.to.Twenty.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Htm8tThFVO-TemZijTWOXyIDh8in6Z6S",
+    "https://downloadwella.com/yb0rbvlz5v7f/Meant.to.Be.E64.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/lCQ1EOO5M9FEOamQAp4aAFP6-auli5Of",
+    "https://downloadwella.com/01qdz7aqr3pk/Meant.to.Be.E71.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/LhoO6tU7YS4dqWyGpioOzX9a7h_NsdKv",
+    "https://downloadwella.com/1budd6nal5tc/Meant.to.Be.E103.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uzZFrenCOdJB7wmQS7KBs6xA8cPoujdX"
   }
 }
