@@ -942,6 +942,13 @@
       "signature": "17429|https://thenkiri.com/love-ft-marriage-and-divorce-2-episode-1-korean-drama/|2021-06-12T18:55:18|2023-09-02T09:22:04|{'rendered': 'Love Ft Marriage and Divorce 2 ( Complete ) | Korean Drama'}",
       "modified": "2023-09-02T09:22:04",
       "completed_at": 1789947566
+    },
+    "https://thenkiri.com/move-to-heaven-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16844|https://thenkiri.com/move-to-heaven-complete-korean-drama/|2021-05-31T09:11:15|2023-09-02T09:16:39|{'rendered': 'Move to Heaven (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:16:39",
+      "skipped_at": 1789947650,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
