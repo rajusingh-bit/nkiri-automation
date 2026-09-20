@@ -1044,6 +1044,13 @@
       "signature": "6355|https://thenkiri.com/backstreet-rookie-480p-korean-drama/|2020-06-29T08:08:06|2024-02-24T15:40:39|{'rendered': 'Backstreet Rookie (480p & Complete) | Korean Drama'}",
       "modified": "2024-02-24T15:40:39",
       "completed_at": 1789945905
+    },
+    "https://thenkiri.com/whats-wrong-with-secretary-kim-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "5743|https://thenkiri.com/whats-wrong-with-secretary-kim-complete-korean-drama/|2020-06-09T08:37:55|2023-09-02T07:32:44|{'rendered': 'Whats Wrong with Secretary Kim (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T07:32:44",
+      "skipped_at": 1789945951,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
