@@ -970,6 +970,13 @@
       "modified": "2023-09-02T09:02:40",
       "skipped_at": 1789948021,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/playful-kiss-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13993|https://thenkiri.com/playful-kiss-complete-korean-drama/|2021-03-22T07:15:54|2023-09-02T08:48:12|{'rendered': 'Playful Kiss (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:48:12",
+      "skipped_at": 1789948056,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
