@@ -826,6 +826,13 @@
       "modified": "2023-09-02T13:24:42",
       "completed_at": 1789939454,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/grand-prince-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37994|https://thenkiri.com/grand-prince-s01-complete-korean-drama/|2022-03-15T17:12:27|2023-09-02T13:15:24|{'rendered': 'Grand Prince S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:15:24",
+      "skipped_at": 1789939657,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
