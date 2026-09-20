@@ -1019,6 +1019,13 @@
       "modified": "2023-09-02T08:26:09",
       "skipped_at": 1789943837,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/start-up-korean-drama__trashed/": {
+      "status": "skipped_unavailable",
+      "signature": "9294|https://thenkiri.com/start-up-korean-drama__trashed/|2020-11-10T13:09:03|2023-09-02T08:18:36|{'rendered': 'Start-Up S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:18:36",
+      "skipped_at": 1789943884,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
