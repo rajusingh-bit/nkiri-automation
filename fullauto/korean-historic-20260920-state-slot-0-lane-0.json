@@ -741,6 +741,13 @@
       "signature": "63352|https://thenkiri.com/good-job-s01-episodes-1-added-korean-drama/|2022-08-24T17:40:28|2024-12-27T10:18:17|{'rendered': 'Good Job S01 (Episodes 12 Added) | Korean Drama'}",
       "modified": "2024-12-27T10:18:17",
       "completed_at": 1789941416
+    },
+    "https://thenkiri.com/the-good-wife-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "47137|https://thenkiri.com/the-good-wife-s01-complete-korean-drama/|2022-07-27T07:53:31|2023-12-19T07:15:47|{'rendered': 'The Good Wife S01 (Complete) | Korean Drama'}",
+      "modified": "2023-12-19T07:15:47",
+      "skipped_at": 1789941587,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
