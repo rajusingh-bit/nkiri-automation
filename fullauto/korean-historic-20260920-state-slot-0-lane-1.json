@@ -910,6 +910,13 @@
       "modified": "2023-09-02T10:50:08",
       "skipped_at": 1789941394,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/reply-1997-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30669|https://thenkiri.com/reply-1997-complete-korean-drama/|2021-10-15T20:33:58|2023-09-02T10:15:53|{'rendered': 'Reply 1997 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:15:53",
+      "skipped_at": 1789941495,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
