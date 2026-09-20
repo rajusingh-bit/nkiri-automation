@@ -798,6 +798,13 @@
       "modified": "2023-09-02T13:53:33",
       "skipped_at": 1789938770,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/confession-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "40895|https://thenkiri.com/confession-s01-complete-korean-drama/|2022-04-29T08:40:29|2023-09-02T13:47:27|{'rendered': 'Confession S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:47:27",
+      "skipped_at": 1789938914,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
