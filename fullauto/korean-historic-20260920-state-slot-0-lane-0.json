@@ -800,6 +800,13 @@
       "signature": "40627|https://thenkiri.com/at-eighteen-s01-complete-korean-drama/|2022-04-26T12:29:05|2023-12-19T07:45:23|{'rendered': 'At Eighteen S01 (Complete) | Korean Drama'}",
       "modified": "2023-12-19T07:45:23",
       "completed_at": 1789943311
+    },
+    "https://thenkiri.com/hope-or-dope-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39230|https://thenkiri.com/hope-or-dope-s01-complete-korean-drama/|2022-04-07T09:38:00|2023-09-02T13:39:45|{'rendered': 'Hope or Dope S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:39:45",
+      "skipped_at": 1789943403,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
