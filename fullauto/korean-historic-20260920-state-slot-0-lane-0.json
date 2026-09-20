@@ -835,6 +835,13 @@
       "modified": "2023-09-02T13:04:57",
       "skipped_at": 1789944060,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-53/": {
+      "status": "skipped_unavailable",
+      "signature": "36681|https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-53/|2022-02-16T08:06:09|2023-09-02T13:42:31|{'rendered': 'Fishbowl Wives S01 (Complete) | Japanese Drama'}",
+      "modified": "2023-09-02T13:42:31",
+      "skipped_at": 1789944163,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
