@@ -847,6 +847,13 @@
       "modified": "2023-09-02T13:08:41",
       "skipped_at": 1789940109,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/twenty-five-twenty-one-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "36521|https://thenkiri.com/twenty-five-twenty-one-complete-korean-drama/|2022-02-12T16:27:41|2023-09-02T13:42:57|{'rendered': 'Twenty Five Twenty One (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:42:57",
+      "skipped_at": 1789940332,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
