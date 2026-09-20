@@ -870,6 +870,13 @@
       "modified": "2023-09-02T13:13:08",
       "skipped_at": 1789944543,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/life-on-mars-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32937|https://thenkiri.com/life-on-mars-s01-complete-korean-drama/|2021-12-01T07:44:20|2023-09-02T13:08:12|{'rendered': 'Life on Mars S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:08:12",
+      "skipped_at": 1789944713,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
