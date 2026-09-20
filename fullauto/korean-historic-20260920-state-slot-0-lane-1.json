@@ -949,6 +949,13 @@
       "modified": "2023-09-02T09:25:32",
       "skipped_at": 1789942727,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/voice-2-complete-s02-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "17140|https://thenkiri.com/voice-2-complete-s02-korean-drama/|2021-06-07T06:27:58|2023-09-02T09:18:52|{'rendered': 'Voice 2 (Complete S02) | Korean Drama'}",
+      "modified": "2023-09-02T09:18:52",
+      "skipped_at": 1789942764,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
