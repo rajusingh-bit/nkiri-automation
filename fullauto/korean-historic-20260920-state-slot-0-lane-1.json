@@ -984,6 +984,13 @@
       "modified": "2023-09-02T08:54:13",
       "completed_at": 1789943655,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/love-ft-marriage-and-divorce-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13876|https://thenkiri.com/love-ft-marriage-and-divorce-korean-drama/|2021-03-17T11:44:50|2023-09-02T08:45:23|{'rendered': 'Love ft Marriage and Divorce S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:45:23",
+      "skipped_at": 1789943692,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
