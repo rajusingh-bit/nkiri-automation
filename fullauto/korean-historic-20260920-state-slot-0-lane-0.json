@@ -748,6 +748,13 @@
       "modified": "2023-12-19T07:15:47",
       "skipped_at": 1789941587,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/welcome-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46159|https://thenkiri.com/welcome-s01-complete-korean-drama/|2022-07-11T13:25:41|2023-09-02T14:41:43|{'rendered': 'Welcome S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T14:41:43",
+      "skipped_at": 1789941622,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
