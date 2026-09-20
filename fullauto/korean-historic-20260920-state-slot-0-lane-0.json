@@ -821,6 +821,13 @@
       "modified": "2023-09-02T13:14:16",
       "completed_at": 1789943749,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/kill-heel-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37748|https://thenkiri.com/kill-heel-episode-1-added-korean-drama/|2022-03-10T14:00:53|2023-09-02T13:12:45|{'rendered': 'Kill Heel (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:12:45",
+      "skipped_at": 1789943949,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
