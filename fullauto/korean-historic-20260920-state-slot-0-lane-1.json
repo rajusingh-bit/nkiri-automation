@@ -805,6 +805,13 @@
       "modified": "2023-09-02T13:47:27",
       "skipped_at": 1789938914,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/less-than-evil-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "39964|https://thenkiri.com/less-than-evil-s01-complete-korean-drama/|2022-04-19T14:14:01|2023-09-02T13:43:33|{'rendered': 'Less Than Evil S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:43:33",
+      "skipped_at": 1789939089,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
