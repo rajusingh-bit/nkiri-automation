@@ -750,6 +750,13 @@
       "modified": "2023-09-02T15:09:20",
       "skipped_at": 1789935476,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/shine-or-go-crazy-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "46744|https://thenkiri.com/shine-or-go-crazy-korean-drama/|2022-07-20T11:14:12|2024-05-03T11:14:59|{'rendered': 'Shine or Go Crazy (Complete) | Korean Drama'}",
+      "modified": "2024-05-03T11:14:59",
+      "skipped_at": 1789935544,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
