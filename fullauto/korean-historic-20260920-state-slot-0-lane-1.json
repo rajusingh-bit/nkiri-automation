@@ -875,6 +875,13 @@
       "modified": "2023-09-02T13:15:20",
       "skipped_at": 1789940767,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/uncle-episode-2-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "33506|https://thenkiri.com/uncle-episode-2-added-korean-drama/|2021-12-13T12:35:34|2023-09-02T13:10:05|{'rendered': 'Uncle (Episode 16 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:10:05",
+      "skipped_at": 1789940928,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
