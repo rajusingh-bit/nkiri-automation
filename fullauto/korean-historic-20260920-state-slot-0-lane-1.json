@@ -956,6 +956,13 @@
       "modified": "2023-09-02T09:18:52",
       "skipped_at": 1789942764,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/hospital-ship-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "16650|https://thenkiri.com/hospital-ship-s01-complete-korean-drama/|2021-05-27T14:51:02|2023-09-02T09:13:50|{'rendered': 'Hospital Ship S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:13:50",
+      "skipped_at": 1789942942,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
