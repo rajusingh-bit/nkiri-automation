@@ -970,6 +970,13 @@
       "modified": "2023-09-02T09:09:55",
       "skipped_at": 1789943296,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/sky-castle-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15575|https://thenkiri.com/sky-castle-complete-korean-drama/|2021-04-26T10:35:05|2023-09-02T09:01:50|{'rendered': 'SKY Castle (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:01:50",
+      "skipped_at": 1789943481,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
