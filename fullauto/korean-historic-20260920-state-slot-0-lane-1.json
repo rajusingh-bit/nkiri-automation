@@ -998,6 +998,13 @@
       "modified": "2023-09-02T08:44:23",
       "skipped_at": 1789943733,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/my-gangnam-beauty-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13368|https://thenkiri.com/my-gangnam-beauty-korean-drama/|2021-02-22T10:24:31|2023-09-02T08:38:36|{'rendered': 'My Gangnam Beauty  | Korean Drama'}",
+      "modified": "2023-09-02T08:38:36",
+      "skipped_at": 1789943768,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
