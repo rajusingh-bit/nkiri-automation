@@ -963,6 +963,13 @@
       "modified": "2023-09-02T09:13:50",
       "skipped_at": 1789942942,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/gu-family-book-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15975|https://thenkiri.com/gu-family-book-complete-korean-drama/|2021-05-08T08:35:26|2023-09-02T09:09:55|{'rendered': 'Gu Family Book (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:09:55",
+      "skipped_at": 1789943296,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
