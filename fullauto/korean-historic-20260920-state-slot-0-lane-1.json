@@ -991,6 +991,13 @@
       "modified": "2023-09-02T08:45:23",
       "skipped_at": 1789943692,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/doctors-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13598|https://thenkiri.com/doctors-complete-korean-drama/|2021-03-04T11:39:58|2023-09-02T08:44:23|{'rendered': 'Doctors (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:44:23",
+      "skipped_at": 1789943733,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
