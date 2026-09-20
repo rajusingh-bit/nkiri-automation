@@ -854,6 +854,13 @@
       "modified": "2023-09-02T13:42:57",
       "skipped_at": 1789940332,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/ove-in-the-moonlight-complete-korean-drama-2/": {
+      "status": "skipped_unavailable",
+      "signature": "35440|https://thenkiri.com/ove-in-the-moonlight-complete-korean-drama-2/|2022-01-22T17:25:57|2023-09-02T13:27:40|{'rendered': 'Color Rush S02 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:27:40",
+      "skipped_at": 1789940406,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
