@@ -705,6 +705,13 @@
       "modified": "2023-11-01T06:00:22",
       "completed_at": 1789933728,
       "reason": "one or more source links were unavailable"
+    },
+    "https://thenkiri.com/our-dating-sim-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "84011|https://thenkiri.com/our-dating-sim-complete-korean-drama/|2023-03-09T14:39:45|2023-09-02T17:23:30|{'rendered': 'Our Dating Sim S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T17:23:30",
+      "skipped_at": 1789933776,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
