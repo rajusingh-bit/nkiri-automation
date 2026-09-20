@@ -935,6 +935,13 @@
       "signature": "19294|https://thenkiri.com/doctor-prisoner-s01-complete-korean-drama-monthly-magazine-home-episode-1-korean-drama-2/|2021-07-26T13:17:43|2023-09-02T09:35:50|{'rendered': 'Doctor Prisoner S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T09:35:50",
       "completed_at": 1789942631
+    },
+    "https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-31/": {
+      "status": "skipped_unavailable",
+      "signature": "18155|https://thenkiri.com/monthly-magazine-home-episode-1-korean-drama-31/|2021-06-29T09:53:36|2023-09-02T09:28:33|{'rendered': 'Bring it on Ghost (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:28:33",
+      "skipped_at": 1789942677,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
