@@ -833,6 +833,13 @@
       "modified": "2023-09-02T13:15:24",
       "skipped_at": 1789939657,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/mr-sunshine-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "37428|https://thenkiri.com/mr-sunshine-complete-korean-drama/|2022-03-03T13:51:28|2023-09-02T13:10:27|{'rendered': 'Mr. Sunshine (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:10:27",
+      "completed_at": 1789940001,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1060,6 +1067,7 @@
     "https://downloadwella.com/ytv8mvpvrm4x/The.Liar.and.His.Lover.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/1TN6HGwHMU-tY6a-SkIYTIu64loLGG42",
     "https://downloadwella.com/x94yaprghman/The.Liar.and.His.Lover.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wyGe689PAh6LXqM2ICaU2yveCt_GUcZW",
     "https://downloadwella.com/9eqhsp3dxdav/The.King.of.Pigs.E11.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/Lqd7akZZh094i3Ien-gthBfewDV6xhdm",
-    "https://downloadwella.com/a52fav2volv4/The.King.of.Pigs.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pM7WJfeyMoj4gERsT2fSjdwA0-UJBXbp"
+    "https://downloadwella.com/a52fav2volv4/The.King.of.Pigs.E12.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/pM7WJfeyMoj4gERsT2fSjdwA0-UJBXbp",
+    "https://downloadwella.com/cg9s01jlkgqz/Mr.Sunshine.S01E01.(NKIRI.COM).mp4": "https://v1.vidfiles.com/d/O4aPbSikVZe2g2gGP4sZ2A9vC6nLWR5S"
   }
 }
