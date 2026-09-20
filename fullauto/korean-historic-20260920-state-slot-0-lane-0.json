@@ -990,6 +990,13 @@
       "signature": "13423|https://thenkiri.com/the-penthouse-war-in-life-s02-korean-drama/|2021-02-24T09:43:46|2023-09-02T08:41:43|{'rendered': 'The Penthouse War in Life S02 ( Complete ) | Korean Drama'}",
       "modified": "2023-09-02T08:41:43",
       "completed_at": 1789948704
+    },
+    "https://thenkiri.com/royal-secret-agent-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "13138|https://thenkiri.com/royal-secret-agent-korean-drama/|2021-02-12T18:49:04|2023-09-02T08:37:12|{'rendered': 'Royal Secret Agent | Korean Drama'}",
+      "modified": "2023-09-02T08:37:12",
+      "skipped_at": 1789948741,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
