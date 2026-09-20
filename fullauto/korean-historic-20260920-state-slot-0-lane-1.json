@@ -882,6 +882,13 @@
       "modified": "2023-09-02T13:10:05",
       "skipped_at": 1789940928,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/one-ordinary-day-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32692|https://thenkiri.com/one-ordinary-day-episode-1-added-korean-drama/|2021-11-26T20:16:27|2023-09-02T13:08:56|{'rendered': 'One Ordinary Day (Episode 8 Added) | Korean Drama'}",
+      "modified": "2023-09-02T13:08:56",
+      "skipped_at": 1789941037,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
