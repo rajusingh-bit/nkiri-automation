@@ -963,6 +963,13 @@
       "modified": "2023-09-02T09:03:45",
       "skipped_at": 1789947841,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/law-school-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "15328|https://thenkiri.com/law-school-korean-drama/|2021-04-20T08:10:51|2023-09-02T09:02:40|{'rendered': 'Law School S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T09:02:40",
+      "skipped_at": 1789948021,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
