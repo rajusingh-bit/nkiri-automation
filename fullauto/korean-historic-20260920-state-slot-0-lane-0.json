@@ -877,6 +877,13 @@
       "modified": "2023-09-02T13:08:12",
       "skipped_at": 1789944713,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/big-2012-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "32185|https://thenkiri.com/big-2012-complete-korean-drama/|2021-11-18T07:45:38|2023-09-02T12:56:47|{'rendered': 'Big 2012 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T12:56:47",
+      "skipped_at": 1789944756,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
