@@ -977,6 +977,13 @@
       "modified": "2023-09-02T09:01:50",
       "skipped_at": 1789943481,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/oh-my-ladylord-oh-master-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "14633|https://thenkiri.com/oh-my-ladylord-oh-master-complete-korean-drama/|2021-04-05T08:37:53|2023-09-02T08:54:13|{'rendered': 'Oh My Ladylord / Oh! Master (Episode 16 ) | Korean Drama'}",
+      "modified": "2023-09-02T08:54:13",
+      "completed_at": 1789943655,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1249,6 +1256,7 @@
     "https://downloadwella.com/afedj1ft82hs/Doctor.Prisoner.S01.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/p4P7gubixcv3cGwB--9TdpkpAQY_aVS-",
     "https://downloadwella.com/14lo1hs7t618/Doctor.Prisoner.S01.E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/WqaKOgpeL1RgJHf9g5MZz-WVpL_AnUYY",
     "https://downloadwella.com/ydhmmcxcmju8/Doctor.Prisoner.S01.E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/OwI6hIy8PhGWJxaXLo0WeCSVw3xqZoEL",
-    "https://downloadwella.com/x5nauxvpkfmk/Doctor.Prisoner.S01.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o51MiOx1kOhxO6Xp4CI_5y2G_wMJ9HNu"
+    "https://downloadwella.com/x5nauxvpkfmk/Doctor.Prisoner.S01.E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/o51MiOx1kOhxO6Xp4CI_5y2G_wMJ9HNu",
+    "https://downloadwella.com/ykipq4s1hbj9/Oh.My.Ladylord.S01E06.(NKIRI.COM).vnofn.mkv.html": "https://v1.vidfiles.com/d/LFrAuJJ1RFAfTSXCzwOn4eo4Xy43juEb"
   }
 }
