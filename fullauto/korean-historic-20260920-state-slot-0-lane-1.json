@@ -791,6 +791,13 @@
       "signature": "41887|https://thenkiri.com/the-liar-and-his-lover-s01-complete-korean-drama/|2022-05-12T17:28:03|2023-09-02T13:54:52|{'rendered': 'The Liar and His Lover S01 (Complete) | Korean Drama'}",
       "modified": "2023-09-02T13:54:52",
       "completed_at": 1789938622
+    },
+    "https://thenkiri.com/i-have-not-done-my-best-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "41249|https://thenkiri.com/i-have-not-done-my-best-s01-episode-1-added-korean-drama/|2022-05-03T11:11:39|2023-09-02T13:53:33|{'rendered': 'I Have Not Done My Best S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:53:33",
+      "skipped_at": 1789938770,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
