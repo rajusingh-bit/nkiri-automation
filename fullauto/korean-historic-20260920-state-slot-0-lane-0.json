@@ -904,6 +904,13 @@
       "signature": "30910|https://thenkiri.com/you-raise-me-up-complete-korean-drama/|2021-10-21T09:30:53|2023-09-02T10:50:51|{'rendered': 'You Raise Me Up (Complete) | Korean Drama'}",
       "modified": "2023-09-02T10:50:51",
       "completed_at": 1789945305
+    },
+    "https://thenkiri.com/warm-and-cozy-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "30438|https://thenkiri.com/warm-and-cozy-complete-korean-drama/|2021-10-12T11:46:37|2023-09-02T10:05:12|{'rendered': 'Warm and Cozy (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T10:05:12",
+      "skipped_at": 1789945480,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
