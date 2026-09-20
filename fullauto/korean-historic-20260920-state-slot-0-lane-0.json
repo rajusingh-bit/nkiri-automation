@@ -768,6 +768,13 @@
       "signature": "44129|https://thenkiri.com/jinxed-at-first-s01-episode-1-added-korean-drama/|2022-06-15T17:14:24|2024-02-23T15:14:02|{'rendered': 'Jinxed At First S01 (Complete) | Korean Drama'}",
       "modified": "2024-02-23T15:14:02",
       "completed_at": 1789942127
+    },
+    "https://thenkiri.com/why-her-s01-episode-1-added-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "43487|https://thenkiri.com/why-her-s01-episode-1-added-korean-drama/|2022-06-03T17:52:43|2023-09-02T14:04:54|{'rendered': 'Why Her S01 (Episode 16 Added) | Korean Drama'}",
+      "modified": "2023-09-02T14:04:54",
+      "skipped_at": 1789942183,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
