@@ -828,6 +828,13 @@
       "modified": "2023-09-02T13:12:45",
       "skipped_at": 1789943949,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/juvenile-justice-s01-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "37163|https://thenkiri.com/juvenile-justice-s01-complete-korean-drama/|2022-02-26T07:39:01|2023-09-02T13:04:57|{'rendered': 'Juvenile Justice S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:04:57",
+      "skipped_at": 1789944060,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
