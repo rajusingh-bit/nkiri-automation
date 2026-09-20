@@ -856,6 +856,13 @@
       "modified": "2023-09-02T13:25:27",
       "skipped_at": 1789944325,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/her-bucket-list-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "34235|https://thenkiri.com/her-bucket-list-complete-korean-drama/|2022-01-01T12:02:13|2023-09-02T13:19:08|{'rendered': 'Her Bucket List (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:19:08",
+      "skipped_at": 1789944397,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
