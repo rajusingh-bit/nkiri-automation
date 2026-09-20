@@ -1012,6 +1012,13 @@
       "modified": "2023-09-02T08:29:19",
       "skipped_at": 1789943802,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/welcome-to-waikiki-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9795|https://thenkiri.com/welcome-to-waikiki-korean-drama/|2020-12-17T05:29:56|2023-09-02T08:26:09|{'rendered': 'Welcome to Waikiki S01 ( Complete) | Korean Drama'}",
+      "modified": "2023-09-02T08:26:09",
+      "skipped_at": 1789943837,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
