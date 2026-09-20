@@ -814,6 +814,13 @@
       "modified": "2023-09-02T13:36:53",
       "skipped_at": 1789943468,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/49-days-complete-korean-drama/": {
+      "status": "partial",
+      "signature": "38358|https://thenkiri.com/49-days-complete-korean-drama/|2022-03-21T16:30:17|2023-09-02T13:14:16|{'rendered': '49 Days S01 (Complete) | Korean Drama'}",
+      "modified": "2023-09-02T13:14:16",
+      "completed_at": 1789943749,
+      "reason": "one or more source links were unavailable"
     }
   },
   "series_links": {
@@ -1225,6 +1232,7 @@
     "https://downloadwella.com/5l1d1m6laq6b/Moment.of.Eighteen.S01E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/uzJZhDDzU9CcaMN0SnwL6sArUw3P6Uff",
     "https://downloadwella.com/wczl032ev5s9/Moment.of.Eighteen.S01E14.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/y4PoEidCGwCn2bK0bpSWHyERgOkegBFS",
     "https://downloadwella.com/eztp00ei3z6h/Moment.of.Eighteen.S01E15.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/_6mauhc-LDtoZAEXPS44iIl9Vsl84mJF",
-    "https://downloadwella.com/bi3ldt4w2lv1/Moment.of.Eighteen.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MrtioyCUAze3PYRVQ6U7x8IGGB_CuqnX"
+    "https://downloadwella.com/bi3ldt4w2lv1/Moment.of.Eighteen.S01E16.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/MrtioyCUAze3PYRVQ6U7x8IGGB_CuqnX",
+    "https://downloadwella.com/wx1jg6p4k21c/49.Days.E13.(NKIRI.COM).mkv.html": "https://v1.vidfiles.com/d/wzakvJ-JnuUwO1YjEkLlPXY3XTRIRYEH"
   }
 }
