@@ -1004,6 +1004,13 @@
       "modified": "2023-09-02T08:28:07",
       "skipped_at": 1789948787,
       "reason": "no usable downloadable source link"
+    },
+    "https://thenkiri.com/18-again-complete-korean-drama/": {
+      "status": "skipped_unavailable",
+      "signature": "9596|https://thenkiri.com/18-again-complete-korean-drama/|2020-12-02T09:28:16|2026-06-16T09:37:17|{'rendered': '18 Again (Complete) | Korean Drama'}",
+      "modified": "2026-06-16T09:37:17",
+      "skipped_at": 1789948822,
+      "reason": "no usable downloadable source link"
     }
   },
   "series_links": {
